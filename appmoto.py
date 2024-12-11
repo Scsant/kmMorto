@@ -22,13 +22,14 @@ def salvar_dados(dados):
         json.dump(dados, file, indent=4, ensure_ascii=False)
 
 # Função para adicionar um novo registro
-def adicionar_registro(data, btf, frota, distancia, motivo):
+def adicionar_registro(data, nome, btf, frota, distancia, motivo):
     # Carregar os dados existentes
     dados = carregar_dados()
     
     # Adicionar o novo registro
     dados.append({
         "Data": data.strftime("%d/%m/%Y"),  # Salvar no formato brasileiro
+        "Nome": nome,
         "BTF": btf,
         "Frota": str(frota),
         "Distância": distancia,
@@ -63,6 +64,7 @@ st.title("Registro de KM Morto")
 with st.form("form_km_morto"):
     st.subheader("Inserir Registro de KM Morto")
     data = st.date_input("Data")  # Input de data (retorna um objeto datetime.date)
+    nome = st.text_input("Nome")
     btf = st.number_input("BTF", min_value=0, step=1)
     frota = st.number_input("Frota", min_value=0, step=1)
     distancia = st.number_input("Distância (KM)", min_value=0.0, format="%.1f", step=0.1)
@@ -71,7 +73,7 @@ with st.form("form_km_morto"):
 
     if submit:
         if motivo:
-            adicionar_registro(data, btf, frota, distancia, motivo)
+            adicionar_registro(data, nome, btf, frota, distancia, motivo)
             st.success(f"Registro salvo com sucesso! Data: {data.strftime('%d/%m/%Y')}")
         else:
             st.error("Por favor, preencha o motivo.")
