@@ -2,206 +2,160 @@ import streamlit as st
 import pandas as pd
 import os
 import json
-import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 import hashlib
 from io import BytesIO
-import sendgrid
-from sendgrid.helpers.mail import Mail
-import os
-from dotenv import load_dotenv
-import os
-import sendgrid
-from sendgrid.helpers.mail import Mail
+from openpyxl import Workbook
 
-# Carregar o arquivo .env
-load_dotenv("moto.env")
-
-# Obter a chave de API
-api_key = os.getenv("SENDGRID_API_KEY")
-
-# Verificar a chave
-if not api_key:
-    raise ValueError("Chave de API do SendGrid não encontrada.")
-
-
-
-
-# Nome do arquivo JSON (salvo no mesmo diretório do projeto)
+# Nome do arquivo JSON
 arquivo_json = os.path.join(os.path.dirname(__file__), "dados.json")
 
-# Função para carregar os dados do JSON
+# Função para carregar os dados
 def carregar_dados():
     if os.path.exists(arquivo_json):
         with open(arquivo_json, "r", encoding="utf-8") as file:
             return json.load(file)
-    else:
-        # Criar o arquivo JSON vazio na primeira execução
-        with open(arquivo_json, "w", encoding="utf-8") as file:
-            json.dump([], file, indent=4, ensure_ascii=False)
-        return []
+    return []
 
-# Função para salvar os dados no JSON
+# Função para salvar os dados
 def salvar_dados(dados):
     with open(arquivo_json, "w", encoding="utf-8") as file:
         json.dump(dados, file, indent=4, ensure_ascii=False)
 
-
-def enviar_email(dados):
-    sg = sendgrid.SendGridAPIClient(api_key=api_key)
-    mensagem = Mail(
-        from_email="scsantos492@gmail.com",  # Substitua pelo seu email
-        to_emails="scsantos492@gmail.com",  # Email de destino
-        subject="Novo Apontamento de KM Morto",
-        plain_text_content=f"""
-        Novo apontamento registrado:
-        - Data: {dados['Data']}
-        - Nome:{dados['Nome']}
-        - BTF: {dados['BTF']}
-        - Frota: {dados['Frota']}
-        - Distância: {dados['Distância']} KM
-        - Local Macro: {dados['Local Macro']}
-        - Motivo: {dados['Motivo']} 
-        """
-    )
-    try:
-        response = sg.send(mensagem)
-        st.success(f"Email enviado com sucesso! Status: {response.status_code}")
-    except Exception as e:
-        st.error(f"Erro ao enviar email: {e}")
-
-
-# Função para adicionar um novo registro
-def adicionar_registro(data, nome, btf, frota, distancia, local_macro, motivo):
-    # Carregar os dados existentes
+# Função para verificar duplicatas
+def verificar_duplicata(novo_registro):
     dados = carregar_dados()
-    
-    # Adicionar o novo registro
-    novo_registro = {
-        "Data": data.strftime("%d/%m/%Y"),  # Salvar no formato brasileiro
-        "Nome": nome,
-        "BTF": btf,
-        "Frota": str(frota),
-        "Distância": distancia,
-        "Motivo": motivo,
-        "Local Macro": local_macro
-        
-    }
-    dados.append(novo_registro)
-    
-    # Salvar os dados no JSON
-    salvar_dados(dados)
-    
-    # Enviar email com os dados do novo registro
-    enviar_email(novo_registro)
-
-# Função para converter os dados para DataFrame
-def dados_para_dataframe():
-    dados = carregar_dados()
-    df = pd.DataFrame(dados)
-    
-    # Adicionar coluna "Excluir" para checkbox, se não existir
-    if not "Excluir" in df.columns:
-        df["Excluir"] = False
-    return df
+    for registro in dados:
+        if registro == novo_registro:  # Comparar registros completos
+            return True
+    return False
 
 # Função para verificar senha
 def verificar_senha(senha_input, senha_armazenada):
     senha_hash = hashlib.sha256(senha_input.encode()).hexdigest()
     return senha_hash == senha_armazenada
 
-# Senha dos analistas (armazenada como hash SHA-256)
+# Inicialização das chaves no session_state
+if "limpar_form" not in st.session_state:
+    st.session_state.limpar_form = False
+
+# Senha dos analistas
 senha_armazenada = hashlib.sha256("analista123".encode()).hexdigest()  # Senha: analista123
 
-# Página principal do Streamlit
-st.title("Registro de KM Morto")
+# Formulário principal
+st.subheader("Inserir Registro de KM Morto")
 
-# Formulário para motoristas
-with st.form("form_km_morto"):
-    st.subheader("Inserir Registro de KM Morto")
-    data = st.date_input("Data")  # Input de data (retorna um objeto datetime.date)
-    nome = st.text_input("Nome")
-    btf = st.number_input("BTF", min_value=0, step=1)
-    frota = st.number_input("Frota", min_value=0, step=1)
-    distancia = st.number_input("Distância (KM)", min_value=0.0, format="%.1f", step=0.1)
-    # Lista suspensa para "Local Macro"
-    local_macro = st.selectbox(
-        "Local Macro",
-        options=[
-            "Nenhum",
-            "Automotiva 1",
-            "Oficina Terceiro",
-            "Automotiva 2",
-            "Pátio",
-            "OT L1",
-            "OT L2",
-            "Teste Prático",
-            "Socorro(Guincho)"
-        ],
-        index=0  # Seleciona "Nenhum" como valor padrão
-    )
-    motivo = st.text_area("Motivo")
+# Resetar os valores ao clicar em "Novo Registro"
+if st.session_state.limpar_form:
+    st.session_state.data = datetime.today()
+    st.session_state.nome = ""
+    st.session_state.btf = 0
+    st.session_state.frota = 0
+    st.session_state.distancia = 0.0
+    st.session_state.local_macro = "Nenhum"
+    st.session_state.motivo = ""
+    st.session_state.limpar_form = False
 
-    submit = st.form_submit_button("Salvar")
+# Definir valores padrão nos campos usando session_state
+data = st.date_input("Data", key="data", value=st.session_state.get("data", datetime.today()))
+nome = st.text_input("Nome", key="nome", value=st.session_state.get("nome", ""))
+btf = st.number_input("BTF", min_value=0, step=1, key="btf", value=st.session_state.get("btf", 0))
+frota = st.number_input("Frota", min_value=0, step=1, key="frota", value=st.session_state.get("frota", 0))
+distancia = st.number_input("Distância (KM)", min_value=0.0, step=0.1, key="distancia", value=st.session_state.get("distancia", 0.0))
+local_macro = st.selectbox(
+    "Local Macro",
+    ["Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)"],
+    key="local_macro",
+    index=["Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)"].index(st.session_state.get("local_macro", "Nenhum"))
+)
+motivo = st.text_area("Motivo", key="motivo", value=st.session_state.get("motivo", ""))
 
-    if submit:
-        if motivo:
-            adicionar_registro(data, nome, btf, frota, distancia, local_macro, motivo)
-            st.success(f"Registro salvo com sucesso! Data: {data.strftime('%d/%m/%Y')}")
-        else:
-            st.error("Por favor, preencha o motivo.")
-# Área restrita para analistas
+# Botões
+col1, col2 = st.columns(2)
+salvar = col1.button("Salvar")
+novo_registro = col2.button("Novo Registro")
+
+if salvar:
+    registro = {
+        "Data": data.strftime("%d/%m/%Y"),
+        "Nome": nome,
+        "BTF": btf,
+        "Frota": frota,
+        "Distância": distancia,
+        "Local Macro": local_macro,
+        "Motivo": motivo
+    }
+    if verificar_duplicata(registro):
+        st.warning("Erro: Registro duplicado!")
+    else:
+        salvar_dados(carregar_dados() + [registro])
+        st.success("Registro salvo com sucesso!")
+
+if novo_registro:
+    st.session_state.limpar_form = True
+    st.rerun()
+
+
+# Área Restrita dos Analistas
 st.subheader("Área Restrita para Analistas")
 
-# Campo de senha
 senha_input = st.text_input("Digite a senha para acessar a área de analistas", type="password")
-
-if senha_input:
+if st.button("Verificar Senha"):
     if verificar_senha(senha_input, senha_armazenada):
+        st.session_state.senha_autorizada = True
         st.success("Acesso autorizado!")
+    else:
+        st.error("Senha incorreta!")
 
-        # Carregar os dados para exibição
-        df = dados_para_dataframe()
+if st.session_state.get("senha_autorizada", False):
+    st.subheader("Gerenciar Registros")
 
-        if not df.empty:
-            # Exibir os dados em um editor para os analistas
-            st.subheader("Editar ou Excluir Registros")
-            st.write("Selecione as linhas que deseja excluir marcando os checkboxes abaixo.")
+    # Carregar dados no DataFrame
+    df = pd.DataFrame(carregar_dados())
+    if not df.empty:
+        if "Excluir" not in df.columns:
+            df["Excluir"] = False  # Adiciona coluna Excluir se não existir
 
-            # Usar st.data_editor para permitir edição de checkbox
-            df_editado = st.data_editor(
-                df,
-                column_config={
-                    "Excluir": st.column_config.CheckboxColumn("Excluir"),  # Configuração para checkbox
-                },
-                use_container_width=True,
-            )
+        # Checkbox "Selecionar Todos"
+        selecionar_todos = st.checkbox("Selecionar Todos para Exclusão")
 
-            # Botão de exclusão
-            if st.button("Excluir Selecionados"):
-                # Filtrar os dados para manter apenas os registros não marcados para exclusão
+        # Atualizar coluna "Excluir" com base no checkbox principal
+        if selecionar_todos:
+            df["Excluir"] = True
+        else:
+            df["Excluir"] = False  # Resetar para False se desmarcado
+
+        # Editor de dados
+        df_editado = st.data_editor(
+            df,
+            column_config={"Excluir": st.column_config.CheckboxColumn("Excluir")},
+            use_container_width=True
+        )
+
+        # Botão para Excluir Selecionados
+        if st.button("Excluir Selecionados"):
+            registros_excluir = df_editado[df_editado["Excluir"] == True]
+            if not registros_excluir.empty:
                 df_filtrado = df_editado[~df_editado["Excluir"]].drop(columns=["Excluir"])
-
-                # Salvar os dados atualizados no JSON
                 salvar_dados(df_filtrado.to_dict(orient="records"))
                 st.success("Registros excluídos com sucesso!")
-                df = df_filtrado  # Atualizar a tabela exibida
-
-            # Botão para baixar os registros como Excel
-            st.subheader("Baixar Dados")
-            buffer = BytesIO()
-            df.drop(columns=["Excluir"], errors="ignore").to_excel(buffer, index=False, engine="openpyxl")
-            buffer.seek(0)
-
-            st.download_button(
-                label="Baixar Registros em Excel",
-                data=buffer,
-                file_name="registros_km_morto.xlsx",
-                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            )
-        else:
-            st.warning("Nenhum registro encontrado ainda.")
+                st.rerun()
+            else:
+                st.warning("Nenhum registro foi selecionado para exclusão.")
     else:
-        st.error("Senha incorreta.")
+        st.warning("Nenhum registro disponível.")
+
+        
+        # Botão para baixar dados
+    if not df.drop(columns=["Excluir"], errors="ignore").empty:
+        buffer = BytesIO()
+        df.drop(columns=["Excluir"], errors="ignore").to_excel(buffer, index=False, engine="openpyxl")
+        buffer.seek(0)
+        st.download_button(
+            label="Baixar Registros em Excel",
+            data=buffer,
+            file_name="registros_km_morto.xlsx",
+            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        )
+    else:
+        st.warning("Nenhum dado disponível para download.")
