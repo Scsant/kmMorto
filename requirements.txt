@@ -1,4 +1,7 @@
 streamlit
 pandas
 openpyxl
+PyGithub
+python-dotenv
+
 

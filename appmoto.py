@@ -6,21 +6,100 @@ from datetime import datetime
 import hashlib
 from io import BytesIO
 from openpyxl import Workbook
+from github import Github
+from dotenv import load_dotenv
 
-# Nome do arquivo JSON
-arquivo_json = os.path.join(os.path.dirname(__file__), "dados.json")
 
-# Função para carregar os dados
+st.markdown(
+    """
+    <style>
+        .header-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(180deg, #623B20, #2F4F4F);
+        }
+        .header-container img {
+            max-width: 200px; /* Tamanho da imagem */
+            margin-right: 10px; /* Espaçamento ao lado da imagem */
+        }
+        .header-container h1 {
+            color: black; /* Cor do texto */
+            font-size: 30px;
+        }
+        /* Alterar a cor de todos os rótulos */
+        div[data-testid="stForm"] label,
+        div[data-baseweb="block"] label {
+            color: #ffffff !important; /* Cor branca para contraste */
+            font-weight: bold; /* Negrito opcional */
+        }
+
+        /* Estilizar botões */
+        button {
+            background-color: #ffffff !important;
+            color: #333333 !important;
+            border: 1px solid #333333 !important;
+            border-radius: 5px !important;
+        }
+
+        /* Fundo da aplicação */
+        .stApp {
+            background: linear-gradient(180deg, #623B20, #2F4F4F);
+            color: #ffffff; /* Texto em branco para contraste */
+        }
+        
+        /* Campos de entrada */
+        input, textarea, select {
+            background-color: #333333 !important;
+            color: #ffffff !important;
+        }
+    </style>
+    <div class="header-container">
+        <img src="https://raw.githubusercontent.com/Scsant/vale-pedagio-app/9a8cbe3dddcdadf284f1281fd864bb84097fcb31/Bracell_logo.png" alt="Logo">
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
+# Conteúdo da página
+st.write("Logística Florestal")
+
+
+
+# Carregar variáveis do arquivo .env
+load_dotenv()
+
+# Token do GitHub
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+REPO_NAME = "Scsant/kmMorto"  # Nome do repositório
+
+# Inicializar PyGithub
+g = Github(GITHUB_TOKEN)
+repo = g.get_repo(REPO_NAME)
+
+# Função para carregar os dados do GitHub
 def carregar_dados():
-    if os.path.exists(arquivo_json):
-        with open(arquivo_json, "r", encoding="utf-8") as file:
-            return json.load(file)
-    return []
+    try:
+        content = repo.get_contents("dados.json")
+        return json.loads(content.decoded_content.decode("utf-8"))
+    except:
+        return []
 
-# Função para salvar os dados
+# Função para salvar os dados no GitHub
 def salvar_dados(dados):
-    with open(arquivo_json, "w", encoding="utf-8") as file:
-        json.dump(dados, file, indent=4, ensure_ascii=False)
+    try:
+        content = repo.get_contents("dados.json")
+        repo.update_file(content.path, "Atualizando registros", json.dumps(dados, indent=4, ensure_ascii=False), content.sha)
+    except:
+        repo.create_file("dados.json", "Criando arquivo de registros", json.dumps(dados, indent=4, ensure_ascii=False))
+
+# Função para excluir registros no GitHub
+def excluir_registros():
+    try:
+        repo.delete_file("dados.json", "Excluindo registros", repo.get_contents("dados.json").sha)
+        st.success("Todos os registros foram excluídos do GitHub!")
+    except Exception as e:
+        st.error(f"Erro ao excluir os registros: {e}")
 
 # Função para verificar duplicatas
 def verificar_duplicata(novo_registro):
@@ -64,9 +143,9 @@ frota = st.number_input("Frota", min_value=0, step=1, key="frota", value=st.sess
 distancia = st.number_input("Distância (KM)", min_value=0.0, step=0.1, key="distancia", value=st.session_state.get("distancia", 0.0))
 local_macro = st.selectbox(
     "Local Macro",
-    ["Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)"],
+    ["Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)", "Desvio de Fazenda"],
     key="local_macro",
-    index=["Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)"].index(st.session_state.get("local_macro", "Nenhum"))
+    index=["Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)", "Desvio de Fazenda"].index(st.session_state.get("local_macro", "Nenhum"))
 )
 motivo = st.text_area("Motivo", key="motivo", value=st.session_state.get("motivo", ""))
 
@@ -95,7 +174,6 @@ if novo_registro:
     st.session_state.limpar_form = True
     st.rerun()
 
-
 # Área Restrita dos Analistas
 st.subheader("Área Restrita para Analistas")
 
@@ -114,16 +192,10 @@ if st.session_state.get("senha_autorizada", False):
     df = pd.DataFrame(carregar_dados())
     if not df.empty:
         if "Excluir" not in df.columns:
-            df["Excluir"] = False  # Adiciona coluna Excluir se não existir
+            df["Excluir"] = False
 
-        # Checkbox "Selecionar Todos"
         selecionar_todos = st.checkbox("Selecionar Todos para Exclusão")
-
-        # Atualizar coluna "Excluir" com base no checkbox principal
-        if selecionar_todos:
-            df["Excluir"] = True
-        else:
-            df["Excluir"] = False  # Resetar para False se desmarcado
+        df["Excluir"] = selecionar_todos
 
         # Editor de dados
         df_editado = st.data_editor(
@@ -134,28 +206,24 @@ if st.session_state.get("senha_autorizada", False):
 
         # Botão para Excluir Selecionados
         if st.button("Excluir Selecionados"):
-            registros_excluir = df_editado[df_editado["Excluir"] == True]
+            registros_excluir = df_editado[df_editado["Excluir"]]
             if not registros_excluir.empty:
-                df_filtrado = df_editado[~df_editado["Excluir"]].drop(columns=["Excluir"])
-                salvar_dados(df_filtrado.to_dict(orient="records"))
-                st.success("Registros excluídos com sucesso!")
+                excluir_registros()  # Limpa o arquivo no GitHub
+                st.success("Todos os registros foram excluídos com sucesso no GitHub!")
                 st.rerun()
             else:
                 st.warning("Nenhum registro foi selecionado para exclusão.")
+
+        # Botão para baixar dados
+        if not df.drop(columns=["Excluir"], errors="ignore").empty:
+            buffer = BytesIO()
+            df.drop(columns=["Excluir"], errors="ignore").to_excel(buffer, index=False, engine="openpyxl")
+            buffer.seek(0)
+            st.download_button(
+                label="Baixar Registros em Excel",
+                data=buffer,
+                file_name="registros_km_morto.xlsx",
+                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            )
     else:
         st.warning("Nenhum registro disponível.")
-
-        
-        # Botão para baixar dados
-    if not df.drop(columns=["Excluir"], errors="ignore").empty:
-        buffer = BytesIO()
-        df.drop(columns=["Excluir"], errors="ignore").to_excel(buffer, index=False, engine="openpyxl")
-        buffer.seek(0)
-        st.download_button(
-            label="Baixar Registros em Excel",
-            data=buffer,
-            file_name="registros_km_morto.xlsx",
-            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-        )
-    else:
-        st.warning("Nenhum dado disponível para download.")
