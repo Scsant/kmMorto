@@ -79,5 +79,14 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção pneu "
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Pneu furado"
     }
 ]
