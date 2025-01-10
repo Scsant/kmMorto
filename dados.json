@@ -97,5 +97,14 @@
         "Distância": 1.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "TESTE"
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44016,
+        "Distância": 70.7,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Deslocamento do 44016 até o local do Socorro do 44048 que foi Guinchado. "
     }
 ]
