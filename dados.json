@@ -61,5 +61,14 @@
         "Distância": 6.8,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar carretas  para Preventiva "
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 157,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 1 > Skid > Automotiva 2 >Automotiva 1 >limha1"
     }
 ]
