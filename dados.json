@@ -43,5 +43,14 @@
         "Distância": 16.4,
         "Local Macro": "Automotiva 2",
         "Motivo": "Buscar Conjunto  liberado "
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Fabio",
+        "BTF": 1,
+        "Frota": 44061,
+        "Distância": 6.5,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levar vm pata  Corretiva "
     }
 ]
