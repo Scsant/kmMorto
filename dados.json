@@ -1,0 +1,20 @@
+[
+    {
+        "Data": "09/01/2025",
+        "Nome": "socrates ",
+        "BTF": 11,
+        "Frota": 11,
+        "Distância": 11.0,
+        "Local Macro": "OT L1",
+        "Motivo": "1eeddd"
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "socrates ",
+        "BTF": 9,
+        "Frota": 14,
+        "Distância": 11.699999999999998,
+        "Local Macro": "OT L2",
+        "Motivo": "1eeddd"
+    }
+]
