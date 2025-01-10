@@ -70,5 +70,14 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Linha 1 > Skid > Automotiva 2 >Automotiva 1 >limha1"
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção pneu "
     }
 ]
