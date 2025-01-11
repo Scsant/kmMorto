@@ -124,5 +124,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Saiu da linha 1 para buscar uma carreta na oficina 1 e levar para oficina 2"
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44048,
+        "Distância": 172.47,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "44048 entrou em Socorro e teve que ser guinchado."
     }
 ]
