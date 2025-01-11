@@ -160,5 +160,14 @@
         "Distância": 10.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "levar CT manutenção terceiros , ferrari "
+    },
+    {
+        "Data": "30/12/2024",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44091,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção retorno retirar CTM"
     }
 ]
