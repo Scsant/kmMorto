@@ -367,5 +367,14 @@
         "Distância": 5.3,
         "Local Macro": "Automotiva 2",
         "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44024,
+        "Distância": 172.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da fazenda 3 sinos para Santa Catarina "
     }
 ]
