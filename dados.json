@@ -376,5 +376,14 @@
         "Distância": 172.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio da fazenda 3 sinos para Santa Catarina "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44067,
+        "Distância": 172.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da fazenda 3 sinos para Santa Catarina "
     }
 ]
