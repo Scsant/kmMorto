@@ -196,5 +196,14 @@
         "Distância": 5.3,
         "Local Macro": "Automotiva 2",
         "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "30/12/2024",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44100,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar CT para manutenção retorno para reitirar CTM"
     }
 ]
