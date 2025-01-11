@@ -466,5 +466,14 @@
         "Distância": 12.2,
         "Local Macro": "Automotiva 2",
         "Motivo": "Troca de carreta Ferrari e corretiva "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44183,
+        "Distância": 7.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "AUTOMOTIVA1 POSTO LINHA 1"
     }
 ]
