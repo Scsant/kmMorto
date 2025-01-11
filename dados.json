@@ -430,5 +430,14 @@
         "Distância": 5.3,
         "Local Macro": "Automotiva 2",
         "Motivo": "manutençÃO CAVALO"
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 51.2,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Troca de Fazenda São Paulo para Bom Jesus "
     }
 ]
