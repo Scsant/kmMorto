@@ -457,5 +457,14 @@
         "Distância": 51.2,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "São Paulo para Bom Jesus "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44209,
+        "Distância": 12.2,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Troca de carreta Ferrari e corretiva "
     }
 ]
