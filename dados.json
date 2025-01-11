@@ -115,5 +115,14 @@
         "Distância": 47.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Vazamento de óleo de motor crítico, retornando para fazer lavagem no motor "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44182,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saiu da linha 1 para buscar uma carreta na oficina 1 e levar para oficina 2"
     }
 ]
