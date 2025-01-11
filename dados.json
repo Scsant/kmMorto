@@ -106,5 +106,14 @@
         "Distância": 70.7,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Deslocamento do 44016 até o local do Socorro do 44048 que foi Guinchado. "
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44029,
+        "Distância": 47.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Vazamento de óleo de motor crítico, retornando para fazer lavagem no motor "
     }
 ]
