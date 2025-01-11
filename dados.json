@@ -133,5 +133,14 @@
         "Distância": 172.47,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "44048 entrou em Socorro e teve que ser guinchado."
+    },
+    {
+        "Data": "30/12/2024",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
     }
 ]
