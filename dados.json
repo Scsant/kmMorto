@@ -493,5 +493,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Linha 2 automotiva 1 linha 1 pegar nota "
+    },
+    {
+        "Data": "12/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44183,
+        "Distância": 51.2,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo para Bom Jesus "
     }
 ]
