@@ -1,4 +1,5 @@
 [theme]
+base = "dark"
 primaryColor = "#1F77B4"  # Altere para a cor desejada
 backgroundColor = "transparent"  # Permitirá aplicar gradiente
 secondaryBackgroundColor = "#262730"
