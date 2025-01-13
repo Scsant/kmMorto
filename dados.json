@@ -511,5 +511,14 @@
         "Distância": 51.2,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "São Paulo para Bom Jesus "
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 60.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi para recar "
     }
 ]
