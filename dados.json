@@ -529,5 +529,14 @@
         "Distância": 60.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Wlm scania "
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Elder ",
+        "BTF": 2,
+        "Frota": 44028,
+        "Distância": 6.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Cm descarregou na linha 2 desengatou na na linha 1 e seguiu para automotiva"
     }
 ]
