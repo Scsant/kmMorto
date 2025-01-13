@@ -547,5 +547,14 @@
         "Distância": 6.0,
         "Local Macro": "Pátio",
         "Motivo": "Cm descarregou na linha 2 desengatou na na linha 1 e seguiu para automotiva"
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44175,
+        "Distância": 12.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Cm foi engatar para fazer vistoria na carreta!"
     }
 ]
