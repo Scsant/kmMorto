@@ -520,5 +520,14 @@
         "Distância": 60.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Foi para recar "
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44051,
+        "Distância": 60.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Wlm scania "
     }
 ]
