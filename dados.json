@@ -583,5 +583,14 @@
         "Distância": 7.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Skid fixar o paralama "
+    },
+    {
+        "Data": "12/01/2025",
+        "Nome": "Arthur",
+        "BTF": 1,
+        "Frota": 44045,
+        "Distância": 5.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Skid fixar o paralama e parabarro"
     }
 ]
