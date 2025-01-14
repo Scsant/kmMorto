@@ -1,0 +1,578 @@
+[
+    {
+        "Data": "09/01/2025",
+        "Nome": "socrates ",
+        "BTF": 11,
+        "Frota": 11,
+        "Distância": 11.0,
+        "Local Macro": "OT L1",
+        "Motivo": "1eeddd"
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "socrates ",
+        "BTF": 9,
+        "Frota": 14,
+        "Distância": 11.699999999999998,
+        "Local Macro": "OT L2",
+        "Motivo": "1eeddd"
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "socrates ",
+        "BTF": 10,
+        "Frota": 44012,
+        "Distância": 118.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "wwwwww"
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 44113,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "CM levou carreta para a manutenção ofina 02 e retornou para Automotiva "
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Givanildo",
+        "BTF": 1,
+        "Frota": 44045,
+        "Distância": 16.4,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Buscar Conjunto  liberado "
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Fabio",
+        "BTF": 1,
+        "Frota": 44061,
+        "Distância": 6.5,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levar vm pata  Corretiva "
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Diogenes ",
+        "BTF": 1,
+        "Frota": 44006,
+        "Distância": 6.8,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levar carretas  para Preventiva "
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 157,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 1 > Skid > Automotiva 2 >Automotiva 1 >limha1"
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção pneu "
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Pneu furado"
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "TESTE",
+        "BTF": 2,
+        "Frota": 2,
+        "Distância": 1.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "TESTE"
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44016,
+        "Distância": 70.7,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Deslocamento do 44016 até o local do Socorro do 44048 que foi Guinchado. "
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44029,
+        "Distância": 47.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Vazamento de óleo de motor crítico, retornando para fazer lavagem no motor "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44182,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saiu da linha 1 para buscar uma carreta na oficina 1 e levar para oficina 2"
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44048,
+        "Distância": 172.47,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "44048 entrou em Socorro e teve que ser guinchado."
+    },
+    {
+        "Data": "30/12/2024",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "29/12/2024",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44100,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutençao retorno para retirar CTM"
+    },
+    {
+        "Data": "29/12/2024",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 10.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar CT manutenção terceiros , ferrari "
+    },
+    {
+        "Data": "30/12/2024",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44091,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção retorno retirar CTM"
+    },
+    {
+        "Data": "30/12/2024",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44092,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar CT para manutenção retorno para retirar ctm"
+    },
+    {
+        "Data": "31/12/2024",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "31/12/2024",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "30/12/2024",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44100,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar CT para manutenção retorno para reitirar CTM"
+    },
+    {
+        "Data": "31/12/2024",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manuteção retorno para retirar CTM"
+    },
+    {
+        "Data": "01/01/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "01/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44105,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar CT para manutenção preventiva  "
+    },
+    {
+        "Data": "02/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "02/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar ct para preventiva (ferrari)"
+    },
+    {
+        "Data": "03/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "05/01/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44100,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "05/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "05/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "05/01/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44104,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "05/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "05/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "05/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44092,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "05/01/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 5.3,
+        "Local Macro": "Nenhum",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "06/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "Alex  Mendes",
+        "BTF": 4,
+        "Frota": 44072,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "09/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44074,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44024,
+        "Distância": 172.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da fazenda 3 sinos para Santa Catarina "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44067,
+        "Distância": 172.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da fazenda 3 sinos para Santa Catarina "
+    },
+    {
+        "Data": "10/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44091,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Ales Mendes",
+        "BTF": 4,
+        "Frota": 44074,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção retorno para retirar CTM"
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar CT manutençao terceiro(ferrari)"
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44095,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "manutençÃO CAVALO"
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 51.2,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Troca de Fazenda São Paulo para Bom Jesus "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44212,
+        "Distância": 51.2,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda São Paulo para Bom Jesus "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44201,
+        "Distância": 51.2,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo para Bom Jesus "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44209,
+        "Distância": 12.2,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Troca de carreta Ferrari e corretiva "
+    },
+    {
+        "Data": "11/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44183,
+        "Distância": 7.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "AUTOMOTIVA1 POSTO LINHA 1"
+    },
+    {
+        "Data": "12/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44209,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Linha 2 automotiva 2 linha 1 pegar nota "
+    },
+    {
+        "Data": "12/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 2 automotiva 1 linha 1 pegar nota "
+    },
+    {
+        "Data": "12/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44183,
+        "Distância": 51.2,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo para Bom Jesus "
+    },
+    {
+        "Data": "12/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 51.2,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo para Bom Jesus "
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 60.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi para recar "
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44051,
+        "Distância": 60.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Wlm scania "
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Elder ",
+        "BTF": 2,
+        "Frota": 44028,
+        "Distância": 6.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Cm descarregou na linha 2 desengatou na na linha 1 e seguiu para automotiva"
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Elder ",
+        "BTF": 2,
+        "Frota": 44025,
+        "Distância": 6.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Cm descarregou na linha 2 desengatou na na linha 1 e seguiu para automotiva"
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44175,
+        "Distância": 12.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Cm foi engatar para fazer vistoria na carreta!"
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 6,
+        "Frota": 44192,
+        "Distância": 11.4,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levando CT's para manutenção "
+    },
+    {
+        "Data": "14/01/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44016,
+        "Distância": 83.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm vazou toda água do radiador"
+    }
+]
