@@ -628,5 +628,14 @@
         "Distância": 14.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção ct"
+    },
+    {
+        "Data": "12/01/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44049,
+        "Distância": 75.2,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Pane no câmbio "
     }
 ]
