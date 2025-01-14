@@ -637,5 +637,14 @@
         "Distância": 75.2,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Pane no câmbio "
+    },
+    {
+        "Data": "14/01/2025",
+        "Nome": "Bruno José Ravagio ",
+        "BTF": 6,
+        "Frota": 44176,
+        "Distância": 20.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Buscar prancha 53018 na oficina Gutierres, trazer para linha 1.\nLevar prancha 53002 da linha 1 para oficina Gutierres. "
     }
 ]
