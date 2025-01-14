@@ -574,5 +574,14 @@
         "Distância": 83.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm vazou toda água do radiador"
+    },
+    {
+        "Data": "14/01/2025",
+        "Nome": "Arthur",
+        "BTF": 1,
+        "Frota": 44036,
+        "Distância": 7.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Skid fixar o paralama "
     }
 ]
