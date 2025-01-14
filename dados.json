@@ -565,5 +565,14 @@
         "Distância": 11.4,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levando CT's para manutenção "
+    },
+    {
+        "Data": "14/01/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44016,
+        "Distância": 83.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm vazou toda água do radiador"
     }
 ]
