@@ -619,5 +619,14 @@
         "Distância": 22.3,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "CM foi utilizado para realizar manobra na carreta que estava na oficina terceiros:\n\n• Oficina Ferrari \n• Oficina Central Bracell \n• Pátio Linha 01 \n\nCarreta removida ( 44001 - BTF-03)\n"
+    },
+    {
+        "Data": "14/01/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção ct"
     }
 ]
