@@ -1,7 +1,7 @@
 [theme]
 base = "dark"
 primaryColor = "#1F77B4"  # Altere para a cor desejada
-backgroundColor = "transparent"  # Permitirá aplicar gradiente
+backgroundColor = "black"  # Permitirá aplicar gradiente
 secondaryBackgroundColor = "#262730"
 textColor = "#FFFFFF"
 font = "sans serif"
