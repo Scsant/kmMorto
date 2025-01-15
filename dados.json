@@ -664,5 +664,14 @@
         "Distância": 12.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": ""
+    },
+    {
+        "Data": "15/01/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 12.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": ""
     }
 ]
