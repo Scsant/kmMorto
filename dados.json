@@ -691,5 +691,14 @@
         "Distância": 402.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Cm saiu da Oficina Bracell para Quinta Roda Sumaré realizar manutenção Contabilizado ida e volta"
+    },
+    {
+        "Data": "16/01/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 44017,
+        "Distância": 100.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Liberação de motorista"
     }
 ]
