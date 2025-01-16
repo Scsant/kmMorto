@@ -835,5 +835,14 @@
         "Distância": 80.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desviado do projeto devido a chuva "
+    },
+    {
+        "Data": "16/01/2025",
+        "Nome": "Paulo Boaventura.",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 80.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desviado do projeto devido a chuva "
     }
 ]
