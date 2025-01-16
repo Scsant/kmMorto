@@ -871,5 +871,14 @@
         "Distância": 68.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Foi desviado do projeto devido a chuva "
+    },
+    {
+        "Data": "16/01/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44175,
+        "Distância": 17.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação de carretas."
     }
 ]
