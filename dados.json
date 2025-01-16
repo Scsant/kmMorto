@@ -709,5 +709,14 @@
         "Distância": 100.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Liberação de motoristas "
+    },
+    {
+        "Data": "16/01/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 125.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda  São Paulo Bloqueada mudança para Sossego 1"
     }
 ]
