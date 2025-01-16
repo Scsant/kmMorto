@@ -781,5 +781,14 @@
         "Distância": 20.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda  São Paulo Bloqueada mudança para Sossego 1"
+    },
+    {
+        "Data": "16/01/2025",
+        "Nome": "Paulo Boaventura.",
+        "BTF": 4,
+        "Frota": 44091,
+        "Distância": 150.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Foi desviado do projeto devido a chuva "
     }
 ]
