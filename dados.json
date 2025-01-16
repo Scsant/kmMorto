@@ -880,5 +880,14 @@
         "Distância": 17.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Movimentação de carretas."
+    },
+    {
+        "Data": "16/01/2025",
+        "Nome": "",
+        "BTF": 6,
+        "Frota": 44185,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar carreta 44021 da automotiva 2 para a automotiva 1."
     }
 ]
