@@ -700,5 +700,14 @@
         "Distância": 100.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Liberação de motorista"
+    },
+    {
+        "Data": "16/01/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 44017,
+        "Distância": 100.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Liberação de motoristas "
     }
 ]
