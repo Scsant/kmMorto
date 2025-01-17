@@ -1141,5 +1141,14 @@
         "Distância": 150.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "desvio fazenda  devido chuva "
+    },
+    {
+        "Data": "16/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44099,
+        "Distância": 150.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "desvio de fazenda devido chuva "
     }
 ]
