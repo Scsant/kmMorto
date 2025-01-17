@@ -1060,5 +1060,14 @@
         "Distância": 10.5,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "corretivas borracharia "
+    },
+    {
+        "Data": "14/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 44.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "saiu da concessionaria seguiu pra fabrica "
     }
 ]
