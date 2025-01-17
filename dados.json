@@ -1006,5 +1006,14 @@
         "Distância": 5.3,
         "Local Macro": "Automotiva 2",
         "Motivo": "levar Ct na manutenção volta retirar nota "
+    },
+    {
+        "Data": "13/01/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 4.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "manutenção oficina terceiro"
     }
 ]
