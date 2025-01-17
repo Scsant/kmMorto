@@ -1024,5 +1024,14 @@
         "Distância": 121.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "fez metade do trajeto da fazenda quebrou foi guinchado para concessionaria"
+    },
+    {
+        "Data": "12/01/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 92.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "apoio buscar carreta do 44075 que foi guincho"
     }
 ]
