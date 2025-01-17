@@ -898,5 +898,14 @@
         "Distância": 33.0,
         "Local Macro": "OT L1",
         "Motivo": "Levando carretas do BTF 1 da linha 1 para linha 2 fazer vistorias."
+    },
+    {
+        "Data": "17/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44209,
+        "Distância": 96.3,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Santa Helena para Primavera "
     }
 ]
