@@ -1186,5 +1186,14 @@
         "Distância": 67.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "desvio de fazenda devido chuva "
+    },
+    {
+        "Data": "17/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44202,
+        "Distância": 14.5,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Linha 1, Rossini, automotiva 1, linha 1,  automotiva1 "
     }
 ]
