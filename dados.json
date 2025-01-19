@@ -1249,5 +1249,14 @@
         "Distância": 62.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "CM precisou se deslocar da Oficina 1 para atendimento na Lapônia São Manoel "
+    },
+    {
+        "Data": "19/01/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44096,
+        "Distância": 113.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Perca de potência, problema turbina "
     }
 ]
