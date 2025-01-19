@@ -1267,5 +1267,14 @@
         "Distância": 33.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Laponia para Automotiva Bracell\nCM foi direcionado "
+    },
+    {
+        "Data": "19/01/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 44028,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Cm foi na automotiva e depois seguiu pra Automotiva 2"
     }
 ]
