@@ -1276,5 +1276,14 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Cm foi na automotiva e depois seguiu pra Automotiva 2"
+    },
+    {
+        "Data": "14/01/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44007,
+        "Distância": 52.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
