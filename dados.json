@@ -1321,5 +1321,14 @@
         "Distância": 12.5,
         "Local Macro": "Automotiva 2",
         "Motivo": "Linha 2, skid e automotiva2 linha 1"
+    },
+    {
+        "Data": "19/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 7.5,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 2, skid e automotiva1 linha 1"
     }
 ]
