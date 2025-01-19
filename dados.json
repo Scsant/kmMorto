@@ -1240,5 +1240,14 @@
         "Distância": 42.5,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Santa adelaide, Santa Helena "
+    },
+    {
+        "Data": "19/01/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 62.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "CM precisou se deslocar da Oficina 1 para atendimento na Lapônia São Manoel "
     }
 ]
