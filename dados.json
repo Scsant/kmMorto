@@ -1438,5 +1438,14 @@
         "Distância": 122.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM vazou toda água próximo ao pedágio de areiopolis"
+    },
+    {
+        "Data": "19/01/2025",
+        "Nome": "Francisco Antonio Franco",
+        "BTF": 5,
+        "Frota": 44096,
+        "Distância": 30.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm seguiu da Lapônia para automotiva de guincho, perca de potência/ problema na turbina"
     }
 ]
