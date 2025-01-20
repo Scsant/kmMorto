@@ -1366,5 +1366,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cm para manutenção "
+    },
+    {
+        "Data": "20/01/2025",
+        "Nome": "Elder Paulo",
+        "BTF": 1,
+        "Frota": 44113,
+        "Distância": 153.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm foi Guinchado da Faz Monjolão em Bofete para Lapônia em São Manoel e após seguir Bracell "
     }
 ]
