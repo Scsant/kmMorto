@@ -1429,5 +1429,14 @@
         "Distância": 3.0,
         "Local Macro": "Automotiva 1",
         "Motivo": ""
+    },
+    {
+        "Data": "20/01/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44022,
+        "Distância": 122.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM vazou toda água próximo ao pedágio de areiopolis"
     }
 ]
