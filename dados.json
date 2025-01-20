@@ -1357,5 +1357,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar CM para manutenção "
+    },
+    {
+        "Data": "20/01/2025",
+        "Nome": "44027 ",
+        "BTF": 1,
+        "Frota": 44027,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm para manutenção "
     }
 ]
