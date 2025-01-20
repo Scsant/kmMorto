@@ -1348,5 +1348,14 @@
         "Distância": 0.0,
         "Local Macro": "Nenhum",
         "Motivo": ""
+    },
+    {
+        "Data": "20/01/2025",
+        "Nome": "Adilson ",
+        "BTF": 1,
+        "Frota": 419,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levar CM para manutenção "
     }
 ]
