@@ -1411,5 +1411,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 2",
         "Motivo": ""
+    },
+    {
+        "Data": "20/01/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44109,
+        "Distância": 3.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": ""
     }
 ]
