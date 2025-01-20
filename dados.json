@@ -1339,5 +1339,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar carretas  para manutenção "
+    },
+    {
+        "Data": "20/01/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Nenhum",
+        "Motivo": ""
     }
 ]
