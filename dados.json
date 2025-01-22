@@ -1501,5 +1501,14 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levou carreta na Automotiva 1 para Preventiva e retornou até Linha 1 engatar outro conjunto para trabalho"
+    },
+    {
+        "Data": "22/01/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44115,
+        "Distância": 16.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levou carreta para Oficina Rossini e retornou com outra para Automotiva 1"
     }
 ]
