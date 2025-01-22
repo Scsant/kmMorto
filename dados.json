@@ -1465,5 +1465,14 @@
         "Distância": 64.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Laponia "
+    },
+    {
+        "Data": "22/01/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44152,
+        "Distância": 49.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi direcionado para Preventiva na Lapônia e em trajeto foi cancelado, vai ser realizado na Automotiva 1"
     }
 ]
