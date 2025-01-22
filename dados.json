@@ -1447,5 +1447,14 @@
         "Distância": 30.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm seguiu da Lapônia para automotiva de guincho, perca de potência/ problema na turbina"
+    },
+    {
+        "Data": "22/01/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44205,
+        "Distância": 30.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi buscado 2 carretas na oficina 1 e levado para linha 1 e 1 carreta na oficina 2 e levado para linha 1"
     }
 ]
