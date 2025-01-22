@@ -1456,5 +1456,14 @@
         "Distância": 30.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Foi buscado 2 carretas na oficina 1 e levado para linha 1 e 1 carreta na oficina 2 e levado para linha 1"
+    },
+    {
+        "Data": "22/01/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44202,
+        "Distância": 64.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Laponia "
     }
 ]
