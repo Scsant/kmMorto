@@ -1483,5 +1483,14 @@
         "Distância": 49.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Foi direcionado para Preventiva na Lapônia e em trajeto foi cancelado, vai ser realizado na Automotiva 1"
+    },
+    {
+        "Data": "22/01/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44120,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou carreta na Automotiva 1 para Preventiva e retornou até Linha 1 engatar outro conjunto para trabalho"
     }
 ]
