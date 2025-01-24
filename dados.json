@@ -1510,6 +1510,14 @@
         "Distância": 16.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levou carreta para Oficina Rossini e retornou com outra para Automotiva 1"
+    },
+    {
+        "Data": "24/01/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 2,
+        "Frota": 44038,
+        "Distância": 40.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste com perito "
     }
-
 ]
