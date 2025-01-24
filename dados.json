@@ -1510,14 +1510,6 @@
         "Distância": 16.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levou carreta para Oficina Rossini e retornou com outra para Automotiva 1"
-    },
-    {
-        "Data": "24/01/2025",
-        "Nome": "ss",
-        "BTF": 1,
-        "Frota": 2222,
-        "Distância": 2.0,
-        "Local Macro": "Automotiva 1",
-        "Motivo": "dddd"
     }
+
 ]
