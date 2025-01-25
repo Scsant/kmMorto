@@ -1672,5 +1672,14 @@
         "Distância": 39.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "FUNILARIA EM AGUDOS"
+    },
+    {
+        "Data": "24/01/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 18.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "RETIRADA DE CT DA MANUTENÇÃO"
     }
 ]
