@@ -1519,5 +1519,14 @@
         "Distância": 40.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste com perito "
+    },
+    {
+        "Data": "25/01/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44035,
+        "Distância": 24.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "O mesmo entrou em Socorro e teve que Retornar para Automotiva. "
     }
 ]
