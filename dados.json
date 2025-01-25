@@ -1546,5 +1546,14 @@
         "Distância": 150.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi buscar a carreta do 44107 quebrado!"
+    },
+    {
+        "Data": "18/01/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 5.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar CT para manutenção"
     }
 ]
