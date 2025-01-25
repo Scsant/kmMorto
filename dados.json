@@ -1528,5 +1528,14 @@
         "Distância": 24.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "O mesmo entrou em Socorro e teve que Retornar para Automotiva. "
+    },
+    {
+        "Data": "24/01/2025",
+        "Nome": "EDIVALDO PAREIRA",
+        "BTF": 3,
+        "Frota": 44107,
+        "Distância": 150.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Deu problema preciso vim de guincho"
     }
 ]
