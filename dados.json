@@ -1699,5 +1699,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "LEVAR CV NA MAUTENÇÃO"
+    },
+    {
+        "Data": "27/01/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44162,
+        "Distância": 54.1,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Utilizado para teste de novos motoristas."
     }
 ]
