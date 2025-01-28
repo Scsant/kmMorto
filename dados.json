@@ -1708,5 +1708,14 @@
         "Distância": 54.1,
         "Local Macro": "Teste Prático",
         "Motivo": "Utilizado para teste de novos motoristas."
+    },
+    {
+        "Data": "28/01/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44104,
+        "Distância": 31.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota apresentou problema mecânico no trajeto e retornou no guincho."
     }
 ]
