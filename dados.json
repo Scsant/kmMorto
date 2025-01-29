@@ -1825,5 +1825,14 @@
         "Distância": 0.0,
         "Local Macro": "Nenhum",
         "Motivo": ""
+    },
+    {
+        "Data": "29/01/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 54.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático "
     }
 ]
