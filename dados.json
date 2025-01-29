@@ -1744,5 +1744,14 @@
         "Distância": 35.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Deslocamento Lapônia São Manoel p/ Bracell"
+    },
+    {
+        "Data": "29/01/2025",
+        "Nome": "Ricardo Rodrigues da Silva ",
+        "BTF": 3,
+        "Frota": 44001,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Retirou uma carreta e levou outra pra oficina 2"
     }
 ]
