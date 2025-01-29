@@ -1753,5 +1753,14 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Retirou uma carreta e levou outra pra oficina 2"
+    },
+    {
+        "Data": "29/01/2025",
+        "Nome": "DANNER PORTO CIOCCA ",
+        "BTF": 3,
+        "Frota": 44131,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou a carreta na linha 1 e voltou pra automotiva só o cavalo"
     }
 ]
