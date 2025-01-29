@@ -1789,5 +1789,14 @@
         "Distância": 21.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "DESVIO DA FAZ:SAO FRANCISCO PARA FAZ: VALE VERDE"
+    },
+    {
+        "Data": "27/01/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44071,
+        "Distância": 21.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "DESVIO DA FAZ:SAO FRANCISCO PARA FAZ: VALE VERDE"
     }
 ]
