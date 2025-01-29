@@ -1735,5 +1735,14 @@
         "Distância": 53.4,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste Prático em novos motoristas "
+    },
+    {
+        "Data": "25/01/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44096,
+        "Distância": 35.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Deslocamento Lapônia São Manoel p/ Bracell"
     }
 ]
