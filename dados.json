@@ -1816,5 +1816,14 @@
         "Distância": 21.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "DESVIO DA FAZ:SAO FRANCISCO PARA FAZ: VALE VERDE"
+    },
+    {
+        "Data": "29/01/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Nenhum",
+        "Motivo": ""
     }
 ]
