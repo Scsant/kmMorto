@@ -1834,5 +1834,14 @@
         "Distância": 54.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste prático "
+    },
+    {
+        "Data": "30/01/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44067,
+        "Distância": 16.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Realizado deslocamento para Perícia Trabalhista "
     }
 ]
