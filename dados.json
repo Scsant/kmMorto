@@ -34,5 +34,14 @@
         "Distância": 2.0,
         "Local Macro": "Automotiva 1",
         "Motivo": ""
+    },
+    {
+        "Data": "31/01/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44016,
+        "Distância": 13.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "CM enviado a oficina LL Diesel em Lençóis Paulista"
     }
 ]
