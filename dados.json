@@ -1852,5 +1852,14 @@
         "Distância": 56.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda bloqueado \"chuva\" desviado para outro projeto "
+    },
+    {
+        "Data": "31/01/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44099,
+        "Distância": 60.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Chuva na fazenda Vale Verde, desviado para outro projeto "
     }
 ]
