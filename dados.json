@@ -16,5 +16,14 @@
         "Distância": 86.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção Lapônia "
+    },
+    {
+        "Data": "31/01/2025",
+        "Nome": "Arthur",
+        "BTF": 1,
+        "Frota": 44036,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Deslocamento Automotiva parte Elétrica "
     }
 ]
