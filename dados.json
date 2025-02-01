@@ -70,5 +70,14 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Linha 2, automotiva 2 linha 1 pegar nota "
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "JOSE ADRIANO ",
+        "BTF": 3,
+        "Frota": 44106,
+        "Distância": 18.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saiu da automotiva porém com roda solta precisando retorna fazer o serviço "
     }
 ]
