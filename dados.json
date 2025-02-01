@@ -43,5 +43,14 @@
         "Distância": 13.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "CM enviado a oficina LL Diesel em Lençóis Paulista"
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44209,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 2 até linha 1 deixar carreta, ir para preventiva, voltar linha 1 engatar "
     }
 ]
