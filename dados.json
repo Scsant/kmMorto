@@ -79,5 +79,14 @@
         "Distância": 18.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Saiu da automotiva porém com roda solta precisando retorna fazer o serviço "
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "Flavio Bitencour",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi pra automotiva 1 arrumar a carreta e retorno pra linha 1 pegar nota."
     }
 ]
