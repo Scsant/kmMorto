@@ -97,5 +97,14 @@
         "Distância": 6.0,
         "Local Macro": "Pátio",
         "Motivo": "Saiu da linha 2 no creare e foi pra linha 1 aguarda carreta."
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "LUIZ MARCOS DE LIMA ",
+        "BTF": 3,
+        "Frota": 44129,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou a carreta pra automotiva depois foi na linha engata carreta."
     }
 ]
