@@ -115,5 +115,14 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levou a carreta pra automotiva depois foi na linha engata carreta."
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "JEFERSON DE SOUSA SOARES ",
+        "BTF": 3,
+        "Frota": 44010,
+        "Distância": 30.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Daiu da linha 2 levou a carreta na linha 1, depois levo uma carreta pra oficina 2, e retorno pra automotiva 1 mexer no caminhão "
     }
 ]
