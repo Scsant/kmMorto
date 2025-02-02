@@ -124,5 +124,14 @@
         "Distância": 30.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Daiu da linha 2 levou a carreta na linha 1, depois levo uma carreta pra oficina 2, e retorno pra automotiva 1 mexer no caminhão "
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 21.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm atolou precisou sair do projeto e voltar pro outra rota para ser carregado novamente "
     }
 ]
