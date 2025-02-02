@@ -88,5 +88,14 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Foi pra automotiva 1 arrumar a carreta e retorno pra linha 1 pegar nota."
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "Sebastião Francisco filho",
+        "BTF": 3,
+        "Frota": 44011,
+        "Distância": 6.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Saiu da linha 2 no creare e foi pra linha 1 aguarda carreta."
     }
 ]
