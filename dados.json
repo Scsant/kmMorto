@@ -160,5 +160,14 @@
         "Distância": 80.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm seguiu de Guincho para Automotiva "
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44124,
+        "Distância": 85.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm veio até o CM 44012 para engatar Carretas do Cm 44112 guinchado"
     }
 ]
