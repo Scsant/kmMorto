@@ -169,5 +169,14 @@
         "Distância": 85.0,
         "Local Macro": "Nenhum",
         "Motivo": "Cm veio até o CM 44012 para engatar Carretas do Cm 44112 guinchado"
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 56.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Realizados pra teste motoristas BTf8"
     }
 ]
