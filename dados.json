@@ -142,5 +142,14 @@
         "Distância": 16.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Pegou carretas Na Automotiva Central levou para Ferrari Diesel, pegou outro conj. Liberado e trouxe para Linha1"
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44124,
+        "Distância": 85.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm foi socorrer 44012 em Avaí "
     }
 ]
