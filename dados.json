@@ -151,5 +151,14 @@
         "Distância": 85.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm foi socorrer 44012 em Avaí "
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44012,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm seguiu de Guincho para Automotiva "
     }
 ]
