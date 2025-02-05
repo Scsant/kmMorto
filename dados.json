@@ -178,5 +178,14 @@
         "Distância": 56.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Realizados pra teste motoristas BTf8"
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44022,
+        "Distância": 146.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM não estava engatando as marchas, foi guinchado para automotiva Bracell "
     }
 ]
