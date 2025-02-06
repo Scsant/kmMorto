@@ -205,5 +205,14 @@
         "Distância": 63.1,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste prático motorista "
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44179,
+        "Distância": 14.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Saiu da linha 1 para buscar carreta na Automotiva 1 e levar para oficina Ferrari Diesel"
     }
 ]
