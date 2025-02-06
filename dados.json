@@ -223,5 +223,14 @@
         "Distância": 100.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Problema no cavalo retorno no guincho!"
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "ROBERTO SOUSA LOPES ",
+        "BTF": 3,
+        "Frota": 44121,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta carregada do 44119 que estava em socorro, em pirajui."
     }
 ]
