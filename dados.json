@@ -187,5 +187,14 @@
         "Distância": 146.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM não estava engatando as marchas, foi guinchado para automotiva Bracell "
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Nenhum",
+        "Motivo": ""
     }
 ]
