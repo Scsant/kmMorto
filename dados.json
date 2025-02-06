@@ -241,5 +241,14 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levou a carreta pra linha 1, e seguiu com o cavalo pra automotiva 1 Preventiva. "
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44069,
+        "Distância": 27.1,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste motor  perca de potência com técnico da volvo "
     }
 ]
