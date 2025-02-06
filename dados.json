@@ -214,5 +214,14 @@
         "Distância": 14.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Saiu da linha 1 para buscar carreta na Automotiva 1 e levar para oficina Ferrari Diesel"
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "ROBERTO SOUSA LOPES ",
+        "BTF": 3,
+        "Frota": 44119,
+        "Distância": 100.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Problema no cavalo retorno no guincho!"
     }
 ]
