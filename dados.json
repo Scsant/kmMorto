@@ -250,5 +250,14 @@
         "Distância": 27.1,
         "Local Macro": "Nenhum",
         "Motivo": "Teste motor  perca de potência com técnico da volvo "
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "Marcelo ",
+        "BTF": 2,
+        "Frota": 44038,
+        "Distância": 80.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Levar cm até VDO em Bauru para revisão de tacografo "
     }
 ]
