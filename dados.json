@@ -259,5 +259,14 @@
         "Distância": 80.0,
         "Local Macro": "OT L1",
         "Motivo": "Levar cm até VDO em Bauru para revisão de tacografo "
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "Edson  Souza ",
+        "BTF": 1,
+        "Frota": 44018,
+        "Distância": 108.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar CM Bauru  aferição  fo TACOGRAFO "
     }
 ]
