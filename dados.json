@@ -331,5 +331,14 @@
         "Distância": 59.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste prático motorista "
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44047,
+        "Distância": 40.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm está seguindo para campo em frente a Ambev de problemas de perca de potência retornando para Oficina Bracell "
     }
 ]
