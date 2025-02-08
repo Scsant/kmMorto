@@ -268,5 +268,14 @@
         "Distância": 108.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levar CM Bauru  aferição  fo TACOGRAFO "
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 102.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo x Sossego"
     }
 ]
