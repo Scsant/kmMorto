@@ -313,5 +313,14 @@
         "Distância": 90.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "São Paulo x Sossego"
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44043,
+        "Distância": 72.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Deslocado para Scania 5°Roda  fazer manutenção Telemetria "
     }
 ]
