@@ -322,5 +322,14 @@
         "Distância": 72.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Deslocado para Scania 5°Roda  fazer manutenção Telemetria "
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44087,
+        "Distância": 59.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático motorista "
     }
 ]
