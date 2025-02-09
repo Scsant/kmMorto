@@ -358,5 +358,14 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Linha 1 - Automotiva 1 e Linha 1"
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 1 - Automotiva 1 e Linha 1"
     }
 ]
