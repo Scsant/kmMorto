@@ -403,5 +403,14 @@
         "Distância": 35.0,
         "Local Macro": "Nenhum",
         "Motivo": "Foi fazer teste  para verificação,  mecânico \nfoi  acompanhando"
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Marcos",
+        "BTF": 2,
+        "Frota": 44025,
+        "Distância": 35.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Mecânico estava fazendo teste Mecânico no caminhão "
     }
 ]
