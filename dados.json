@@ -367,5 +367,14 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Linha 1 - Automotiva 1 e Linha 1"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "ALEX GARCIA",
+        "BTF": 3,
+        "Frota": 44015,
+        "Distância": 105.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Foi buscar a carreta do 44010 no trajeto quebrado!"
     }
 ]
