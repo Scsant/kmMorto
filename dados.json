@@ -340,5 +340,14 @@
         "Distância": 40.0,
         "Local Macro": "Nenhum",
         "Motivo": "Cm está seguindo para campo em frente a Ambev de problemas de perca de potência retornando para Oficina Bracell "
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 35.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Veiculo se Deslocou da linha 1 para Lapônia em São Manoel "
     }
 ]
