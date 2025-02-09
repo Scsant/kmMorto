@@ -412,5 +412,14 @@
         "Distância": 35.0,
         "Local Macro": "Nenhum",
         "Motivo": "Mecânico estava fazendo teste Mecânico no caminhão "
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação carreta para oficina 2"
     }
 ]
