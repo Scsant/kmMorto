@@ -385,5 +385,14 @@
         "Distância": 200.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão jogando água fora do reservatório!"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "JOAO BIRIBILI NETO ",
+        "BTF": 3,
+        "Frota": 44001,
+        "Distância": 5.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Saiu da automotiva foi pra linha 1 buscar carreta e ctm!"
     }
 ]
