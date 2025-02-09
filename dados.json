@@ -376,5 +376,14 @@
         "Distância": 105.0,
         "Local Macro": "Nenhum",
         "Motivo": "Foi buscar a carreta do 44010 no trajeto quebrado!"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "ROBERTO CARLOS RIBEIRO ",
+        "BTF": 3,
+        "Frota": 44010,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão jogando água fora do reservatório!"
     }
 ]
