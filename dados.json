@@ -421,5 +421,14 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Movimentação carreta para oficina 2"
+    },
+    {
+        "Data": "10/02/2025",
+        "Nome": "Celso Dias",
+        "BTF": 3,
+        "Frota": 44059,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi na automotiva 1 arrumar o cavalo e volto na linha 1 engatar a carreta!"
     }
 ]
