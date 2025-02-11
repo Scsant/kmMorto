@@ -646,5 +646,14 @@
         "Distância": 44.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio de fazenda"
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "Daniel ",
+        "BTF": 4,
+        "Frota": 44098,
+        "Distância": 110.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "O CM deu falha e o voar pediu pra voltar pra concessionária "
     }
 ]
