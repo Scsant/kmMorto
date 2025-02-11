@@ -673,5 +673,14 @@
         "Distância": 54.6,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste prático "
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 36.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Veiculo liberado da Lapônia São Manoel e seguiu para linha 1"
     }
 ]
