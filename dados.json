@@ -664,5 +664,14 @@
         "Distância": 266.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi necessário descarregar conjunto chassi quebrou, foi realizado ajuste e voltou rodando vazio "
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 54.6,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático "
     }
 ]
