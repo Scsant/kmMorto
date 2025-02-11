@@ -466,5 +466,14 @@
         "Distância": 7.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "levar Ct manutenção ferrari"
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "A|lex mendes",
+        "BTF": 4,
+        "Frota": 44090,
+        "Distância": 9.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar ct manutenção ,eletricar"
     }
 ]
