@@ -655,5 +655,14 @@
         "Distância": 110.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "O CM deu falha e o voar pediu pra voltar pra concessionária "
+    },
+    {
+        "Data": "10/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 266.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi necessário descarregar conjunto chassi quebrou, foi realizado ajuste e voltou rodando vazio "
     }
 ]
