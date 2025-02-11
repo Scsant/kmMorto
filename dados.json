@@ -475,5 +475,14 @@
         "Distância": 9.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "levar ct manutenção ,eletricar"
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manuteção"
     }
 ]
