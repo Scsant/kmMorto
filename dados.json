@@ -520,5 +520,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "levar ct na manutenção"
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "alex mendes ",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar cv para manutenção"
     }
 ]
