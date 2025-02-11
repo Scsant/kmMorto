@@ -430,5 +430,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Foi na automotiva 1 arrumar o cavalo e volto na linha 1 engatar a carreta!"
+    },
+    {
+        "Data": "31/01/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct na manutençao"
     }
 ]
