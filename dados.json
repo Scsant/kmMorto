@@ -709,5 +709,14 @@
         "Distância": 108.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "O CM estava na automotiva 01 tava que ir pra Lapônia São Manuel "
+    },
+    {
+        "Data": "10/02/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 110.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar uma carreta no campo do CM 44083 que foi guincho pra Lapônia "
     }
 ]
