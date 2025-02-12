@@ -718,5 +718,14 @@
         "Distância": 110.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi buscar uma carreta no campo do CM 44083 que foi guincho pra Lapônia "
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 123.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Teste com motoristas novatos para liberação na operação "
     }
 ]
