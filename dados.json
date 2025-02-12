@@ -691,5 +691,14 @@
         "Distância": 6.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Veiculo saiu da oficina 1 e foi retirar uma carreta do Ferrari e levar para linha 1"
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Thiago Martinelli",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 15.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Errou a rota da fazenda carregado por falta de emplacamento."
     }
 ]
