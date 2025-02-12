@@ -700,5 +700,14 @@
         "Distância": 15.0,
         "Local Macro": "Nenhum",
         "Motivo": "Errou a rota da fazenda carregado por falta de emplacamento."
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 108.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "O CM estava na automotiva 01 tava que ir pra Lapônia São Manuel "
     }
 ]
