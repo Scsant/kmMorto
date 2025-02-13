@@ -727,5 +727,14 @@
         "Distância": 123.0,
         "Local Macro": "OT L1",
         "Motivo": "Teste com motoristas novatos para liberação na operação "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44048,
+        "Distância": 72.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção velocímetro "
     }
 ]
