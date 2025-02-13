@@ -880,5 +880,14 @@
         "Distância": 10.7,
         "Local Macro": "Automotiva 1",
         "Motivo": "Retirado CM da Preventiva e levado carreta para a automotiva 1"
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44048,
+        "Distância": 72.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção tacografo "
     }
 ]
