@@ -871,5 +871,14 @@
         "Distância": 12.5,
         "Local Macro": "Automotiva 2",
         "Motivo": "Buscar carreta na automotiva 2 e levar o CM para preventiva na automotiva 1."
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "José Luiz ",
+        "BTF": 1,
+        "Frota": 44027,
+        "Distância": 10.7,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Retirado CM da Preventiva e levado carreta para a automotiva 1"
     }
 ]
