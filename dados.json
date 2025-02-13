@@ -781,5 +781,14 @@
         "Distância": 200.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Choveu muito na fazenda água branca e o cm's fora pra vale verde"
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 20.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar e  buscar carreta Ferrari e eletricar "
     }
 ]
