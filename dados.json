@@ -862,5 +862,14 @@
         "Distância": 27.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levando carretas do BTF 01 da linha I para fazer vistoria na linha II. "
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "José Luiz ",
+        "BTF": 1,
+        "Frota": 44027,
+        "Distância": 12.5,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Buscar carreta na automotiva 2 e levar o CM para preventiva na automotiva 1."
     }
 ]
