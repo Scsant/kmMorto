@@ -736,5 +736,14 @@
         "Distância": 72.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção velocímetro "
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Benedito kleber",
+        "BTF": 3,
+        "Frota": 44115,
+        "Distância": 297.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Choveu na fazenda preciso mudar de fazenda "
     }
 ]
