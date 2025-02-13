@@ -790,5 +790,14 @@
         "Distância": 20.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levar e  buscar carreta Ferrari e eletricar "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 67.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo x Boa Vista "
     }
 ]
