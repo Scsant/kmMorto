@@ -817,5 +817,14 @@
         "Distância": 26.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Retirar duas carretas de deixar linha 1"
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44051,
+        "Distância": 36.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Teste com perito "
     }
 ]
