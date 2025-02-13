@@ -835,5 +835,14 @@
         "Distância": 12.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Cm teve que fazer o retorno para não ficar parado na rodovia pois a entrada da Fazenda estava bloqueada "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44012,
+        "Distância": 12.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm teve que fazer o retorno para não ficar parado na rodovia pois a entrada da Fazenda estava bloqueada "
     }
 ]
