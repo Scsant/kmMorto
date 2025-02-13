@@ -763,5 +763,14 @@
         "Distância": 297.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Choveu muito na fazenda agua branca preciso mudar de fazenda para Boa vista VII"
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Reginaldo Bertula ",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 200.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Choveu muito na fazenda água branca e o cm's fora pra vale verde"
     }
 ]
