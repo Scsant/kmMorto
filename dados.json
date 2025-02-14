@@ -898,5 +898,14 @@
         "Distância": 40.0,
         "Local Macro": "Nenhum",
         "Motivo": "Teste motor com técnico volvo "
+    },
+    {
+        "Data": "14/02/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44007,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio FAZ. EBENEZIA  para FAZ. TORRÃO DE OURO. "
     }
 ]
