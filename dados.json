@@ -1006,5 +1006,14 @@
         "Distância": 25.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda torrão travada CM ficou parado posto "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44012,
+        "Distância": 25.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda torrão travada CM ficou parado posto "
     }
 ]
