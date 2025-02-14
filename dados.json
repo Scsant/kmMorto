@@ -889,5 +889,14 @@
         "Distância": 72.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção tacografo "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44078,
+        "Distância": 40.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste motor com técnico volvo "
     }
 ]
