@@ -1015,5 +1015,14 @@
         "Distância": 25.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda torrão travada CM ficou parado posto "
+    },
+    {
+        "Data": "15/02/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Transferências de carretas "
     }
 ]
