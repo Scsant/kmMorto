@@ -1024,5 +1024,14 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Transferências de carretas "
+    },
+    {
+        "Data": "15/02/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 59.2,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Caminhão entrou em socorro e precisou retornar para automotiva Bracell "
     }
 ]
