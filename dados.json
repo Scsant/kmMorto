@@ -1033,5 +1033,14 @@
         "Distância": 59.2,
         "Local Macro": "Automotiva 1",
         "Motivo": "Caminhão entrou em socorro e precisou retornar para automotiva Bracell "
+    },
+    {
+        "Data": "16/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44176,
+        "Distância": 50.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Veiculo apresentou falha nas proximidades da dexco, ligou para o Voar e foi orientado a voltar para oficina. "
     }
 ]
