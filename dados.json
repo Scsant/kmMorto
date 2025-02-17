@@ -1051,5 +1051,14 @@
         "Distância": 30.0,
         "Local Macro": "Nenhum",
         "Motivo": "Cf quebrou fazenda na fazenda Ebenezia e teve que desviar "
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Ricardo Bezerra da Silva ",
+        "BTF": 1,
+        "Frota": 44051,
+        "Distância": 45.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
