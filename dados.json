@@ -1042,5 +1042,14 @@
         "Distância": 50.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Veiculo apresentou falha nas proximidades da dexco, ligou para o Voar e foi orientado a voltar para oficina. "
+    },
+    {
+        "Data": "16/02/2025",
+        "Nome": "Marcos ",
+        "BTF": 2,
+        "Frota": 44127,
+        "Distância": 30.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cf quebrou fazenda na fazenda Ebenezia e teve que desviar "
     }
 ]
