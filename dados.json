@@ -1060,5 +1060,14 @@
         "Distância": 45.0,
         "Local Macro": "Teste Prático",
         "Motivo": ""
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44177,
+        "Distância": 12.5,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar duas pranchas terceiro "
     }
 ]
