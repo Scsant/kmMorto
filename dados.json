@@ -1069,5 +1069,14 @@
         "Distância": 12.5,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levar duas pranchas terceiro "
+    },
+    {
+        "Data": "14/02/2025",
+        "Nome": "Ricardo Bezerra da Silva ",
+        "BTF": 2,
+        "Frota": 44124,
+        "Distância": 360.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Lençóis Paulista>guarulhos>concessionária Nors- São Paulo capital. Adaptação defletor de ar"
     }
 ]
