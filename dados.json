@@ -1123,5 +1123,14 @@
         "Distância": 120.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Preciso vim de guincho!"
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Edson Martins",
+        "BTF": 3,
+        "Frota": 44116,
+        "Distância": 120.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta do 44119"
     }
 ]
