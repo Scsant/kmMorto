@@ -1159,5 +1159,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 2",
         "Motivo": ""
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 44038,
+        "Frota": 44038,
+        "Distância": 45.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
