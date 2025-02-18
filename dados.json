@@ -1168,5 +1168,14 @@
         "Distância": 45.0,
         "Local Macro": "Teste Prático",
         "Motivo": ""
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44047,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Cm utilizado para movimentar Carretas "
     }
 ]
