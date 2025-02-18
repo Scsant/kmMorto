@@ -1195,5 +1195,14 @@
         "Distância": 260.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Faz São Paulo x globo "
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 260.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Faz São Paulo x globo "
     }
 ]
