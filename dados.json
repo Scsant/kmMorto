@@ -1150,5 +1150,14 @@
         "Distância": 125.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Precisou voltar com a carreta "
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44110,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": ""
     }
 ]
