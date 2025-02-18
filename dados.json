@@ -1105,5 +1105,14 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Técnico  saiu para testar o CM "
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Thiago Martinelli",
+        "BTF": 3,
+        "Frota": 44009,
+        "Distância": 22.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levo carreta pro rossini"
     }
 ]
