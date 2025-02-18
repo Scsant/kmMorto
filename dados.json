@@ -1213,5 +1213,14 @@
         "Distância": 55.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste entrevistas "
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Halan",
+        "BTF": 7,
+        "Frota": 44185,
+        "Distância": 55.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste pós entrevista "
     }
 ]
