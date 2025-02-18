@@ -1132,5 +1132,14 @@
         "Distância": 120.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi buscar a carreta do 44119"
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Leandro Aureliano",
+        "BTF": 3,
+        "Frota": 44115,
+        "Distância": 4.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Saiu da automotiva e foi buscar a carreta na linha 1"
     }
 ]
