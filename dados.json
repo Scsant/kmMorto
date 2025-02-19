@@ -1222,5 +1222,14 @@
         "Distância": 55.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste pós entrevista "
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "Rodrigo ",
+        "BTF": 1,
+        "Frota": 44036,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levando carretas Preventiva "
     }
 ]
