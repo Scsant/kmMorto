@@ -1276,5 +1276,14 @@
         "Distância": 169.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda São Paulo x Globo "
+    },
+    {
+        "Data": "20/02/2025",
+        "Nome": "Técnico Daniel ",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 50.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta do CM 44073 que deu problema na turbina "
     }
 ]
