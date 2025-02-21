@@ -1285,5 +1285,14 @@
         "Distância": 50.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi buscar a carreta do CM 44073 que deu problema na turbina "
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44179,
+        "Distância": 14.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Saiu da linha 1 para retirar 1 carreta no Ferrari e 2 na oficina 2."
     }
 ]
