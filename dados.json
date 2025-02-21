@@ -1312,5 +1312,14 @@
         "Distância": 6.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Retirar carreta na JCF"
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44069,
+        "Distância": 66.5,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Liberação de Motoristas "
     }
 ]
