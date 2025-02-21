@@ -1321,5 +1321,14 @@
         "Distância": 66.5,
         "Local Macro": "Teste Prático",
         "Motivo": "Liberação de Motoristas "
+    },
+    {
+        "Data": "20/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 67.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Liberação e teste"
     }
 ]
