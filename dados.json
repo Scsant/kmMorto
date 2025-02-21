@@ -1330,5 +1330,14 @@
         "Distância": 67.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Liberação e teste"
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 6,
+        "Frota": 44205,
+        "Distância": 70.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
