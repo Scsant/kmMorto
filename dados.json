@@ -1303,5 +1303,14 @@
         "Distância": 16.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Cm deslocou duas vezes pátio da linha um automotiva dois levar carreta para preventiva "
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 6.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Retirar carreta na JCF"
     }
 ]
