@@ -1366,5 +1366,14 @@
         "Distância": 26.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levou 1 carreta no BJ\n2 no Ferrari Diesel "
+    },
+    {
+        "Data": "22/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou três carretas para preventiva e corretiva "
     }
 ]
