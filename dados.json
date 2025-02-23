@@ -1537,5 +1537,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "LEVAR CT PARA  MANUTENÇÃO"
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 55.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "TESTE PRATICO"
     }
 ]
