@@ -1438,5 +1438,14 @@
         "Distância": 5.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "LEVAR CV PARA MANUTENÇÃO NENO VIDROS"
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "LEVAR CT PARA MANUTENÇÃO"
     }
 ]
