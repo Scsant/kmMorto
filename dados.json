@@ -1555,5 +1555,14 @@
         "Distância": 161.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "RETIRADA DA CONCESSIONARIA EM OURINHOS"
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44081,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "LEVAR CV PARA MANUTENÇÃO"
     }
 ]
