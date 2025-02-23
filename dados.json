@@ -1546,5 +1546,14 @@
         "Distância": 55.0,
         "Local Macro": "Teste Prático",
         "Motivo": "TESTE PRATICO"
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 161.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "RETIRADA DA CONCESSIONARIA EM OURINHOS"
     }
 ]
