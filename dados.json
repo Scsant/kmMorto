@@ -1519,5 +1519,14 @@
         "Distância": 7.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "LEVAR CV PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "16/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44105,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "RETIRAR CT DA MANUTENÇÃO"
     }
 ]
