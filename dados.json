@@ -1483,5 +1483,14 @@
         "Distância": 12.0,
         "Local Macro": "Nenhum",
         "Motivo": "MUDANÇA DE FALZENDA BLOCO"
+    },
+    {
+        "Data": "10/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 44080,
+        "Frota": 44080,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "LEVAR CV PARA MANUTENÇÃO"
     }
 ]
