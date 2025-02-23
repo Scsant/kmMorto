@@ -1411,5 +1411,14 @@
         "Distância": 109.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Caminhão foi até a entrada da fazenda Jamaica 2 e precisou ser guinchado para Lapônia de São Manoel "
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 6.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar CT para manutenção"
     }
 ]
