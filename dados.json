@@ -1591,5 +1591,14 @@
         "Distância": 68.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão apresentou falha no painel, VOAR solicitou que voltasse vazio para a oficina. "
+    },
+    {
+        "Data": "24/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44069,
+        "Distância": 101.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Liberação de Motoristas "
     }
 ]
