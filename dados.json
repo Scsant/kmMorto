@@ -1564,5 +1564,14 @@
         "Distância": 7.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "LEVAR CV PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Uedslei Cunha ",
+        "BTF": 7,
+        "Frota": 44205,
+        "Distância": 70.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático de motoristas BTF06 "
     }
 ]
