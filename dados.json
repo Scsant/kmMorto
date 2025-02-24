@@ -1582,5 +1582,14 @@
         "Distância": 86.9,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio de fazenda "
+    },
+    {
+        "Data": "02/01/2025",
+        "Nome": "Uedslei Cunha ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 68.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão apresentou falha no painel, VOAR solicitou que voltasse vazio para a oficina. "
     }
 ]
