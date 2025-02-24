@@ -1573,5 +1573,14 @@
         "Distância": 70.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste prático de motoristas BTF06 "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio de fazenda "
     }
 ]
