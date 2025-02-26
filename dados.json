@@ -1636,5 +1636,14 @@
         "Distância": 228.4,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Entrou em Socorro no trajeto da Faz. Santa Vitoria. "
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "desengate de carreta "
     }
 ]
