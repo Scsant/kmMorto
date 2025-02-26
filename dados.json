@@ -1690,5 +1690,14 @@
         "Distância": 4.0,
         "Local Macro": "Pátio",
         "Motivo": "Precisou realizar teste da camera do Creare. Pois não subia os apontamentos. Motorista fez o percurso do patio de varreçao l02 até rotatória da automotiva e voltou p/ linha 2."
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44022,
+        "Distância": 13.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Mecânica LL Diesel "
     }
 ]
