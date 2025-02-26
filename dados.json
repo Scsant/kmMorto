@@ -1663,5 +1663,14 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Fueiro"
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44176,
+        "Distância": 7.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Precisou levar 1 carreta que estava na automotiva 01 para fazer corretiva na automotiva 02."
     }
 ]
