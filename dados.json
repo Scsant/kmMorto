@@ -1753,5 +1753,14 @@
         "Distância": 14.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção carreta Ferrari"
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44020,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm 020 quebrou na rodovia , segundo má intenção era junta cabeçote e seria necessário guincho mandamos outro cm para assumir a carreta e seguir viagem .\nCm 020 quebrou a caminho da fazenda Santa Luzia do tangará , e quebrou a poucos km de chegar ao destino "
     }
 ]
