@@ -1816,5 +1816,14 @@
         "Distância": 140.5,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM afogou e não pegou mais , sendo direcionado para automotiva "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44022,
+        "Distância": 11.6,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Liberado da LL Diesel e retornou para L1"
     }
 ]
