@@ -1825,5 +1825,14 @@
         "Distância": 11.6,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Liberado da LL Diesel e retornou para L1"
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 6,
+        "Frota": 44198,
+        "Distância": 55.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
