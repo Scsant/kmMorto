@@ -1771,5 +1771,14 @@
         "Distância": 80.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Enviamos o cm126 para assumir a carreta pois o cm020 precisou de guincho , com isso o cm126 assumiu a rota "
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44120,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Enviamos o cm126 para assumir a carreta pois o cm020 precisou de guincho , com isso o cm126 assumiu a rota "
     }
 ]
