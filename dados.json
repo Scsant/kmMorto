@@ -1780,5 +1780,14 @@
         "Distância": 80.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Enviamos o cm126 para assumir a carreta pois o cm020 precisou de guincho , com isso o cm126 assumiu a rota "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção carreta "
     }
 ]
