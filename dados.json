@@ -1852,5 +1852,14 @@
         "Distância": 50.0,
         "Local Macro": "Teste Prático",
         "Motivo": "O mecânico foi testar pra ver se voltava a falha"
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44198,
+        "Distância": 68.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Saiu carregado da linha 1, sentido Fazenda Mamedina a onde foi realizado testes práticos e retornou na linha 1"
     }
 ]
