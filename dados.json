@@ -1699,5 +1699,14 @@
         "Distância": 13.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Mecânica LL Diesel "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44072,
+        "Distância": 105.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Chuva na fazenda São Paulo, foi desviandos pra fazer Jamaica lll "
     }
 ]
