@@ -1879,5 +1879,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cm saiu da automotiva passou na linha 1 deixou carreta e seguiu para linha 2 CREARE "
+    },
+    {
+        "Data": "28/02/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44135,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm saiu da automotiva seguiu para linha 1"
     }
 ]
