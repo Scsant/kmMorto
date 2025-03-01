@@ -2095,5 +2095,14 @@
         "Distância": 85.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio Dois Irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Luiz Cristiano fernandes",
+        "BTF": 1,
+        "Frota": 44151,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Dois Irmãos para Flecha Azul"
     }
 ]
