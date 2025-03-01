@@ -2059,5 +2059,14 @@
         "Distância": 85.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio da Dois irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Emerson S Oliveira",
+        "BTF": 2,
+        "Frota": 44009,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Dois Irmãos para Flecha Azul"
     }
 ]
