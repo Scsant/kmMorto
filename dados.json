@@ -2041,5 +2041,14 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Linha 2, automotiva1, linha 1 desengate, automotiva1, automotiva2 linha 1 pegar nota "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Paulo Boaventura.",
+        "BTF": 4,
+        "Frota": 44090,
+        "Distância": 120.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta do 44093 que estava quebrado na fazenda São Paulo "
     }
 ]
