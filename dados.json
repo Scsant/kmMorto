@@ -2014,5 +2014,14 @@
         "Distância": 80.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Se deslocou pra Lapônia SM e voltou depois de pronto "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44093,
+        "Distância": 140.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Deu problema na fazenda e voar veio fez um paliativo pra chegar na Lapônia problema chicote "
     }
 ]
