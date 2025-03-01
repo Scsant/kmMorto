@@ -1897,5 +1897,14 @@
         "Distância": 95.0,
         "Local Macro": "Nenhum",
         "Motivo": "Cm deu poblema Mecânico teve que retornar de jau para oficina Bracell "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Marcos Domingues ",
+        "BTF": 2,
+        "Frota": 44008,
+        "Distância": 90.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm foi faze aferição de tacografo Bauru "
     }
 ]
