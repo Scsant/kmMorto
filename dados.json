@@ -1996,5 +1996,14 @@
         "Distância": 8.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "levar Ct para manutenção"
+    },
+    {
+        "Data": "28/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44008,
+        "Distância": 90.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi para Bauru fazer aferição Tacografo "
     }
 ]
