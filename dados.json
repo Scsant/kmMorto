@@ -2005,5 +2005,14 @@
         "Distância": 90.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Foi para Bauru fazer aferição Tacografo "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Técnico Daniel ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 80.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Se deslocou pra Lapônia SM e voltou depois de pronto "
     }
 ]
