@@ -1906,5 +1906,14 @@
         "Distância": 90.0,
         "Local Macro": "Nenhum",
         "Motivo": "Cm foi faze aferição de tacografo Bauru "
+    },
+    {
+        "Data": "25/03/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44104,
+        "Distância": 132.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "desvio de fazenda ,finalização do projeto esplanada"
     }
 ]
