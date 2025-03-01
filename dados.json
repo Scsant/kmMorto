@@ -2131,5 +2131,14 @@
         "Distância": 85.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio Dois Irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Ariovaldo Antônio Roda",
+        "BTF": 3,
+        "Frota": 44020,
+        "Distância": 240.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm foi e voltou vazio pq finalizou a madeira da Faz Dois Irmãos e não foi possível desviá-lo. Teve que voltar para a fábrica "
     }
 ]
