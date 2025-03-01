@@ -2050,5 +2050,14 @@
         "Distância": 120.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi buscar a carreta do 44093 que estava quebrado na fazenda São Paulo "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Claudemir Martins Lopes",
+        "BTF": 3,
+        "Frota": 44116,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Dois irmãos para Flecha Azul"
     }
 ]
