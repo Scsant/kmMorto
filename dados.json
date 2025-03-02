@@ -2140,5 +2140,14 @@
         "Distância": 240.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Cm foi e voltou vazio pq finalizou a madeira da Faz Dois Irmãos e não foi possível desviá-lo. Teve que voltar para a fábrica "
+    },
+    {
+        "Data": "02/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44158,
+        "Distância": 126.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio de fazenda Lagoa Azul para Jamaica III"
     }
 ]
