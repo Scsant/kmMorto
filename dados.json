@@ -2149,5 +2149,14 @@
         "Distância": 126.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio de fazenda Lagoa Azul para Jamaica III"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 5.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção no Cavalo"
     }
 ]
