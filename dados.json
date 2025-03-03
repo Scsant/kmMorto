@@ -2221,5 +2221,14 @@
         "Distância": 140.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Voltando carregado precisou ser guinchado"
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44196,
+        "Distância": 4.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Foi para linha 2 fazer logmeter e voltou para descarregar na linha 1"
     }
 ]
