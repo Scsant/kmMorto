@@ -2194,5 +2194,14 @@
         "Distância": 19.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levar a prancha 53004 da automotiva central para oficina terceiro Agromac. "
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44187,
+        "Distância": 50.8,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutencao na Recar em Agudos ."
     }
 ]
