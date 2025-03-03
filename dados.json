@@ -2239,5 +2239,14 @@
         "Distância": 4.0,
         "Local Macro": "Pátio",
         "Motivo": "Foi para linha 2 fazer logmeter e voltou para descarregar na linha 1"
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "REGINALDO ANTÔNIO BERTULA ",
+        "BTF": 3,
+        "Frota": 44129,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levo carreta na automotiva e volto na linha 1 engata outra"
     }
 ]
