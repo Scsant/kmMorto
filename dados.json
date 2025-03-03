@@ -2212,5 +2212,14 @@
         "Distância": 50.81,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutencao na Recar em Agudos ."
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 140.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Voltando carregado precisou ser guinchado"
     }
 ]
