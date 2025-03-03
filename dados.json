@@ -2185,5 +2185,14 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Preventiva carreta "
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Rodrigo Sousa ",
+        "BTF": 1,
+        "Frota": 44037,
+        "Distância": 19.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar a prancha 53004 da automotiva central para oficina terceiro Agromac. "
     }
 ]
