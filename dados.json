@@ -2284,5 +2284,14 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carreta Pneu"
+    },
+    {
+        "Data": "04/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 10.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste de câmera Creare"
     }
 ]
