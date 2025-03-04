@@ -2293,5 +2293,14 @@
         "Distância": 10.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste de câmera Creare"
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44009,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": " cm 44009 precisou ser guinchado  problema no câmbio , não engatava as marchas "
     }
 ]
