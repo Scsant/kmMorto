@@ -2248,5 +2248,14 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levo carreta na automotiva e volto na linha 1 engata outra"
+    },
+    {
+        "Data": "04/03/2025",
+        "Nome": "Everton de Souza pinto",
+        "BTF": 3,
+        "Frota": 44014,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saiu da linha 2 Deixou o conj. Na linha 1 e foi pra automotiva "
     }
 ]
