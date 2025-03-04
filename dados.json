@@ -2257,5 +2257,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Saiu da linha 2 Deixou o conj. Na linha 1 e foi pra automotiva "
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 74.1,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Entrou em Socorro no trajeto da Faz. GLOBO."
     }
 ]
