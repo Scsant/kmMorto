@@ -2329,5 +2329,14 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção depois L2"
+    },
+    {
+        "Data": "04/03/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44043,
+        "Distância": 76.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Quebra na embreagem "
     }
 ]
