@@ -2383,5 +2383,14 @@
         "Distância": 44.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Vindo da concessionária "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 11.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar CT'S para manutenção "
     }
 ]
