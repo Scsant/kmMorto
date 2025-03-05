@@ -2356,5 +2356,14 @@
         "Distância": 15.0,
         "Local Macro": "Pátio",
         "Motivo": "eerr"
+    },
+    {
+        "Data": "05/03/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44059,
+        "Distância": 35.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm 44059 veio assumir a carreta de outro cm que precisou guinchar .\nFavor desconsiderar motor oscioso para engate e desengate "
     }
 ]
