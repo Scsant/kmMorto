@@ -2302,5 +2302,14 @@
         "Distância": 80.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": " cm 44009 precisou ser guinchado  problema no câmbio , não engatava as marchas "
+    },
+    {
+        "Data": "05/03/2025",
+        "Nome": "JEFERSON DE SOUSA SOARES",
+        "BTF": 3,
+        "Frota": 44115,
+        "Distância": 114.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Deu problema na bomba d'água Lapônia direcionou pra São Manuel (Lapônia)"
     }
 ]
