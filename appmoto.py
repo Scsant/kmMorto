@@ -157,6 +157,7 @@ novo_registro = col2.button("Novo Registro")
 if salvar:
     registro = {
         "Data": data.strftime("%d/%m/%Y"),
+        "Data de Registro": datetime.today().strftime("%d/%m/%Y"),  # Data fixa do momento do salvamento
         "Nome": nome,
         "BTF": btf,
         "Frota": frota,
