@@ -1,0 +1,2352 @@
+
+[
+    {
+        "Data": "29/01/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44122,
+        "Distância": 86.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção Lapônia "
+    },
+    {
+        "Data": "30/01/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44123,
+        "Distância": 86.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção Lapônia "
+    },
+    {
+        "Data": "31/01/2025",
+        "Nome": "Arthur",
+        "BTF": 1,
+        "Frota": 44036,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Deslocamento Automotiva parte Elétrica "
+    },
+    {
+        "Data": "31/01/2025",
+        "Nome": "Paulo Neves ",
+        "BTF": 3,
+        "Frota": 44059,
+        "Distância": 2.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": ""
+    },
+    {
+        "Data": "31/01/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44016,
+        "Distância": 13.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "CM enviado a oficina LL Diesel em Lençóis Paulista"
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44209,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 2 até linha 1 deixar carreta, ir para preventiva, voltar linha 1 engatar "
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Linha 2, automotiva 2 linha 1 pegar nota "
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Linha 2, automotiva 2 linha 1 pegar nota "
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "JOSE ADRIANO ",
+        "BTF": 3,
+        "Frota": 44106,
+        "Distância": 18.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saiu da automotiva porém com roda solta precisando retorna fazer o serviço "
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "Flavio Bitencour",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi pra automotiva 1 arrumar a carreta e retorno pra linha 1 pegar nota."
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "Sebastião Francisco filho",
+        "BTF": 3,
+        "Frota": 44011,
+        "Distância": 6.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Saiu da linha 2 no creare e foi pra linha 1 aguarda carreta."
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "LUIZ MARCOS DE LIMA ",
+        "BTF": 3,
+        "Frota": 44129,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou a carreta pra automotiva depois foi na linha engata carreta."
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "JEFERSON DE SOUSA SOARES ",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou a carreta pra automotiva depois foi na linha engata carreta."
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "JEFERSON DE SOUSA SOARES ",
+        "BTF": 3,
+        "Frota": 44010,
+        "Distância": 30.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Daiu da linha 2 levou a carreta na linha 1, depois levo uma carreta pra oficina 2, e retorno pra automotiva 1 mexer no caminhão "
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 21.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm atolou precisou sair do projeto e voltar pro outra rota para ser carregado novamente "
+    },
+    {
+        "Data": "03/02/2025",
+        "Nome": "Fabrício Pontes ",
+        "BTF": 3,
+        "Frota": 44014,
+        "Distância": 16.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Pegou carretas Na Automotiva Central levou para Ferrari Diesel, pegou outro conj. Liberado e trouxe para Linha1"
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44124,
+        "Distância": 85.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm foi socorrer 44012 em Avaí "
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44012,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm seguiu de Guincho para Automotiva "
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44124,
+        "Distância": 85.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm veio até o CM 44012 para engatar Carretas do Cm 44112 guinchado"
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 56.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Realizados pra teste motoristas BTf8"
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44022,
+        "Distância": 146.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM não estava engatando as marchas, foi guinchado para automotiva Bracell "
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Nenhum",
+        "Motivo": ""
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44029,
+        "Distância": 63.1,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático motorista "
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44179,
+        "Distância": 14.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Saiu da linha 1 para buscar carreta na Automotiva 1 e levar para oficina Ferrari Diesel"
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "ROBERTO SOUSA LOPES ",
+        "BTF": 3,
+        "Frota": 44119,
+        "Distância": 100.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Problema no cavalo retorno no guincho!"
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "ROBERTO SOUSA LOPES ",
+        "BTF": 3,
+        "Frota": 44121,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta carregada do 44119 que estava em socorro, em pirajui."
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "LUIZ FERNANDEZ ",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou a carreta pra linha 1, e seguiu com o cavalo pra automotiva 1 Preventiva. "
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44069,
+        "Distância": 27.1,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste motor  perca de potência com técnico da volvo "
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "Marcelo ",
+        "BTF": 2,
+        "Frota": 44038,
+        "Distância": 80.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Levar cm até VDO em Bauru para revisão de tacografo "
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "Edson  Souza ",
+        "BTF": 1,
+        "Frota": 44018,
+        "Distância": 108.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar CM Bauru  aferição  fo TACOGRAFO "
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 102.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo x Sossego"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 90.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo x Sossego"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 90.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo x Sossego"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44157,
+        "Distância": 90.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo x Sossego"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44183,
+        "Distância": 90.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo x Sossego"
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44043,
+        "Distância": 72.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Deslocado para Scania 5°Roda  fazer manutenção Telemetria "
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44087,
+        "Distância": 59.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático motorista "
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44047,
+        "Distância": 40.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm está seguindo para campo em frente a Ambev de problemas de perca de potência retornando para Oficina Bracell "
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 35.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Veiculo se Deslocou da linha 1 para Lapônia em São Manoel "
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 444206,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 1 - Automotiva 1 e Linha 1"
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 1 - Automotiva 1 e Linha 1"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "ALEX GARCIA",
+        "BTF": 3,
+        "Frota": 44015,
+        "Distância": 105.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Foi buscar a carreta do 44010 no trajeto quebrado!"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "ROBERTO CARLOS RIBEIRO ",
+        "BTF": 3,
+        "Frota": 44010,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão jogando água fora do reservatório!"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "JOAO BIRIBILI NETO ",
+        "BTF": 3,
+        "Frota": 44001,
+        "Distância": 5.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Saiu da automotiva foi pra linha 1 buscar carreta e ctm!"
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Marcos",
+        "BTF": 2,
+        "Frota": 44025,
+        "Distância": 35.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Foi fazer teste  para verificação,  mecânico \nfoi  acompanhando"
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Marcos",
+        "BTF": 2,
+        "Frota": 44025,
+        "Distância": 35.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Mecânico estava fazendo teste Mecânico no caminhão "
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação carreta para oficina 2"
+    },
+    {
+        "Data": "10/02/2025",
+        "Nome": "Celso Dias",
+        "BTF": 3,
+        "Frota": 44059,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi na automotiva 1 arrumar o cavalo e volto na linha 1 engatar a carreta!"
+    },
+    {
+        "Data": "31/01/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct na manutençao"
+    },
+    {
+        "Data": "31/01/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutençao"
+    },
+    {
+        "Data": "01/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção"
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar Ct manutenção ferrari"
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "A|lex mendes",
+        "BTF": 4,
+        "Frota": 44090,
+        "Distância": 9.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar ct manutenção ,eletricar"
+    },
+    {
+        "Data": "02/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manuteção"
+    },
+    {
+        "Data": "03/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44105,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção"
+    },
+    {
+        "Data": "03/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct na manutenção"
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "alex mendes ",
+        "BTF": 4,
+        "Frota": 44098,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção"
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44099,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct na manutenção"
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "alex mendes ",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar cv para manutenção"
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44076,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção"
+    },
+    {
+        "Data": "04/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44093,
+        "Distância": 12.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "desvio de fazenda"
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44105,
+        "Distância": 12.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "desvio de fazenda"
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 12.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "desvio de fazenda"
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutençaõ"
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44095,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutençaõ"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44100,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44104,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção"
+    },
+    {
+        "Data": "05/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "levar ct para manutenção"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 6.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio de fazenda"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "alex mendes",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 44.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio de fazenda"
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "Daniel ",
+        "BTF": 4,
+        "Frota": 44098,
+        "Distância": 110.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "O CM deu falha e o voar pediu pra voltar pra concessionária "
+    },
+    {
+        "Data": "10/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 266.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi necessário descarregar conjunto chassi quebrou, foi realizado ajuste e voltou rodando vazio "
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 54.6,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático "
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 36.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Veiculo liberado da Lapônia São Manoel e seguiu para linha 1"
+    },
+    {
+        "Data": "10/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44162,
+        "Distância": 6.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Veiculo saiu da oficina 1 e foi retirar uma carreta do Ferrari e levar para linha 1"
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Thiago Martinelli",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 15.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Errou a rota da fazenda carregado por falta de emplacamento."
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 108.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "O CM estava na automotiva 01 tava que ir pra Lapônia São Manuel "
+    },
+    {
+        "Data": "10/02/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 110.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar uma carreta no campo do CM 44083 que foi guincho pra Lapônia "
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 123.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Teste com motoristas novatos para liberação na operação "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44048,
+        "Distância": 72.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção velocímetro "
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Benedito kleber",
+        "BTF": 3,
+        "Frota": 44115,
+        "Distância": 297.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Choveu na fazenda preciso mudar de fazenda "
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Elenilson Alexandre Alves ",
+        "BTF": 3,
+        "Frota": 44014,
+        "Distância": 297.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Choveu muito na fazenda agua branca preciso mudar de fazenda para Boa vista VII"
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "JOAO BIRIBILI ",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 297.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Choveu muito na fazenda agua branca preciso mudar de fazenda para Boa vista VII"
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Reginaldo Bertula ",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 200.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Choveu muito na fazenda água branca e o cm's fora pra vale verde"
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Roberto Pereira ",
+        "BTF": 3,
+        "Frota": 44131,
+        "Distância": 200.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Choveu muito na fazenda água branca e o cm's fora pra vale verde"
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 20.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar e  buscar carreta Ferrari e eletricar "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 67.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo x Boa Vista "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 67.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "São Paulo x Boa Vista "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 26.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Retirar duas carretas de deixar linha 1"
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44051,
+        "Distância": 36.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Teste com perito "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 12.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm teve que fazer o retorno para não ficar parado na rodovia pois a entrada da Fazenda estava bloqueada "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44012,
+        "Distância": 12.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm teve que fazer o retorno para não ficar parado na rodovia pois a entrada da Fazenda estava bloqueada "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Paulo Sérgio ",
+        "BTF": 1,
+        "Frota": 44182,
+        "Distância": 27.0,
+        "Local Macro": "Nenhum",
+        "Motivo": ""
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Paulo Sérgio ",
+        "BTF": 1,
+        "Frota": 44182,
+        "Distância": 27.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levando carretas do BTF 01 da linha I para fazer vistoria na linha II. "
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "José Luiz ",
+        "BTF": 1,
+        "Frota": 44027,
+        "Distância": 12.5,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Buscar carreta na automotiva 2 e levar o CM para preventiva na automotiva 1."
+    },
+    {
+        "Data": "12/02/2025",
+        "Nome": "José Luiz ",
+        "BTF": 1,
+        "Frota": 44027,
+        "Distância": 10.7,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Retirado CM da Preventiva e levado carreta para a automotiva 1"
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44048,
+        "Distância": 72.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção tacografo "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44078,
+        "Distância": 40.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste motor com técnico volvo "
+    },
+    {
+        "Data": "14/02/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44007,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio FAZ. EBENEZIA  para FAZ. TORRÃO DE OURO. "
+    },
+    {
+        "Data": "14/02/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44086,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Faz. Ebenezia para s faz. Torrão de Ouro. "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44087,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Faz. Ebenezia para faz. Torrão de Ouro. "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Faz. Ebenezia para Faz.  Torrão de Ouro. "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44089,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Faz. Ebenezia para Faz.  Torrão de Ouro. "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44096,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Faz. Ebenezia para Faz.  Torrão de Ouro. "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44240,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Faz. Ebenezia para Faz.  Torrão de Ouro. "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44088,
+        "Distância": 61.1,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Faz  Ebenezia para a Faz Torrão de Ouro. "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44089,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Faz Ebenezia para Faz  Torrão de Ouro. "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44096,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Faz  Ebenezia para Faz Torrão de Ouro. "
+    },
+    {
+        "Data": "14/02/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44086,
+        "Distância": 12.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste  Câmera (alertas)"
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 25.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda torrão travada CM ficou parado posto "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44012,
+        "Distância": 25.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda torrão travada CM ficou parado posto "
+    },
+    {
+        "Data": "15/02/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Transferências de carretas "
+    },
+    {
+        "Data": "15/02/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 59.2,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Caminhão entrou em socorro e precisou retornar para automotiva Bracell "
+    },
+    {
+        "Data": "16/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44176,
+        "Distância": 50.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Veiculo apresentou falha nas proximidades da dexco, ligou para o Voar e foi orientado a voltar para oficina. "
+    },
+    {
+        "Data": "16/02/2025",
+        "Nome": "Marcos ",
+        "BTF": 2,
+        "Frota": 44127,
+        "Distância": 30.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cf quebrou fazenda na fazenda Ebenezia e teve que desviar "
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Ricardo Bezerra da Silva ",
+        "BTF": 1,
+        "Frota": 44051,
+        "Distância": 45.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44177,
+        "Distância": 12.5,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar duas pranchas terceiro "
+    },
+    {
+        "Data": "14/02/2025",
+        "Nome": "Ricardo Bezerra da Silva ",
+        "BTF": 2,
+        "Frota": 44124,
+        "Distância": 360.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Lençóis Paulista>guarulhos>concessionária Nors- São Paulo capital. Adaptação defletor de ar"
+    },
+    {
+        "Data": "14/02/2025",
+        "Nome": "Ricardo Bezerra da Silva ",
+        "BTF": 2,
+        "Frota": 44111,
+        "Distância": 648.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Lençóis Paulista>guarulhos>Lençóis Paulista. Adaptação defletor de ar. D.O"
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44074,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Técnico  saiu para testar o CM "
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44074,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Técnico  saiu para testar o CM "
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Thiago Martinelli",
+        "BTF": 3,
+        "Frota": 44009,
+        "Distância": 22.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levo carreta pro rossini"
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Thiago Martinelli",
+        "BTF": 3,
+        "Frota": 44059,
+        "Distância": 120.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Preciso vim de guincho!"
+    },
+    {
+        "Data": "17/02/2025",
+        "Nome": "Edson Martins",
+        "BTF": 3,
+        "Frota": 44116,
+        "Distância": 120.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta do 44119"
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Leandro Aureliano",
+        "BTF": 3,
+        "Frota": 44115,
+        "Distância": 4.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Saiu da automotiva e foi buscar a carreta na linha 1"
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44047,
+        "Distância": 125.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Precisou voltar com a carreta "
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44110,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": ""
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 44038,
+        "Frota": 44038,
+        "Distância": 45.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44047,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Cm utilizado para movimentar Carretas "
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Halan",
+        "BTF": 7,
+        "Frota": 44210,
+        "Distância": 260.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Faz São Paulo x globo "
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Halan",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 260.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Faz São Paulo x globo "
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 260.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Faz São Paulo x globo "
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44185,
+        "Distância": 55.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste entrevistas "
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "Halan",
+        "BTF": 7,
+        "Frota": 44185,
+        "Distância": 55.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste pós entrevista "
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "Rodrigo ",
+        "BTF": 1,
+        "Frota": 44036,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levando carretas Preventiva "
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "Donizei ",
+        "BTF": 1,
+        "Frota": 44026,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Buscando carretas liberadas "
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44048,
+        "Distância": 172.66,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Fazenda Manga Larga para Fazenda Santa Vitória "
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44052,
+        "Distância": 172.66,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Fazenda Manga Larga para fazenda Santa Vitória  mudança de fazenda "
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44069,
+        "Distância": 172.66,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Fazenda Manga Larga para Fazenda Santa Vitória  mudança de Fazenda "
+    },
+    {
+        "Data": "20/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44183,
+        "Distância": 169.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda São Paulo x Globo "
+    },
+    {
+        "Data": "20/02/2025",
+        "Nome": "Técnico Daniel ",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 50.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta do CM 44073 que deu problema na turbina "
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44179,
+        "Distância": 14.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Saiu da linha 1 para retirar 1 carreta no Ferrari e 2 na oficina 2."
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44092,
+        "Distância": 16.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Cm deslocou duas vezes pátio da linha um automotiva dois levar carreta para preventiva "
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 6.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Retirar carreta na JCF"
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44069,
+        "Distância": 66.5,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Liberação de Motoristas "
+    },
+    {
+        "Data": "20/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 67.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Liberação e teste"
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 6,
+        "Frota": 44205,
+        "Distância": 70.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44203,
+        "Distância": 68.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Laponia SM"
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 0,
+        "Distância": 68.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Laponia SM"
+    },
+    {
+        "Data": "22/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44192,
+        "Distância": 26.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levou 1 carreta no BJ\n2 no Ferrari Diesel "
+    },
+    {
+        "Data": "22/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou três carretas para preventiva e corretiva "
+    },
+    {
+        "Data": "22/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44203,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cavalo com corretiva "
+    },
+    {
+        "Data": "22/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Carreta  com corretiva "
+    },
+    {
+        "Data": "22/02/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Carreta  com corretiva "
+    },
+    {
+        "Data": "22/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 109.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Caminhão foi até a entrada da fazenda Jamaica 2 e precisou ser guinchado para Lapônia de São Manoel "
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 6.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar CT para manutenção"
+    },
+    {
+        "Data": "06/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "LEVAR CT PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44071,
+        "Distância": 5.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "LEVAR CV PARA MANUTENÇÃO NENO VIDROS"
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "LEVAR CT PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "07/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44081,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "LEVAR CV NA MANUTENÇÃO "
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44104,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "LEVAR CT PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "08/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "LEVAR CT NA MANUTENÇÃO"
+    },
+    {
+        "Data": "09/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44093,
+        "Distância": 12.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "MUDANÇA DE FALZENDA BLOCO"
+    },
+    {
+        "Data": "10/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 44080,
+        "Frota": 44080,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "LEVAR CV PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "11/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44091,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "LEVAR CT PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "14/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44099,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "LEVAR CT PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "15/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44098,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "LEVAR CV PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "16/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44105,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "RETIRAR CT DA MANUTENÇÃO"
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "LEVAR CT PARA  MANUTENÇÃO"
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 55.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "TESTE PRATICO"
+    },
+    {
+        "Data": "19/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 161.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "RETIRADA DA CONCESSIONARIA EM OURINHOS"
+    },
+    {
+        "Data": "18/02/2025",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44081,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "LEVAR CV PARA MANUTENÇÃO"
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Uedslei Cunha ",
+        "BTF": 7,
+        "Frota": 44205,
+        "Distância": 70.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático de motoristas BTF06 "
+    },
+    {
+        "Data": "13/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 86.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio de fazenda "
+    },
+    {
+        "Data": "02/01/2025",
+        "Nome": "Uedslei Cunha ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 68.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão apresentou falha no painel, VOAR solicitou que voltasse vazio para a oficina. "
+    },
+    {
+        "Data": "24/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44069,
+        "Distância": 101.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Liberação de Motoristas "
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44193,
+        "Distância": 135.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm foi para a fazenda e precisou voltar apenas o cavalo para a manutenção. Perda de força."
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44193,
+        "Distância": 136.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm foi para a fazenda e precisou voltar apenas o cavalo para a manutenção. Perda de força."
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 228.4,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Entrou em Socorro no trajeto da Faz. Santa Vitoria. "
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 228.4,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Entrou em Socorro no trajeto da Faz. Santa Vitoria. "
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "desengate de carreta "
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Carreta "
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44214,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Fueiro"
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44176,
+        "Distância": 7.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Precisou levar 1 carreta que estava na automotiva 01 para fazer corretiva na automotiva 02."
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 4.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Precisou realizar teste da camera do Creare. Pois não subia os apontamentos. Motorista fez o percurso do patio de varreçao l02 até rotatória da automotiva e voltou p/ linha 2."
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 4.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Precisou realizar teste da camera do Creare. Pois não subia os apontamentos. Motorista fez o percurso do patio de varreçao l02 até rotatória da automotiva e voltou p/ linha 2."
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44022,
+        "Distância": 13.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Mecânica LL Diesel "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44072,
+        "Distância": 105.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Chuva na fazenda São Paulo, foi desviandos pra fazer Jamaica lll "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44100,
+        "Distância": 72.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Chuva na Fazenda São Paulo, foi desviado pra fazenda Jamaica lll "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 42.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Chuva na fazenda São Paulo, foi desviado pra fazenda Jamaica lll "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44189,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção carreta"
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Cavalo"
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44203,
+        "Distância": 14.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção carreta Ferrari"
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44020,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm 020 quebrou na rodovia , segundo má intenção era junta cabeçote e seria necessário guincho mandamos outro cm para assumir a carreta e seguir viagem .\nCm 020 quebrou a caminho da fazenda Santa Luzia do tangará , e quebrou a poucos km de chegar ao destino "
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 1,
+        "Frota": 44120,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Enviamos o cm126 para assumir a carreta pois o cm020 precisou de guincho , com isso o cm126 assumiu a rota "
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44120,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Enviamos o cm126 para assumir a carreta pois o cm020 precisou de guincho , com isso o cm126 assumiu a rota "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção carreta "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Cavalo"
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 0,
+        "Distância": 102.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "CM 020 saiu com nota para a fazenda santa luzia do tangará mais era final de ciclo e faltou madeira foi realizado contato e foi informado ao cm020 prosseguir para fazenda Jamaica 2 em Pirajuí , colaborador precisou ir pelo caminho de Bauru pois a estrada mais curta era de terra e havia chovido dia anterior "
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 140.5,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM afogou e não pegou mais , sendo direcionado para automotiva "
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44022,
+        "Distância": 11.6,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Liberado da LL Diesel e retornou para L1"
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 6,
+        "Frota": 44198,
+        "Distância": 55.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44201,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Buscar carreta"
+    },
+    {
+        "Data": "24/02/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44095,
+        "Distância": 50.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "O mecânico foi testar pra ver se voltava a falha"
+    },
+    {
+        "Data": "27/02/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44198,
+        "Distância": 68.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Saiu carregado da linha 1, sentido Fazenda Mamedina a onde foi realizado testes práticos e retornou na linha 1"
+    },
+    {
+        "Data": "28/02/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44154,
+        "Distância": 12.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Movimentação carreta Ferrari "
+    },
+    {
+        "Data": "28/02/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44167,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm saiu da automotiva passou na linha 1 deixou carreta e seguiu para linha 2 CREARE "
+    },
+    {
+        "Data": "28/02/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44135,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm saiu da automotiva seguiu para linha 1"
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Marcos Domingues ",
+        "BTF": 2,
+        "Frota": 44108,
+        "Distância": 95.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm deu poblema Mecânico teve que retornar de jau para oficina Bracell "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Marcos Domingues ",
+        "BTF": 2,
+        "Frota": 44008,
+        "Distância": 90.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm foi faze aferição de tacografo Bauru "
+    },
+    {
+        "Data": "25/03/2025",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44104,
+        "Distância": 132.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "desvio de fazenda ,finalização do projeto esplanada"
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44093,
+        "Distância": 132.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "desvio de fazenda ,finalização do projeto esplanada"
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 132.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "desvio de fazenda ,finalização do projeto esplanada"
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44104,
+        "Distância": 132.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "desvio de fazenda ,finalização do projeto esplanada"
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44072,
+        "Distância": 132.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "desvio de fazenda ,finalização do projeto esplanada"
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 132.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "desvio de fazenda ,finalização do projeto esplanada"
+    },
+    {
+        "Data": "25/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 132.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "desvio de fazenda ,finalização do projeto esplanada"
+    },
+    {
+        "Data": "24/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 12.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar Ct\"s  oficina terceiro"
+    },
+    {
+        "Data": "24/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44092,
+        "Distância": 8.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar Ct\"s  oficina terceiro"
+    },
+    {
+        "Data": "26/02/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 8.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "levar Ct para manutenção"
+    },
+    {
+        "Data": "28/02/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44008,
+        "Distância": 90.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi para Bauru fazer aferição Tacografo "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Técnico Daniel ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 80.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Se deslocou pra Lapônia SM e voltou depois de pronto "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44093,
+        "Distância": 140.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Deu problema na fazenda e voar veio fez um paliativo pra chegar na Lapônia problema chicote "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44177,
+        "Distância": 11.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 2, automotiva1, linha 1 pegar carreta "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Linha 2, automotiva1, linha 1 desengate, automotiva1, automotiva2 linha 1 pegar nota "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Paulo Boaventura.",
+        "BTF": 4,
+        "Frota": 44090,
+        "Distância": 120.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta do 44093 que estava quebrado na fazenda São Paulo "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Claudemir Martins Lopes",
+        "BTF": 3,
+        "Frota": 44116,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Dois irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Emerson S Oliveira",
+        "BTF": 2,
+        "Frota": 44009,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Dois Irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Luiz Antônio Correia ",
+        "BTF": 3,
+        "Frota": 44015,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio Dois Irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Luiz Antônio Correia ",
+        "BTF": 3,
+        "Frota": 44015,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio Dois Irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Roberto Arcanjo junior",
+        "BTF": 1,
+        "Frota": 44119,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio Dois Irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Luiz Cristiano fernandes",
+        "BTF": 1,
+        "Frota": 44151,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da Dois Irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Antonio carlos de Almeida",
+        "BTF": 3,
+        "Frota": 44011,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio Dois Irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Edirlei g Almeida ",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio Dois Irmãos para Flecha Azul "
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Jorge Armando de Carvalho",
+        "BTF": 3,
+        "Frota": 44001,
+        "Distância": 85.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio Dois Irmãos para Flecha Azul"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Ariovaldo Antônio Roda",
+        "BTF": 3,
+        "Frota": 44020,
+        "Distância": 240.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm foi e voltou vazio pq finalizou a madeira da Faz Dois Irmãos e não foi possível desviá-lo. Teve que voltar para a fábrica "
+    },
+    {
+        "Data": "02/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44158,
+        "Distância": 126.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio de fazenda Lagoa Azul para Jamaica III"
+    },
+    {
+        "Data": "01/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 5.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção no Cavalo"
+    },
+    {
+        "Data": "02/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 177,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção carreta "
+    },
+    {
+        "Data": "02/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44177,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção carreta "
+    },
+    {
+        "Data": "02/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44189,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Preventiva carreta "
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Rodrigo Sousa ",
+        "BTF": 1,
+        "Frota": 44037,
+        "Distância": 19.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar a prancha 53004 da automotiva central para oficina terceiro Agromac. "
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44187,
+        "Distância": 50.8,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutencao na Recar em Agudos ."
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44187,
+        "Distância": 50.81,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutencao na Recar em Agudos ."
+    },
+    {
+        "Data": "21/02/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 140.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Voltando carregado precisou ser guinchado"
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44196,
+        "Distância": 4.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Foi para linha 2 fazer logmeter e voltou para descarregar na linha 1"
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44180,
+        "Distância": 4.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Foi para linha 2 fazer logmeter e voltou para descarregar na linha 1"
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "REGINALDO ANTÔNIO BERTULA ",
+        "BTF": 3,
+        "Frota": 44129,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levo carreta na automotiva e volto na linha 1 engata outra"
+    },
+    {
+        "Data": "04/03/2025",
+        "Nome": "Everton de Souza pinto",
+        "BTF": 3,
+        "Frota": 44014,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saiu da linha 2 Deixou o conj. Na linha 1 e foi pra automotiva "
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44034,
+        "Distância": 74.1,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Entrou em Socorro no trajeto da Faz. GLOBO."
+    },
+    {
+        "Data": "04/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44157,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Carreta"
+    },
+    {
+        "Data": "04/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Carreta Pneu"
+    },
+    {
+        "Data": "04/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 10.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste de câmera Creare"
+    },
+    {
+        "Data": "03/03/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44009,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": " cm 44009 precisou ser guinchado  problema no câmbio , não engatava as marchas "
+    },
+    {
+        "Data": "05/03/2025",
+        "Nome": "JEFERSON DE SOUSA SOARES",
+        "BTF": 3,
+        "Frota": 44115,
+        "Distância": 114.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Deu problema na bomba d'água Lapônia direcionou pra São Manuel (Lapônia)"
+    },
+    {
+        "Data": "05/03/2025",
+        "Nome": "Carlos Roberto da Silva Junior ",
+        "BTF": 3,
+        "Frota": 44123,
+        "Distância": 32.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Foi direcionado pra Lapônia da automotiva 1 pra Lapônia São Manuel "
+    },
+    {
+        "Data": "05/03/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 4,
+        "Frota": 44157,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção depois L2"
+    },
+    {
+        "Data": "04/03/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44043,
+        "Distância": 76.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Quebra na embreagem "
+    },
+    {
+        "Data": "28/02/2025",
+        "Nome": "socrates ",
+        "BTF": 11,
+        "Frota": 4777,
+        "Distância": 10.0,
+        "Local Macro": "Pátio",
+        "Motivo": ""
+    }
+]
