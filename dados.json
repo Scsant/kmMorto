@@ -2338,5 +2338,14 @@
         "Distância": 76.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Quebra na embreagem "
+    },
+    {
+        "Data": "28/02/2025",
+        "Nome": "socrates ",
+        "BTF": 11,
+        "Frota": 4777,
+        "Distância": 10.0,
+        "Local Macro": "Pátio",
+        "Motivo": ""
     }
 ]
