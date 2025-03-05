@@ -2320,5 +2320,14 @@
         "Distância": 32.0,
         "Local Macro": "Nenhum",
         "Motivo": "Foi direcionado pra Lapônia da automotiva 1 pra Lapônia São Manuel "
+    },
+    {
+        "Data": "05/03/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 4,
+        "Frota": 44157,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção depois L2"
     }
 ]
