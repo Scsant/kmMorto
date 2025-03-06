@@ -2473,5 +2473,14 @@
         "Distância": 15.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Saiu linha 2, foi pra linha 1 depois Ferrari e voltou linha 1 "
+    },
+    {
+        "Data": "06/03/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Saiu linha 2, foi pra linha 1 depois Ferrari e voltou linha 1 "
     }
 ]
