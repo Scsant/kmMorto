@@ -2464,5 +2464,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Carreta preventiva "
+    },
+    {
+        "Data": "06/03/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 15.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Saiu linha 2, foi pra linha 1 depois Ferrari e voltou linha 1 "
     }
 ]
