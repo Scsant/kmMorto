@@ -2446,5 +2446,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Preventiva "
+    },
+    {
+        "Data": "06/03/2025",
+        "Nome": "Zeir dos Santos ",
+        "BTF": 3,
+        "Frota": 44131,
+        "Distância": 106.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda de origem bloqueada muito cm's vazio"
     }
 ]
