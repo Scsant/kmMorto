@@ -2482,5 +2482,14 @@
         "Distância": 0.0,
         "Local Macro": "Nenhum",
         "Motivo": "Saiu linha 2, foi pra linha 1 depois Ferrari e voltou linha 1 "
+    },
+    {
+        "Data": "07/03/2025",
+        "Nome": "Elder Paulo",
+        "BTF": 8,
+        "Frota": 44132,
+        "Distância": 451.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm foi para Faz Manga Larga , foi guinchado para Lapônia Araçatuba e depois para Bracell Lp"
     }
 ]
