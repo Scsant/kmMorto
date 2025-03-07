@@ -2500,5 +2500,14 @@
         "Distância": 203.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm foi para Fazenda Manga Larga após seguiu de guincho para Automotiva Bracell "
+    },
+    {
+        "Data": "07/03/2025",
+        "Nome": "Elder Paulo",
+        "BTF": 8,
+        "Frota": 44166,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi pra Automotiva depois linha 1 para desengatar "
     }
 ]
