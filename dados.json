@@ -2563,5 +2563,14 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar Carreta Corretiva"
+    },
+    {
+        "Data": "07/03/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44194,
+        "Distância": 40.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Veículo estava indo para Fazenda Tangará, quando ocorreu quebra, foi desengatado e levado de guincho para Laponia "
     }
 ]
