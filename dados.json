@@ -2545,5 +2545,14 @@
         "Distância": 13.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Desengatar Carreta Linha 1, Abastecer e Buscar Carreta no terceiro"
+    },
+    {
+        "Data": "07/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44201,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levar Carreta Corretiva"
     }
 ]
