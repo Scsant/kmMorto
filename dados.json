@@ -2572,5 +2572,14 @@
         "Distância": 40.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Veículo estava indo para Fazenda Tangará, quando ocorreu quebra, foi desengatado e levado de guincho para Laponia "
+    },
+    {
+        "Data": "07/03/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saiu da linha 2 foi até linha 1 desengatou, e automotiva1 pegar carreta, voltou para linha 2 retirar nota e troca de turno "
     }
 ]
