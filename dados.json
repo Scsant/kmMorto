@@ -2536,5 +2536,14 @@
         "Distância": 7.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Desengatar Carreta Linha 1 e levar Cavalo para corretiva "
+    },
+    {
+        "Data": "07/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 13.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Desengatar Carreta Linha 1, Abastecer e Buscar Carreta no terceiro"
     }
 ]
