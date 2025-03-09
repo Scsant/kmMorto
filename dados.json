@@ -2599,5 +2599,14 @@
         "Distância": 24.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cms usados para movimentação de Carretas para Automotiva "
+    },
+    {
+        "Data": "09/03/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44185,
+        "Distância": 23.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Linha 2 para linha1, automotiva 1 para borracharia em Lençóis, linha 1 retorno para automotiva1, automotiva2 retirar carreta voltou pra linha 1 "
     }
 ]
