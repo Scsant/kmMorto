@@ -2581,5 +2581,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Saiu da linha 2 foi até linha 1 desengatou, e automotiva1 pegar carreta, voltou para linha 2 retirar nota e troca de turno "
+    },
+    {
+        "Data": "09/03/2025",
+        "Nome": "Elder",
+        "BTF": 8,
+        "Frota": 44128,
+        "Distância": 12.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm foi abastecer na linha 2 pois ,sem sucesso desceu para o Skid e orientado novamente a voltar para linha 2"
     }
 ]
