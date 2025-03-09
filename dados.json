@@ -2590,5 +2590,14 @@
         "Distância": 12.0,
         "Local Macro": "Nenhum",
         "Motivo": "Cm foi abastecer na linha 2 pois ,sem sucesso desceu para o Skid e orientado novamente a voltar para linha 2"
+    },
+    {
+        "Data": "09/03/2025",
+        "Nome": "Elder ",
+        "BTF": 2,
+        "Frota": 44008,
+        "Distância": 24.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cms usados para movimentação de Carretas para Automotiva "
     }
 ]
