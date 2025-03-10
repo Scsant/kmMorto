@@ -2617,5 +2617,14 @@
         "Distância": 112.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi fazer um socorro buscando as carretas do cm 44042 que estava próximo a cidade de Pratânia com problemas no motor."
+    },
+    {
+        "Data": "08/03/2025",
+        "Nome": "ROBERTO PEREIRA ",
+        "BTF": 3,
+        "Frota": 44116,
+        "Distância": 50.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Motorista errou a rota indo pra fazenda "
     }
 ]
