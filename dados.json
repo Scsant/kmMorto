@@ -2608,5 +2608,14 @@
         "Distância": 23.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Linha 2 para linha1, automotiva 1 para borracharia em Lençóis, linha 1 retorno para automotiva1, automotiva2 retirar carreta voltou pra linha 1 "
+    },
+    {
+        "Data": "10/03/2025",
+        "Nome": "Fabio Flávio da Silva",
+        "BTF": 1,
+        "Frota": 44120,
+        "Distância": 112.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi fazer um socorro buscando as carretas do cm 44042 que estava próximo a cidade de Pratânia com problemas no motor."
     }
 ]
