@@ -2788,5 +2788,14 @@
         "Distância": 12.0,
         "Local Macro": "Nenhum",
         "Motivo": "Motorista seguiu para abastecimento na lwart mais está a cheio de caminhão no lugar pediram para seguir para skid da manutenção para fazer abastecimento "
+    },
+    {
+        "Data": "11/03/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção Lapônia "
     }
 ]
