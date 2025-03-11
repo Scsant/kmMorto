@@ -2824,5 +2824,14 @@
         "Distância": 7.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção na Cavalo troca do tanque "
+    },
+    {
+        "Data": "11/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção na Carreta"
     }
 ]
