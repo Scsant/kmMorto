@@ -2752,5 +2752,14 @@
         "Distância": 5.0,
         "Local Macro": "OT L2",
         "Motivo": "Linha 2 para linha 1 troca de turno "
+    },
+    {
+        "Data": "11/03/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44173,
+        "Distância": 5.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Troca de turno linha 2 para linha 1 "
     }
 ]
