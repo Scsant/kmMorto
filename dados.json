@@ -2770,5 +2770,14 @@
         "Distância": 23.5,
         "Local Macro": "Automotiva 1",
         "Motivo": "CM retornou para automotiva "
+    },
+    {
+        "Data": "11/03/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44173,
+        "Distância": 11.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm saiu para fazer retirada de carreta na Automotiva 1"
     }
 ]
