@@ -2743,5 +2743,14 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carreta"
+    },
+    {
+        "Data": "11/03/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44169,
+        "Distância": 5.0,
+        "Local Macro": "OT L2",
+        "Motivo": "Linha 2 para linha 1 troca de turno "
     }
 ]
