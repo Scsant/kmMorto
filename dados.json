@@ -2761,5 +2761,14 @@
         "Distância": 5.0,
         "Local Macro": "OT L1",
         "Motivo": "Troca de turno linha 2 para linha 1 "
+    },
+    {
+        "Data": "11/03/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44067,
+        "Distância": 23.5,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "CM retornou para automotiva "
     }
 ]
