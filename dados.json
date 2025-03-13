@@ -2878,5 +2878,14 @@
         "Distância": 5.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carreta "
+    },
+    {
+        "Data": "12/03/2025",
+        "Nome": "Técnico Daniel ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi levar a carreta pra preventiva e buscou dois conjuntos na mesma pra L1"
     }
 ]
