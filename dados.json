@@ -2887,5 +2887,14 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Foi levar a carreta pra preventiva e buscou dois conjuntos na mesma pra L1"
+    },
+    {
+        "Data": "11/03/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 53.2,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
