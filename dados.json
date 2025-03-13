@@ -2923,5 +2923,14 @@
         "Distância": 53.0,
         "Local Macro": "Teste Prático",
         "Motivo": ""
+    },
+    {
+        "Data": "13/03/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44123,
+        "Distância": 113.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Precisou guinchar da Fazenda São Domingos \n para Lapônia São Manuel "
     }
 ]
