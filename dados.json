@@ -2968,5 +2968,14 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Linha 1 - Manutenção Carreta- Linha 1"
+    },
+    {
+        "Data": "14/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 11.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Linha 1 - Manutenção Carreta Skid - Automotiva 2"
     }
 ]
