@@ -2986,5 +2986,14 @@
         "Distância": 167.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Vazamento óleo motor "
+    },
+    {
+        "Data": "13/03/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44087,
+        "Distância": 14.5,
+        "Local Macro": "Pátio",
+        "Motivo": "Pátio da PRF Guaiçara"
     }
 ]
