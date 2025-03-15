@@ -3022,5 +3022,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Fez manutenção na carreta na oficina 01 e voltou para desengatar na Linha e retornou novamente para Automotiva 01 Manut no cavalo "
+    },
+    {
+        "Data": "15/03/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44056,
+        "Distância": 46.5,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM entrou em Socorro próximo a Bauru vazio."
     }
 ]
