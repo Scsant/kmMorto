@@ -2977,5 +2977,14 @@
         "Distância": 11.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Linha 1 - Manutenção Carreta Skid - Automotiva 2"
+    },
+    {
+        "Data": "12/03/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44067,
+        "Distância": 167.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Vazamento óleo motor "
     }
 ]
