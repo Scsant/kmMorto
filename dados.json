@@ -3076,5 +3076,14 @@
         "Distância": 170.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Entrou em Socorro no trajeto Faz. SANTA  MARIANA. "
+    },
+    {
+        "Data": "16/03/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44056,
+        "Distância": 154.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "CM com problema mecanico retornou para automotiva 1 \nA pedido da Manutenção "
     }
 ]
