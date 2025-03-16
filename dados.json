@@ -3031,5 +3031,14 @@
         "Distância": 46.5,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM entrou em Socorro próximo a Bauru vazio."
+    },
+    {
+        "Data": "16/03/2025",
+        "Nome": "Elder Paulo",
+        "BTF": 2,
+        "Frota": 44012,
+        "Distância": 8.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Fui na linha 1 mandou na linha 2 , vim na linha 2 mandou voltar na linha 1 relato do motorista "
     }
 ]
