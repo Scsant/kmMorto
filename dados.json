@@ -3058,5 +3058,14 @@
         "Distância": 147.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Chuva na fazenda precisando mudando os cm's de projeto"
+    },
+    {
+        "Data": "16/03/2025",
+        "Nome": "Carlos Eduardo",
+        "BTF": 3,
+        "Frota": 44131,
+        "Distância": 4.0,
+        "Local Macro": "Pátio",
+        "Motivo": " a balança 1 pediu pra descarregar na 2 chegando na 2 falou pra descarregar na 1"
     }
 ]
