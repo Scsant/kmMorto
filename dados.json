@@ -3085,5 +3085,14 @@
         "Distância": 154.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "CM com problema mecanico retornou para automotiva 1 \nA pedido da Manutenção "
+    },
+    {
+        "Data": "09/03/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44067,
+        "Distância": 9.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": ""
     }
 ]
