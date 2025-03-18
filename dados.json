@@ -3148,5 +3148,14 @@
         "Distância": 44.3,
         "Local Macro": "Teste Prático",
         "Motivo": ""
+    },
+    {
+        "Data": "18/03/2025",
+        "Nome": "Reginaldo Bertula",
+        "BTF": 3,
+        "Frota": 44121,
+        "Distância": 10.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Engate de carreta liberada na Ferrari diesel \nCm 44121 desengatou na linha 01 e seguiu para engate de carreta na oficina Ferrari buscar carreta e partiu para campo ."
     }
 ]
