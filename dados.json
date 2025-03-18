@@ -3139,5 +3139,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cm desengatou na linha 1 e foi para Automotiva após a manutenção retornou para linha 1 para engatar as carretas "
+    },
+    {
+        "Data": "18/03/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 3,
+        "Frota": 44054,
+        "Distância": 44.3,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
