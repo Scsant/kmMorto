@@ -3130,5 +3130,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Movimentação carreta "
+    },
+    {
+        "Data": "18/03/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 0,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm desengatou na linha 1 e foi para Automotiva após a manutenção retornou para linha 1 para engatar as carretas "
     }
 ]
