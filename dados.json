@@ -3121,5 +3121,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Movimentação carreta "
+    },
+    {
+        "Data": "18/03/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Movimentação carreta "
     }
 ]
