@@ -3157,5 +3157,14 @@
         "Distância": 10.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Engate de carreta liberada na Ferrari diesel \nCm 44121 desengatou na linha 01 e seguiu para engate de carreta na oficina Ferrari buscar carreta e partiu para campo ."
+    },
+    {
+        "Data": "19/03/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44007,
+        "Distância": 252.08,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Problema mecânico "
     }
 ]
