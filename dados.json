@@ -34,5 +34,14 @@
         "Distância": 4.0,
         "Local Macro": "Nenhum",
         "Motivo": "Abastecer Lwart, sem energia, voltou para Skid"
+    },
+    {
+        "Data": "19/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44157,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levar Carreta automotiva "
     }
 ]
