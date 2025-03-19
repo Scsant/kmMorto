@@ -16,5 +16,14 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Linha 2, automotiva 1 depois automotiva 2, linha 1 engatar carreta "
+    },
+    {
+        "Data": "19/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 18.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Desengate na linha1,  buscar carreta Automotiva e levar para terceiro"
     }
 ]
