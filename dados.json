@@ -70,5 +70,14 @@
         "Distância": 5.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carreta"
+    },
+    {
+        "Data": "20/03/2025",
+        "Nome": "Luiz Fabiano ",
+        "BTF": 2,
+        "Frota": 44112,
+        "Distância": 45.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste de candidatos."
     }
 ]
