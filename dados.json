@@ -79,5 +79,14 @@
         "Distância": 45.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste de candidatos."
+    },
+    {
+        "Data": "20/03/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44113,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm foi para Automotiva apos voltou para linha 1 para desengatar e depois seguiu para campo"
     }
 ]
