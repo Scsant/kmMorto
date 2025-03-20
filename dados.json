@@ -61,5 +61,14 @@
         "Distância": 297.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Entrou em Socorro Carregado no trajeto da Faz. Santa Mariana. "
+    },
+    {
+        "Data": "20/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 5.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Carreta"
     }
 ]
