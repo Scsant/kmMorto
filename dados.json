@@ -52,5 +52,14 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levar Carreta automotiva 1, pegar carreta na automotiva 2 deixar na linha 1"
+    },
+    {
+        "Data": "20/03/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44068,
+        "Distância": 297.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Entrou em Socorro Carregado no trajeto da Faz. Santa Mariana. "
     }
 ]
