@@ -88,5 +88,14 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cm foi para Automotiva apos voltou para linha 1 para desengatar e depois seguiu para campo"
+    },
+    {
+        "Data": "20/03/2025",
+        "Nome": "Elder Paulo",
+        "BTF": 2,
+        "Frota": 44000,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm desengatou na linha 1 e após automotiva e após linha 1"
     }
 ]
