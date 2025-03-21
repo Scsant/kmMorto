@@ -223,5 +223,14 @@
         "Distância": 15.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Movimentação de carretas para terceiro"
+    },
+    {
+        "Data": "21/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44159,
+        "Distância": 24.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levou a carreta e depois voltou para buscar."
     }
 ]
