@@ -214,5 +214,14 @@
         "Distância": 15.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Movimentação de carretas para terceiro"
+    },
+    {
+        "Data": "21/03/2025",
+        "Nome": "REGINALDO DE OLIVEIRA ",
+        "BTF": 3,
+        "Frota": 44066,
+        "Distância": 15.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Movimentação de carretas para terceiro"
     }
 ]
