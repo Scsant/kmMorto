@@ -196,5 +196,14 @@
         "Distância": 14.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Buscar duas carretas e levar o CM na automotiva "
+    },
+    {
+        "Data": "20/03/2025",
+        "Nome": "Octavio Sacoman",
+        "BTF": 3,
+        "Frota": 44115,
+        "Distância": 50.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Movimentação de carretas para terceiro"
     }
 ]
