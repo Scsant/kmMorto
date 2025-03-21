@@ -232,5 +232,14 @@
         "Distância": 24.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levou a carreta e depois voltou para buscar."
+    },
+    {
+        "Data": "21/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44184,
+        "Distância": 67.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Ida e volta Lapônia São Manuel"
     }
 ]
