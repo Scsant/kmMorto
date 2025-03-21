@@ -142,5 +142,14 @@
         "Distância": 13.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Buscar carreta, porém chegou lá não estava pronta voltou linha 1 "
+    },
+    {
+        "Data": "21/03/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi retirar carreta automotiva ll levar na linha um depois retornou automotiva um"
     }
 ]
