@@ -133,5 +133,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Cm passou no Skidy, levou a carreta na automotiva ll retornou na linha um."
+    },
+    {
+        "Data": "21/03/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44203,
+        "Distância": 13.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Buscar carreta, porém chegou lá não estava pronta voltou linha 1 "
     }
 ]
