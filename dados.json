@@ -178,5 +178,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Foi levar carreta pra corretiva e voltou pegar outro conjunto "
+    },
+    {
+        "Data": "20/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44098,
+        "Distância": 20.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Saiu com o mecânico testar o CM na rodovia "
     }
 ]
