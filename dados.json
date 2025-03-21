@@ -151,5 +151,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Foi retirar carreta automotiva ll levar na linha um depois retornou automotiva um"
+    },
+    {
+        "Data": "21/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Ele foi levar dou conjuntos pra corretivas "
     }
 ]
