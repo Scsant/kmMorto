@@ -268,5 +268,14 @@
         "Distância": 13.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Retirar carretas da do skid e da automotiva para levar para linha I. "
+    },
+    {
+        "Data": "22/03/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44153,
+        "Distância": 10.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Troca de fazenda manga larga para santa Catarina "
     }
 ]
