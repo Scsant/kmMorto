@@ -331,5 +331,14 @@
         "Distância": 8.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Foi testar o CM  com mecânico "
+    },
+    {
+        "Data": "22/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44071,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi buscar carreta "
     }
 ]
