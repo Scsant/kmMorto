@@ -286,5 +286,14 @@
         "Distância": 10.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Troca de fazenda manga larga para santa Catarina "
+    },
+    {
+        "Data": "22/03/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44148,
+        "Distância": 9.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação de carreta da automotiva da linha 1 para automotiva 2"
     }
 ]
