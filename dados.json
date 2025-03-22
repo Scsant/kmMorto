@@ -295,5 +295,14 @@
         "Distância": 9.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Movimentação de carreta da automotiva da linha 1 para automotiva 2"
+    },
+    {
+        "Data": "21/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44071,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi levar carreta na manutenção "
     }
 ]
