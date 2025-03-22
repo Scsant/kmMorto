@@ -304,5 +304,14 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Foi levar carreta na manutenção "
+    },
+    {
+        "Data": "22/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi pra corretivas na carreta "
     }
 ]
