@@ -250,5 +250,14 @@
         "Distância": 100.0,
         "Local Macro": "Nenhum",
         "Motivo": "No trajeto pra fazer Turvinho ll quebrou o fueiro da segunda carreta impossibilitando o carregamento Cm retornou para automotiva (fueiro quebrou na base do chassis não tinha como fazer o socorro no trajeto)"
+    },
+    {
+        "Data": "21/03/2025",
+        "Nome": "Jean",
+        "BTF": 1,
+        "Frota": 44003,
+        "Distância": 50.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Realizando movimentações de carretas para a automotiva. "
     }
 ]
