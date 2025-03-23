@@ -440,5 +440,15 @@
         "Distância": 22.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Caminhão desviado para fazenda, porém cancelaram o desvio"
+    },
+    {
+        "Data": "23/03/2025",
+        "Data de Registro": "23/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar carreta pr manutenção "
     }
 ]
