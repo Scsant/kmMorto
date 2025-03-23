@@ -370,5 +370,15 @@
         "Distância": 28.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caiu o Cardan vazio e retorno pra automotiva no guincho"
+    },
+    {
+        "Data": "23/03/2025",
+        "Data de Registro": "23/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 35.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Caminhão desviado para fazenda, porém cancelaram o desvio"
     }
 ]
