@@ -360,5 +360,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "manutenção carreta"
+    },
+    {
+        "Data": "22/03/2025",
+        "Data de Registro": "23/03/2025",
+        "Nome": "CELSO DIAS ",
+        "BTF": 3,
+        "Frota": 44010,
+        "Distância": 28.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caiu o Cardan vazio e retorno pra automotiva no guincho"
     }
 ]
