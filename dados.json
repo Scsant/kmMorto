@@ -460,5 +460,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levou a carreta pra corretivas e voltou na l1 pegar outra carreta "
+    },
+    {
+        "Data": "23/03/2025",
+        "Data de Registro": "23/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44213,
+        "Distância": 9.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Erro de trajeto "
     }
 ]
