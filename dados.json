@@ -530,5 +530,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Posto Luwart após L1"
+    },
+    {
+        "Data": "24/03/2025",
+        "Data de Registro": "24/03/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44014,
+        "Distância": 36.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm 44014 foi resgatar carreta na rodovia "
     }
 ]
