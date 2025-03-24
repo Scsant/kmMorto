@@ -550,5 +550,15 @@
         "Distância": 90.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Tacógrafo "
+    },
+    {
+        "Data": "24/03/2025",
+        "Data de Registro": "24/03/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 45.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste mecânico "
     }
 ]
