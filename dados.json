@@ -590,5 +590,15 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar carreta automotiva1 e voltar linha 1 e depois automotiva 1"
+    },
+    {
+        "Data": "24/03/2025",
+        "Data de Registro": "24/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44100,
+        "Distância": 22.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi levar carreta no terceiro "
     }
 ]
