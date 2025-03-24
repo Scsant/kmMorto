@@ -480,5 +480,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Movimentação carreta "
+    },
+    {
+        "Data": "24/03/2025",
+        "Data de Registro": "24/03/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação carreta "
     }
 ]
