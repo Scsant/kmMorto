@@ -540,5 +540,15 @@
         "Distância": 36.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm 44014 foi resgatar carreta na rodovia "
+    },
+    {
+        "Data": "24/03/2025",
+        "Data de Registro": "24/03/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44000,
+        "Distância": 90.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Tacógrafo "
     }
 ]
