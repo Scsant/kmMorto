@@ -570,5 +570,15 @@
         "Distância": 9.5,
         "Local Macro": "Automotiva 2",
         "Motivo": "automotiva1 para automotiva2"
+    },
+    {
+        "Data": "23/03/2025",
+        "Data de Registro": "24/03/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 2.0,
+        "Local Macro": "OT L1",
+        "Motivo": "automotiva1 para linha 1 "
     }
 ]
