@@ -640,5 +640,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Pediu  pra levar a carreta fazer manutenção chegando lá pediu pra voltar que não tinha vaga "
+    },
+    {
+        "Data": "25/03/2025",
+        "Data de Registro": "25/03/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 7.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
