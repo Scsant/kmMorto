@@ -600,5 +600,15 @@
         "Distância": 22.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Foi levar carreta no terceiro "
+    },
+    {
+        "Data": "25/03/2025",
+        "Data de Registro": "25/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 9.5,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar CT automotiva 1, levar  CT linha 1"
     }
 ]
