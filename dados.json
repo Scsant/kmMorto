@@ -810,5 +810,15 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Foi pra manutenção e ajudando pra tirar carreta pra linha 1"
+    },
+    {
+        "Data": "26/03/2025",
+        "Data de Registro": "26/03/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44180,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Buscar carreta e retirar ot na linha 1."
     }
 ]
