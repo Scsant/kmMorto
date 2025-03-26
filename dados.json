@@ -720,5 +720,15 @@
         "Distância": 6.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Tucunaré "
+    },
+    {
+        "Data": "26/03/2025",
+        "Data de Registro": "26/03/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44178,
+        "Distância": 25.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Caminhão estava indo sentido Fazenda Marília e precisou voltar para Fazenda Tangará "
     }
 ]
