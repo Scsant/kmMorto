@@ -700,5 +700,15 @@
         "Distância": 35.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Deslocamento Scania Bauru para Bracell"
+    },
+    {
+        "Data": "24/03/2025",
+        "Data de Registro": "26/03/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44057,
+        "Distância": 6.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Tucunare "
     }
 ]
