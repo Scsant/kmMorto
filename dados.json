@@ -670,5 +670,15 @@
         "Distância": 271.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Sinistro com CM carregado, guinchado para Lapônia São Manoel "
+    },
+    {
+        "Data": "20/03/2025",
+        "Data de Registro": "26/03/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44068,
+        "Distância": 270.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM utilizado pra buscar carreta Sinistrada (Tombamento)"
     }
 ]
