@@ -660,5 +660,15 @@
         "Distância": 8.5,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cm no rechego foi até automotiva1 para arrumar pneu e voltou operação rechego "
+    },
+    {
+        "Data": "20/03/2025",
+        "Data de Registro": "26/03/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44087,
+        "Distância": 271.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Sinistro com CM carregado, guinchado para Lapônia São Manoel "
     }
 ]
