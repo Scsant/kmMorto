@@ -830,5 +830,15 @@
         "Distância": 7.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Gutierres Manutenção no Cavalo"
+    },
+    {
+        "Data": "26/03/2025",
+        "Data de Registro": "26/03/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 30.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Tangará x colina "
     }
 ]
