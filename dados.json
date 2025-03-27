@@ -920,5 +920,15 @@
         "Distância": 20.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Foram fazer testes mas retornou pra automotiva "
+    },
+    {
+        "Data": "27/03/2025",
+        "Data de Registro": "27/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44092,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi na automotiva buscar carreta e levar pra l1"
     }
 ]
