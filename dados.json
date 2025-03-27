@@ -910,5 +910,15 @@
         "Distância": 129.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM apresentou problema na embreagem, guinchado para Laponia de ourinhos."
+    },
+    {
+        "Data": "26/03/2025",
+        "Data de Registro": "27/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44098,
+        "Distância": 20.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Foram fazer testes mas retornou pra automotiva "
     }
 ]
