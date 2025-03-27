@@ -900,5 +900,15 @@
         "Distância": 30.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Tangará x colina "
+    },
+    {
+        "Data": "27/03/2025",
+        "Data de Registro": "27/03/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44078,
+        "Distância": 129.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM apresentou problema na embreagem, guinchado para Laponia de ourinhos."
     }
 ]
