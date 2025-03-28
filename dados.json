@@ -930,5 +930,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Foi na automotiva buscar carreta e levar pra l1"
+    },
+    {
+        "Data": "28/03/2025",
+        "Data de Registro": "28/03/2025",
+        "Nome": "Ananias ruiz",
+        "BTF": 3,
+        "Frota": 44131,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Desengate na Linha 1 e foi para Corretiva\nVoltou na Linha1 para engate de carretas"
     }
 ]
