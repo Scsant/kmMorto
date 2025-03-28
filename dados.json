@@ -1020,5 +1020,15 @@
         "Distância": 16.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio da Fazenda Noiva da Colina para Tangará "
+    },
+    {
+        "Data": "28/03/2025",
+        "Data de Registro": "28/03/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44070,
+        "Distância": 32.4,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Viagem acompanhada com motorista Jubel de Oliveira"
     }
 ]
