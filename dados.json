@@ -940,5 +940,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Desengate na Linha 1 e foi para Corretiva\nVoltou na Linha1 para engate de carretas"
+    },
+    {
+        "Data": "28/03/2025",
+        "Data de Registro": "28/03/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 20.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "44082 foi buscar a carreta do 44090 ... Quebrou no trajeto carregado precisou ser  deslocado até automotiva no guincho."
     }
 ]
