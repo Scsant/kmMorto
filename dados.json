@@ -950,5 +950,15 @@
         "Distância": 20.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "44082 foi buscar a carreta do 44090 ... Quebrou no trajeto carregado precisou ser  deslocado até automotiva no guincho."
+    },
+    {
+        "Data": "28/03/2025",
+        "Data de Registro": "28/03/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44201,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Carreta "
     }
 ]
