@@ -1310,5 +1310,15 @@
         "Distância": 154.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Mecânico "
+    },
+    {
+        "Data": "29/03/2025",
+        "Data de Registro": "29/03/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44095,
+        "Distância": 100.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Central envio desvios sem avisar "
     }
 ]
