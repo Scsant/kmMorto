@@ -1180,5 +1180,15 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Linha 1 - Automotiva 1 - Linha 1"
+    },
+    {
+        "Data": "27/03/2025",
+        "Data de Registro": "29/03/2025",
+        "Nome": "Ricardo Aparecido da Silva ",
+        "BTF": 5,
+        "Frota": 44103,
+        "Distância": 97.7,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "CM  Desviado \" adversidades meterelogicas\""
     }
 ]
