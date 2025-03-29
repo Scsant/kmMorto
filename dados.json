@@ -1060,5 +1060,15 @@
         "Distância": 5.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carreta  Automotiva SKid"
+    },
+    {
+        "Data": "29/03/2025",
+        "Data de Registro": "29/03/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 5,
+        "Frota": 44030,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saiu da linha 1 para levar carreta em Preventiva na oficina 1 e retornou para linha 1"
     }
 ]
