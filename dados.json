@@ -1140,5 +1140,15 @@
         "Distância": 6.0,
         "Local Macro": "OT L1",
         "Motivo": "Saiu da linha 1, foi abastecer no Auto Posto e retornou na linha 1"
+    },
+    {
+        "Data": "29/03/2025",
+        "Data de Registro": "29/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44177,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Carreta "
     }
 ]
