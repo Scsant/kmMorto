@@ -1370,5 +1370,15 @@
         "Distância": 100.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Central envio desvios sem avisar e estávamos em mudança de fazenda e saiu do nosso controle "
+    },
+    {
+        "Data": "29/03/2025",
+        "Data de Registro": "29/03/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44117,
+        "Distância": 170.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio faz Guarani 1 para turvinho "
     }
 ]
