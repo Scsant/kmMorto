@@ -1400,5 +1400,15 @@
         "Distância": 140.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio para Fazenda Turvinho "
+    },
+    {
+        "Data": "29/03/2025",
+        "Data de Registro": "29/03/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação carreta "
     }
 ]
