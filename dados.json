@@ -1380,5 +1380,15 @@
         "Distância": 170.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio faz Guarani 1 para turvinho "
+    },
+    {
+        "Data": "29/03/2025",
+        "Data de Registro": "29/03/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44109,
+        "Distância": 140.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Para Fazenda Tuvinho"
     }
 ]
