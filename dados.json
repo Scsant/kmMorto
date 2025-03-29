@@ -1130,5 +1130,15 @@
         "Distância": 6.0,
         "Local Macro": "OT L1",
         "Motivo": "Saiu da linha 2 para abastecer no Auto Posto e seguiu para linha 1"
+    },
+    {
+        "Data": "29/03/2025",
+        "Data de Registro": "29/03/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 6.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Saiu da linha 1, foi abastecer no Auto Posto e retornou na linha 1"
     }
 ]
