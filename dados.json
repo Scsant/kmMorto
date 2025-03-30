@@ -1430,5 +1430,15 @@
         "Distância": 32.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Deslocamento Bracell x Laponia são manuel"
+    },
+    {
+        "Data": "30/03/2025",
+        "Data de Registro": "30/03/2025",
+        "Nome": "Alex Brandão ",
+        "BTF": 6,
+        "Frota": 44154,
+        "Distância": 4.000000000000002,
+        "Local Macro": "OT L1",
+        "Motivo": "Caminhão saiu da linha 1 e foi até o creare para instalar o cartão de memória e vai ser instalado somente na segunda feira. ( hoje é domingo e o escritório não abre ) 44154 trocou o parabrisa."
     }
 ]
