@@ -1440,5 +1440,15 @@
         "Distância": 4.000000000000002,
         "Local Macro": "OT L1",
         "Motivo": "Caminhão saiu da linha 1 e foi até o creare para instalar o cartão de memória e vai ser instalado somente na segunda feira. ( hoje é domingo e o escritório não abre ) 44154 trocou o parabrisa."
+    },
+    {
+        "Data": "30/03/2025",
+        "Data de Registro": "30/03/2025",
+        "Nome": "Fábio Santos ",
+        "BTF": 7,
+        "Frota": 44163,
+        "Distância": 4.999999999999998,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Saiu da linha 1 com o cavalo, pegou a carreta na automotiva e levou para automotiva 2. E retornou com outra carreta que estava liberada para linha 1"
     }
 ]
