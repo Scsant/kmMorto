@@ -1420,5 +1420,15 @@
         "Distância": 120.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM estava sentido Fazenda Marília 2, quando apresentou problemas mecânicos e precisou ser guinchado. "
+    },
+    {
+        "Data": "30/03/2025",
+        "Data de Registro": "30/03/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44086,
+        "Distância": 32.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Deslocamento Bracell x Laponia são manuel"
     }
 ]
