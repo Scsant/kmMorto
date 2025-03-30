@@ -1450,5 +1450,15 @@
         "Distância": 4.999999999999998,
         "Local Macro": "Automotiva 2",
         "Motivo": "Saiu da linha 1 com o cavalo, pegou a carreta na automotiva e levou para automotiva 2. E retornou com outra carreta que estava liberada para linha 1"
+    },
+    {
+        "Data": "30/03/2025",
+        "Data de Registro": "30/03/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 3.2,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Linha 2 para automotiva1 troca de pneu"
     }
 ]
