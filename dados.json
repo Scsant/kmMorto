@@ -1460,5 +1460,15 @@
         "Distância": 3.2,
         "Local Macro": "Automotiva 1",
         "Motivo": "Linha 2 para automotiva1 troca de pneu"
+    },
+    {
+        "Data": "30/03/2025",
+        "Data de Registro": "30/03/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44054,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Apoio da movimentação de carreta automotiva 01 para automotiva 02"
     }
 ]
