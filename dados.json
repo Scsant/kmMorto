@@ -1500,5 +1500,15 @@
         "Distância": 14.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Linha 1 , Automotiva 1, levar Carreta na automotiva 2, levar Carreta Linha 1"
+    },
+    {
+        "Data": "31/03/2025",
+        "Data de Registro": "31/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Carreta"
     }
 ]
