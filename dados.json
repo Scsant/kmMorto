@@ -1490,5 +1490,15 @@
         "Distância": 263.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Falha mecânica embreagem "
+    },
+    {
+        "Data": "31/03/2025",
+        "Data de Registro": "31/03/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Linha 1 , Automotiva 1, levar Carreta na automotiva 2, levar Carreta Linha 1"
     }
 ]
