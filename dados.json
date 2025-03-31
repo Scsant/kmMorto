@@ -1480,5 +1480,15 @@
         "Distância": 32.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Seguia destino a fazenda Maria 2, por motivo de chuva foi desviado para Fazenda Lagoa Bonita"
+    },
+    {
+        "Data": "30/03/2025",
+        "Data de Registro": "31/03/2025",
+        "Nome": "Jose Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44062,
+        "Distância": 263.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Falha mecânica embreagem "
     }
 ]
