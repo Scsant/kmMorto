@@ -1690,5 +1690,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Retirou uma carreta automotiva um e também \n retirou uma carreta automotiva dois ambas foi levada na linha um "
+    },
+    {
+        "Data": "01/04/2025",
+        "Data de Registro": "01/04/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levou um carreta no Ferrari, depois levou outra carreta na automotiva dois e retornou na linha um."
     }
 ]
