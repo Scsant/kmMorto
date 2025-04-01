@@ -1720,5 +1720,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção  Carreta "
+    },
+    {
+        "Data": "01/04/2025",
+        "Data de Registro": "01/04/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Acionado o VOAR SKID"
     }
 ]
