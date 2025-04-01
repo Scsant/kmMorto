@@ -1750,5 +1750,15 @@
         "Distância": 40.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desviado da Faz Santa Mariana para Lagoa Bonita"
+    },
+    {
+        "Data": "01/04/2025",
+        "Data de Registro": "01/04/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 47.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste de motorista "
     }
 ]
