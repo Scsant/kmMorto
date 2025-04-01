@@ -1730,5 +1730,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Acionado o VOAR SKID"
+    },
+    {
+        "Data": "01/04/2025",
+        "Data de Registro": "01/04/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 40.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desviado da Faz Santa Mariana para Lagoa Bonita"
     }
 ]
