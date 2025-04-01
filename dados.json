@@ -1700,5 +1700,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levou um carreta no Ferrari, depois levou outra carreta na automotiva dois e retornou na linha um."
+    },
+    {
+        "Data": "01/04/2025",
+        "Data de Registro": "01/04/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção  Carreta "
     }
 ]
