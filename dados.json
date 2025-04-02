@@ -1770,5 +1770,15 @@
         "Distância": 7.0,
         "Local Macro": "Teste Prático",
         "Motivo": ""
+    },
+    {
+        "Data": "02/04/2025",
+        "Data de Registro": "02/04/2025",
+        "Nome": "Luiz Fabiano ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 5.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
