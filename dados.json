@@ -1840,5 +1840,15 @@
         "Distância": 16.0,
         "Local Macro": "Nenhum",
         "Motivo": "Cm precisou retornar para Automotiva para manutenção na Carreta problemas de freio"
+    },
+    {
+        "Data": "03/04/2025",
+        "Data de Registro": "03/04/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44112,
+        "Distância": 8.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Cm foi levar Carretas na oficina Ferrari e após retorno para Creare linha 2"
     }
 ]
