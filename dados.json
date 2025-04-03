@@ -1820,5 +1820,15 @@
         "Distância": 189.8,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio devido adversidades Metereologicas. "
+    },
+    {
+        "Data": "01/04/2025",
+        "Data de Registro": "03/04/2025",
+        "Nome": "Ricardo Ap. da Silva ",
+        "BTF": 5,
+        "Frota": 44057,
+        "Distância": 284.7,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Entrou em Socorro no trajeto da FZ Santa Mariana. "
     }
 ]
