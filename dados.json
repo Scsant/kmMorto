@@ -1910,5 +1910,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Cavalo "
+    },
+    {
+        "Data": "04/04/2025",
+        "Data de Registro": "04/04/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 20.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Movimentação carreta "
     }
 ]
