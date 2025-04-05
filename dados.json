@@ -2020,5 +2020,15 @@
         "Distância": 25.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Veículo apresentou falha Arla, estava na rondon voltou para Skid."
+    },
+    {
+        "Data": "05/04/2025",
+        "Data de Registro": "05/04/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 6.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "linha 2 para automotiva1, depois automotiva 1 linha 2 troca de turno e pegar nota "
     }
 ]
