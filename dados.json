@@ -2040,5 +2040,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Box Volvo "
+    },
+    {
+        "Data": "05/04/2025",
+        "Data de Registro": "05/04/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 1,
+        "Frota": 44018,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levar carreta pra manutenção "
     }
 ]
