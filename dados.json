@@ -2030,5 +2030,15 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "linha 2 para automotiva1, depois automotiva 1 linha 2 troca de turno e pegar nota "
+    },
+    {
+        "Data": "05/04/2025",
+        "Data de Registro": "05/04/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44092,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Box Volvo "
     }
 ]
