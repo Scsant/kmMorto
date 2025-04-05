@@ -2010,5 +2010,15 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Movimentação carretas "
+    },
+    {
+        "Data": "05/04/2025",
+        "Data de Registro": "05/04/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 25.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Veículo apresentou falha Arla, estava na rondon voltou para Skid."
     }
 ]
