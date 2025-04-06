@@ -2050,5 +2050,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar carreta pra manutenção "
+    },
+    {
+        "Data": "02/04/2025",
+        "Data de Registro": "06/04/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 110.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Tangará para Noiva da colina "
     }
 ]
