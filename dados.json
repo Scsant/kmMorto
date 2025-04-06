@@ -2170,5 +2170,15 @@
         "Distância": 29.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Ao finalizar  a Fazenda Lagoa Bonita. A carga nao deu para finalizar o caminhão e o caminhão se deslocou com meia carga para Fazenda Ebenezia.  29km"
+    },
+    {
+        "Data": "06/04/2025",
+        "Data de Registro": "06/04/2025",
+        "Nome": "Ricardo Marques ",
+        "BTF": 6,
+        "Frota": 44178,
+        "Distância": 29.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Ao finalizar  a Fazenda Lagoa Bonita. O caminhão  para Fazenda Ebenezia.  29km"
     }
 ]
