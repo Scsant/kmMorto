@@ -2130,5 +2130,15 @@
         "Distância": 8.6,
         "Local Macro": "Automotiva 1",
         "Motivo": "Linha 2 para automotiva1, depois voltou linha 2 pegar nota "
+    },
+    {
+        "Data": "06/04/2025",
+        "Data de Registro": "06/04/2025",
+        "Nome": "Vanderleia Aparecida ",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 29.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Ao finalizar  a Fazenda Lagoa Bonita. O caminhão se deslocou vazio para Fazenda Ebenezia.  29km"
     }
 ]
