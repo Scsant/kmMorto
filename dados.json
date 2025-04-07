@@ -48,5 +48,15 @@
         "Distância": 25.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Vistoria Milão "
+    },
+    {
+        "Data": "07/04/2025",
+        "Data de Registro": "07/04/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44180,
+        "Distância": 8.0,
+        "Local Macro": "OT L2",
+        "Motivo": "Abastecer e pegar OT L2"
     }
 ]
