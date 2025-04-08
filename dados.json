@@ -68,5 +68,15 @@
         "Distância": 8.0,
         "Local Macro": "OT L2",
         "Motivo": "Abastecer e pegar OT L2"
+    },
+    {
+        "Data": "07/04/2025",
+        "Data de Registro": "08/04/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 110.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Da Tangará para na Noiva da colina "
     }
 ]
