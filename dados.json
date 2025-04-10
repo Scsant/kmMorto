@@ -278,5 +278,15 @@
         "Distância": 168.5,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Buscar a carga do 44162"
+    },
+    {
+        "Data": "10/04/2025",
+        "Data de Registro": "10/04/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44155,
+        "Distância": 168.5,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Foi e voltou vazio devido quebra do eixo"
     }
 ]
