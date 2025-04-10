@@ -298,5 +298,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carreta "
+    },
+    {
+        "Data": "10/04/2025",
+        "Data de Registro": "10/04/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44213,
+        "Distância": 40.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Apoio a Automotiva em movimentações de carretas. "
     }
 ]
