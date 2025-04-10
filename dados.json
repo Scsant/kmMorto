@@ -308,5 +308,15 @@
         "Distância": 40.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Apoio a Automotiva em movimentações de carretas. "
+    },
+    {
+        "Data": "10/04/2025",
+        "Data de Registro": "10/04/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44162,
+        "Distância": 401.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão foi até a Fazenda Ebenésia (170km), foi guinchado para Lapônia de Araçatuba, posteriormente voltou para linha 1 (231km)"
     }
 ]
