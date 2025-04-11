@@ -358,5 +358,15 @@
         "Distância": 126.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cm44123 foi liberado da oficina e seguiu viagem porém apresentou falhas e em contato com manutenção pediu pra retornar para nao danificar e pedir apoio de guincho aumentando o custo então retornamos vazios e foi acionado voar "
+    },
+    {
+        "Data": "11/04/2025",
+        "Data de Registro": "11/04/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 4.3,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Movimentação de carretas "
     }
 ]
