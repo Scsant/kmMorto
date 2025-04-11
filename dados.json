@@ -348,5 +348,15 @@
         "Distância": 6.5,
         "Local Macro": "Automotiva 1",
         "Motivo": "Saiu da linha 2, para linha 1, soltou carreta foi para automotiva1 pegar carreta "
+    },
+    {
+        "Data": "10/04/2025",
+        "Data de Registro": "11/04/2025",
+        "Nome": "Danner Ciocca",
+        "BTF": 3,
+        "Frota": 44123,
+        "Distância": 126.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm44123 foi liberado da oficina e seguiu viagem porém apresentou falhas e em contato com manutenção pediu pra retornar para nao danificar e pedir apoio de guincho aumentando o custo então retornamos vazios e foi acionado voar "
     }
 ]
