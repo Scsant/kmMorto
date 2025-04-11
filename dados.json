@@ -318,5 +318,15 @@
         "Distância": 401.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão foi até a Fazenda Ebenésia (170km), foi guinchado para Lapônia de Araçatuba, posteriormente voltou para linha 1 (231km)"
+    },
+    {
+        "Data": "11/04/2025",
+        "Data de Registro": "11/04/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44189,
+        "Distância": 10.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Movimentação manutenção "
     }
 ]
