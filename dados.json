@@ -378,5 +378,15 @@
         "Distância": 6.2,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção carretas, pneus calibrar "
+    },
+    {
+        "Data": "11/04/2025",
+        "Data de Registro": "12/04/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 30.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Testando CM na rodovia "
     }
 ]
