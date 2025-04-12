@@ -458,5 +458,15 @@
         "Distância": 170.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção  Lapônia Ourinhos "
+    },
+    {
+        "Data": "12/04/2025",
+        "Data de Registro": "12/04/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44071,
+        "Distância": 10.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi trocar o retrovisor "
     }
 ]
