@@ -448,5 +448,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Buscar carreta "
+    },
+    {
+        "Data": "11/04/2025",
+        "Data de Registro": "12/04/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44089,
+        "Distância": 170.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção  Lapônia Ourinhos "
     }
 ]
