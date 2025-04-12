@@ -398,5 +398,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Foi levar e buscar dois conjuntos "
+    },
+    {
+        "Data": "11/04/2025",
+        "Data de Registro": "12/04/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 36.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Retirar CM na Lapônia "
     }
 ]
