@@ -8,5 +8,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Retirada de carretas"
+    },
+    {
+        "Data": "14/04/2025",
+        "Data de Registro": "14/04/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44182,
+        "Distância": 15.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio devido a rotatória bloqueada"
     }
 ]
