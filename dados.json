@@ -28,5 +28,15 @@
         "Distância": 16.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Retirada de carreta da automotiva e levando carreta na Automotiva 2"
+    },
+    {
+        "Data": "14/04/2025",
+        "Data de Registro": "15/04/2025",
+        "Nome": "Wagner Cruz",
+        "BTF": 3,
+        "Frota": 44020,
+        "Distância": 120.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Acabou a madeira da fazenda e preciso ir pra outra fazenda vazio"
     }
 ]
