@@ -218,5 +218,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carreta "
+    },
+    {
+        "Data": "14/04/2025",
+        "Data de Registro": "16/04/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44016,
+        "Distância": 110.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio fazenda São Domingos para camapua"
     }
 ]
