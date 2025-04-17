@@ -318,5 +318,15 @@
         "Distância": 6.3,
         "Local Macro": "Automotiva 1",
         "Motivo": "Realizar manutenção corretiva "
+    },
+    {
+        "Data": "17/04/2025",
+        "Data de Registro": "17/04/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 11.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Realizar manutenção corretiva."
     }
 ]
