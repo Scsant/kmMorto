@@ -278,5 +278,15 @@
         "Distância": 430.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "44172 foi socorrer 44150 que estava quebrado na fazenda  santa Emília "
+    },
+    {
+        "Data": "17/04/2025",
+        "Data de Registro": "17/04/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44165,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação da linha 1 para automotiva depois lwart abastecer depois linha 1 "
     }
 ]
