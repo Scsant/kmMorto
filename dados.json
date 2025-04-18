@@ -358,5 +358,15 @@
         "Distância": 12.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Buscar carreta  "
+    },
+    {
+        "Data": "18/04/2025",
+        "Data de Registro": "18/04/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Preventiva carreta, levar Carreta na L1"
     }
 ]
