@@ -338,5 +338,15 @@
         "Distância": 22.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Retirou uma carreta do Rossini levou na linha um, retirou três carretas da automotiva um levou na linha um."
+    },
+    {
+        "Data": "18/04/2025",
+        "Data de Registro": "18/04/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Buscar carreta  Automotiva 1, levar na Automotiva 2,  buscar carreta na automotiva 1 e levar linha 1"
     }
 ]
