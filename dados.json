@@ -378,5 +378,15 @@
         "Distância": 6.0,
         "Local Macro": "OT L1",
         "Motivo": "Abastecer e retirar OT"
+    },
+    {
+        "Data": "19/04/2025",
+        "Data de Registro": "20/04/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 33.5,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Carreta MaqAgro "
     }
 ]
