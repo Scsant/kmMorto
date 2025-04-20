@@ -398,5 +398,15 @@
         "Distância": 33.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levar e trazer 2 conjuntos "
+    },
+    {
+        "Data": "18/04/2025",
+        "Data de Registro": "20/04/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44098,
+        "Distância": 50.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar e trazer conjuntos "
     }
 ]
