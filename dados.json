@@ -508,5 +508,15 @@
         "Distância": 47.0,
         "Local Macro": "Teste Prático",
         "Motivo": ""
+    },
+    {
+        "Data": "22/04/2025",
+        "Data de Registro": "22/04/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 8.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levando Carretas da Automotiva para o Rossini"
     }
 ]
