@@ -38,5 +38,15 @@
         "Distância": 172.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi buscar a carreta do 44076 que estava aguardando guincho no trajeto carregado Faz Boa Vista lV "
+    },
+    {
+        "Data": "24/04/2025",
+        "Data de Registro": "24/04/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44081,
+        "Distância": 100.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Radiador furado,foi necessário guincho "
     }
 ]
