@@ -58,5 +58,15 @@
         "Distância": 30.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Laponia "
+    },
+    {
+        "Data": "25/04/2025",
+        "Data de Registro": "25/04/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 110006,
+        "Distância": 16.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm fez testa com o mecânico AOKi"
     }
 ]
