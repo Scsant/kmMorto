@@ -48,5 +48,15 @@
         "Distância": 15.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Socorro carreta"
+    },
+    {
+        "Data": "25/04/2025",
+        "Data de Registro": "25/04/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 30.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Laponia "
     }
 ]
