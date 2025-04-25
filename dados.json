@@ -8,5 +8,15 @@
         "Distância": 16.06,
         "Local Macro": "Automotiva 1",
         "Motivo": "Movimentação de carreta Automotiva e Rosine"
+    },
+    {
+        "Data": "24/04/2025",
+        "Data de Registro": "25/04/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44203,
+        "Distância": 90.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Mudança da fazenda Sta Luzia para São Jose"
     }
 ]
