@@ -28,5 +28,15 @@
         "Distância": 25.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Foi desviado da fazenda Americana para fazenda Ipê "
+    },
+    {
+        "Data": "25/04/2025",
+        "Data de Registro": "25/04/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 25.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Foi desviado da Fazenda Americana para Fazenda Ipê"
     }
 ]
