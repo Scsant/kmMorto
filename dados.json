@@ -88,5 +88,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Direcionado a Oficina 2"
+    },
+    {
+        "Data": "26/04/2025",
+        "Data de Registro": "26/04/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44201,
+        "Distância": 32.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação de carretas "
     }
 ]
