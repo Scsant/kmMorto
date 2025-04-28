@@ -118,5 +118,15 @@
         "Distância": 9.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Movimentação carreta "
+    },
+    {
+        "Data": "28/04/2025",
+        "Data de Registro": "28/04/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 15.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Movimentação carreta "
     }
 ]
