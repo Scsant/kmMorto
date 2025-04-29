@@ -208,5 +208,15 @@
         "Distância": 184.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM apresentou problema na rodovia e foi guinchado para automotiva Bracell"
+    },
+    {
+        "Data": "29/04/2025",
+        "Data de Registro": "29/04/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44078,
+        "Distância": 49.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "CM utilizado para teste prático de motoristas"
     }
 ]
