@@ -218,5 +218,15 @@
         "Distância": 49.0,
         "Local Macro": "Teste Prático",
         "Motivo": "CM utilizado para teste prático de motoristas"
+    },
+    {
+        "Data": "29/04/2025",
+        "Data de Registro": "30/04/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 70.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "CM foi fazer corretiva na Volvo São Manuel "
     }
 ]
