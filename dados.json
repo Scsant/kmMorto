@@ -228,5 +228,15 @@
         "Distância": 70.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "CM foi fazer corretiva na Volvo São Manuel "
+    },
+    {
+        "Data": "30/04/2025",
+        "Data de Registro": "30/04/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar carretas pra manutenção "
     }
 ]
