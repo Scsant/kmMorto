@@ -248,5 +248,15 @@
         "Distância": 75.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Vazamento óleo motorista, foi necessário guincho."
+    },
+    {
+        "Data": "01/05/2025",
+        "Data de Registro": "01/05/2025",
+        "Nome": "Jeferson Cleiton Tereza ",
+        "BTF": 6,
+        "Frota": 44193,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Movimentação de carretas"
     }
 ]
