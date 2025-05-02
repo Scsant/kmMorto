@@ -258,5 +258,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Movimentação de carretas"
+    },
+    {
+        "Data": "02/05/2025",
+        "Data de Registro": "02/05/2025",
+        "Nome": "Halan ",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 100.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Socorro Fueiro "
     }
 ]
