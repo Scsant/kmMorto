@@ -298,5 +298,15 @@
         "Distância": 26.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levou três carretas da automotiva um para automotiva dois e retirou uma carreta automotiva um para linha um."
+    },
+    {
+        "Data": "04/05/2025",
+        "Data de Registro": "04/05/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 23.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Carreta  e levar Carretas na Of 02"
     }
 ]
