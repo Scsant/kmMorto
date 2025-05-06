@@ -408,5 +408,15 @@
         "Distância": 9.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Troca de carreta "
+    },
+    {
+        "Data": "06/05/2025",
+        "Data de Registro": "06/05/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 9.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cavalo com problema transferência diesel"
     }
 ]
