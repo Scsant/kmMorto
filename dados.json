@@ -388,5 +388,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Cavalo"
+    },
+    {
+        "Data": "06/05/2025",
+        "Data de Registro": "06/05/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 39.9,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste dia de hoje "
     }
 ]
