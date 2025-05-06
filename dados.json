@@ -358,5 +358,15 @@
         "Distância": 151.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm guinchado para Araçatuba "
+    },
+    {
+        "Data": "06/05/2025",
+        "Data de Registro": "06/05/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Carreta"
     }
 ]
