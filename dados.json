@@ -418,5 +418,15 @@
         "Distância": 9.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cavalo com problema transferência diesel"
+    },
+    {
+        "Data": "07/05/2025",
+        "Data de Registro": "07/05/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 2,
+        "Frota": 44117,
+        "Distância": 49.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
