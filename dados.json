@@ -438,5 +438,15 @@
         "Distância": 80.0,
         "Local Macro": "OT L1",
         "Motivo": "Aferição Tacógrafo "
+    },
+    {
+        "Data": "07/05/2025",
+        "Data de Registro": "07/05/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44110,
+        "Distância": 80.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Aferição Tacógrafo "
     }
 ]
