@@ -428,5 +428,15 @@
         "Distância": 49.0,
         "Local Macro": "Teste Prático",
         "Motivo": ""
+    },
+    {
+        "Data": "07/05/2025",
+        "Data de Registro": "07/05/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44112,
+        "Distância": 80.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Aferição Tacógrafo "
     }
 ]
