@@ -468,5 +468,15 @@
         "Distância": 80.0,
         "Local Macro": "OT L1",
         "Motivo": "Aferição Tacógrafo "
+    },
+    {
+        "Data": "07/05/2025",
+        "Data de Registro": "07/05/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 7.3,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção em carretas "
     }
 ]
