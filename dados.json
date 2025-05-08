@@ -478,5 +478,15 @@
         "Distância": 7.3,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção em carretas "
+    },
+    {
+        "Data": "08/05/2025",
+        "Data de Registro": "08/05/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44111,
+        "Distância": 80.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Aferição Tacógrafo "
     }
 ]
