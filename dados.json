@@ -528,5 +528,15 @@
         "Distância": 62.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM saiu da linha 1 e foi até Bauru engatar as carretas da frota 44192"
+    },
+    {
+        "Data": "09/05/2025",
+        "Data de Registro": "09/05/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44134,
+        "Distância": 25.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Movimentação de carretas entre oficinas"
     }
 ]
