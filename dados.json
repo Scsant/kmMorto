@@ -538,5 +538,15 @@
         "Distância": 25.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Movimentação de carretas entre oficinas"
+    },
+    {
+        "Data": "09/05/2025",
+        "Data de Registro": "09/05/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44192,
+        "Distância": 290.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Veiculo foi até a Fazenda, carregou e em Bauru precisou de socorro, foi desatrelado e o mesmo voltou rodando até a automotiva "
     }
 ]
