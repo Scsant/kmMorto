@@ -598,5 +598,15 @@
         "Distância": 25.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levando carreta da oficina pra oficina 3"
+    },
+    {
+        "Data": "09/05/2025",
+        "Data de Registro": "10/05/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44127,
+        "Distância": 80.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Aferição Tacógrafo "
     }
 ]
