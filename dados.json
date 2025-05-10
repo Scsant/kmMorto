@@ -568,5 +568,15 @@
         "Distância": 260.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Problema na trava da cruzeta do câmbio precisando ser guinchado"
+    },
+    {
+        "Data": "08/05/2025",
+        "Data de Registro": "10/05/2025",
+        "Nome": "NILSON MARTINS DOS SANTOS",
+        "BTF": 3,
+        "Frota": 44121,
+        "Distância": 90.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi fazer aferição de tacografo em bauru "
     }
 ]
