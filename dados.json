@@ -588,5 +588,15 @@
         "Distância": 25.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levando carreta da oficina pra oficina 3"
+    },
+    {
+        "Data": "09/05/2025",
+        "Data de Registro": "10/05/2025",
+        "Nome": "SIDNEY Antônio Cardoso ",
+        "BTF": 3,
+        "Frota": 44009,
+        "Distância": 25.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levando carreta da oficina pra oficina 3"
     }
 ]
