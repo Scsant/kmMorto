@@ -558,5 +558,15 @@
         "Distância": 231.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi Guinchado para Lapônia Araçatuba,  km morto da volta para fabrica. "
+    },
+    {
+        "Data": "08/05/2025",
+        "Data de Registro": "10/05/2025",
+        "Nome": "EDSON MARTINS ",
+        "BTF": 3,
+        "Frota": 44066,
+        "Distância": 260.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Problema na trava da cruzeta do câmbio precisando ser guinchado"
     }
 ]
