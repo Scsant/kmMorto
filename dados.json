@@ -668,5 +668,15 @@
         "Distância": 9.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "retirar carreta"
+    },
+    {
+        "Data": "11/05/2025",
+        "Data de Registro": "11/05/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44074,
+        "Distância": 25.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Além do teste foi buscar carreta na altomotiva 2"
     }
 ]
