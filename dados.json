@@ -688,5 +688,15 @@
         "Distância": 30.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Estava com preca de potência foi com o técnico da Volvo testar "
+    },
+    {
+        "Data": "12/05/2025",
+        "Data de Registro": "12/05/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44081,
+        "Distância": 35.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi utilizado para transferir carreta da automotiva um pra automotiva dois "
     }
 ]
