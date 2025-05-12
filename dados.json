@@ -698,5 +698,15 @@
         "Distância": 35.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Foi utilizado para transferir carreta da automotiva um pra automotiva dois "
+    },
+    {
+        "Data": "12/05/2025",
+        "Data de Registro": "12/05/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44064,
+        "Distância": 150.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm 44064 precisou ser guinchado fazenda Sta Edwirges cidade de Cafelândia "
     }
 ]
