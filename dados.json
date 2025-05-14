@@ -128,5 +128,15 @@
         "Distância": 11.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção corretivas / levou 2 CT'S "
+    },
+    {
+        "Data": "09/05/2025",
+        "Data de Registro": "14/05/2025",
+        "Nome": "Alex mendes ",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 5.4,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "PManutenção corretivas "
     }
 ]
