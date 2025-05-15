@@ -278,5 +278,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Cavalo"
+    },
+    {
+        "Data": "15/05/2025",
+        "Data de Registro": "15/05/2025",
+        "Nome": "Luiz Fabiano de Godoy ",
+        "BTF": 8,
+        "Frota": 44170,
+        "Distância": 54.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
