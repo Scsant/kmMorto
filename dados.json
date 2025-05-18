@@ -288,5 +288,15 @@
         "Distância": 54.0,
         "Local Macro": "Teste Prático",
         "Motivo": ""
+    },
+    {
+        "Data": "18/05/2025",
+        "Data de Registro": "18/05/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 8,
+        "Frota": 44149,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Saiu da linha 1 e foi buscar carreta na Automotiva 2"
     }
 ]
