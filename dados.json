@@ -298,5 +298,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Saiu da linha 1 e foi buscar carreta na Automotiva 2"
+    },
+    {
+        "Data": "19/05/2025",
+        "Data de Registro": "19/05/2025",
+        "Nome": "Paulo Sergio Maiolo",
+        "BTF": 6,
+        "Frota": 44192,
+        "Distância": 83.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Cm 44175 estava carregado próximo a Agudos, quando acionou o socorro. Manutenção não cosneguiu atuar no momento precisou ser guinchado para Lapônia em São Manoel.\nO cm 44192 foi buscar a carreta carregada e descarregou na linha 02."
     }
 ]
