@@ -328,5 +328,15 @@
         "Distância": 308.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Veiculo precisou ser guinchado da fazenda para oficina 1"
+    },
+    {
+        "Data": "19/05/2025",
+        "Data de Registro": "20/05/2025",
+        "Nome": "Paulo Sergio Maiplo",
+        "BTF": 6,
+        "Frota": 44175,
+        "Distância": 383.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão precisou ser guinchado de Agudos até Lapônia em São Manoel."
     }
 ]
