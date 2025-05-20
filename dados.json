@@ -308,5 +308,15 @@
         "Distância": 83.0,
         "Local Macro": "OT L1",
         "Motivo": "Cm 44175 estava carregado próximo a Agudos, quando acionou o socorro. Manutenção não cosneguiu atuar no momento precisou ser guinchado para Lapônia em São Manoel.\nO cm 44192 foi buscar a carreta carregada e descarregou na linha 02."
+    },
+    {
+        "Data": "20/05/2025",
+        "Data de Registro": "20/05/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 30.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "CM precisou voltar do pedágio de Agudos para oficina vazio, por orientação do técnico do VOAR"
     }
 ]
