@@ -318,5 +318,15 @@
         "Distância": 30.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "CM precisou voltar do pedágio de Agudos para oficina vazio, por orientação do técnico do VOAR"
+    },
+    {
+        "Data": "20/05/2025",
+        "Data de Registro": "20/05/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44162,
+        "Distância": 308.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Veiculo precisou ser guinchado da fazenda para oficina 1"
     }
 ]
