@@ -338,5 +338,15 @@
         "Distância": 383.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão precisou ser guinchado de Agudos até Lapônia em São Manoel."
+    },
+    {
+        "Data": "21/05/2025",
+        "Data de Registro": "22/05/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44174,
+        "Distância": 228.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Liberação lapônia Araçatuba para Lençóis Paulista fábrica "
     }
 ]
