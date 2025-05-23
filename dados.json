@@ -18,5 +18,15 @@
         "Distância": 40.0,
         "Local Macro": "OT L1",
         "Motivo": "Refazer aferição Tacógrafo que ficou pendente "
+    },
+    {
+        "Data": "23/05/2025",
+        "Data de Registro": "23/05/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 40.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste com 5 motoristas"
     }
 ]
