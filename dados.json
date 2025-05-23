@@ -28,5 +28,15 @@
         "Distância": 40.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste com 5 motoristas"
+    },
+    {
+        "Data": "23/05/2025",
+        "Data de Registro": "23/05/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 11.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção Carreta "
     }
 ]
