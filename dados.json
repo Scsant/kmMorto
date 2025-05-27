@@ -138,5 +138,15 @@
         "Distância": 180.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio da Fazenda Icatu para Boa esperança "
+    },
+    {
+        "Data": "27/05/2025",
+        "Data de Registro": "27/05/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44054,
+        "Distância": 198.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão ferveu e precisou de guincho"
     }
 ]
