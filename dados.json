@@ -148,5 +148,15 @@
         "Distância": 198.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão ferveu e precisou de guincho"
+    },
+    {
+        "Data": "27/05/2025",
+        "Data de Registro": "27/05/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44070,
+        "Distância": 12.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Cm usado para teste prático na fazenda mamedina"
     }
 ]
