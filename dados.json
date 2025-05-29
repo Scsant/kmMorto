@@ -218,5 +218,15 @@
         "Distância": 40.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Estava em testes com motoristas novatos "
+    },
+    {
+        "Data": "29/05/2025",
+        "Data de Registro": "29/05/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": ""
     }
 ]
