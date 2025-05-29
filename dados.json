@@ -228,5 +228,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 2",
         "Motivo": ""
+    },
+    {
+        "Data": "29/05/2025",
+        "Data de Registro": "29/05/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44213,
+        "Distância": 190.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM saiu da linha 1 com destino à fazenda Santa Felicidade e lá,  apresentou problemas no câmbio e será guinchado "
     }
 ]
