@@ -188,5 +188,15 @@
         "Distância": 134.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm guinchado para automotiva Bracell "
+    },
+    {
+        "Data": "29/05/2025",
+        "Data de Registro": "29/05/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44017,
+        "Distância": 98.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio de Fazenda "
     }
 ]
