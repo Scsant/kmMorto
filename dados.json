@@ -198,5 +198,15 @@
         "Distância": 98.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio de Fazenda "
+    },
+    {
+        "Data": "24/05/2025",
+        "Data de Registro": "29/05/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110007,
+        "Distância": 40.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio "
     }
 ]
