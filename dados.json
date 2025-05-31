@@ -258,5 +258,15 @@
         "Distância": 185.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Mudou da Água Fria para Boa Esperança V"
+    },
+    {
+        "Data": "30/05/2025",
+        "Data de Registro": "31/05/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44121,
+        "Distância": 45.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste com motoristas na Fazenda Mamedina"
     }
 ]
