@@ -268,5 +268,15 @@
         "Distância": 45.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste com motoristas na Fazenda Mamedina"
+    },
+    {
+        "Data": "31/05/2025",
+        "Data de Registro": "01/06/2025",
+        "Nome": "Adeildo Ferreira ",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 185.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Acabou a madeira da água fria, "
     }
 ]
