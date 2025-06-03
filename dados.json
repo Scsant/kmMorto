@@ -68,5 +68,15 @@
         "Distância": 16.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Movimentação de Carretas"
+    },
+    {
+        "Data": "03/06/2025",
+        "Data de Registro": "03/06/2025",
+        "Nome": "Roberto de Souza lopes",
+        "BTF": 3,
+        "Frota": 44014,
+        "Distância": 90.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "44014 deu problema vazamento de água e perca de potência "
     }
 ]
