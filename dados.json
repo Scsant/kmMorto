@@ -58,5 +58,15 @@
         "Distância": 3.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio para fazenda Porto seguro "
+    },
+    {
+        "Data": "03/06/2025",
+        "Data de Registro": "03/06/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44202,
+        "Distância": 16.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação de Carretas"
     }
 ]
