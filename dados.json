@@ -78,5 +78,15 @@
         "Distância": 90.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "44014 deu problema vazamento de água e perca de potência "
+    },
+    {
+        "Data": "04/06/2025",
+        "Data de Registro": "04/06/2025",
+        "Nome": "Nicerso ",
+        "BTF": 6,
+        "Frota": 44159,
+        "Distância": 100.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "O caminhão apresentou código do radiador no painel e foi orientado pelo técnico da manutenção dos cvalo.,  a retornar até a fábrica e ir para automotiva "
     }
 ]
