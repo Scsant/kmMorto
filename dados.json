@@ -88,5 +88,15 @@
         "Distância": 100.0,
         "Local Macro": "Nenhum",
         "Motivo": "O caminhão apresentou código do radiador no painel e foi orientado pelo técnico da manutenção dos cvalo.,  a retornar até a fábrica e ir para automotiva "
+    },
+    {
+        "Data": "05/06/2025",
+        "Data de Registro": "05/06/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44162,
+        "Distância": 45.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Acabou a Madeira da Santa Felicidade e desviou para Monte Alto"
     }
 ]
