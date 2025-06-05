@@ -98,5 +98,15 @@
         "Distância": 45.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Acabou a Madeira da Santa Felicidade e desviou para Monte Alto"
+    },
+    {
+        "Data": "05/06/2025",
+        "Data de Registro": "05/06/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 48.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
