@@ -308,5 +308,15 @@
         "Distância": 160.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Caminhão foi para fazer reparo na Lapônia Ourinhos e estava liberado para trabalhar."
+    },
+    {
+        "Data": "06/06/2025",
+        "Data de Registro": "06/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44184,
+        "Distância": 150.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio, estava na Boa Esperança V para Montr Alto."
     }
 ]
