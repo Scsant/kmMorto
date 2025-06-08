@@ -338,5 +338,15 @@
         "Distância": 170.0,
         "Local Macro": "Nenhum",
         "Motivo": "Caminhão precisou ser guinchado."
+    },
+    {
+        "Data": "08/06/2025",
+        "Data de Registro": "08/06/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 35.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "CM ficou levando e trazendo carretas de uma oficina para outra"
     }
 ]
