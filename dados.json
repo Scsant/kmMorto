@@ -498,5 +498,15 @@
         "Distância": 7.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Trocar Para-brisa, Neno Vidros."
+    },
+    {
+        "Data": "09/06/2025",
+        "Data de Registro": "09/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44180,
+        "Distância": 9.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Calibrar e Engraxar,  Posto Bracell "
     }
 ]
