@@ -488,5 +488,15 @@
         "Distância": 40.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido à fila na Fazenda Monte Alto, os caminhões do BTF06 não conseguiram entrar. Por segurança, foram deslocados para a entrada da Fazenda Ebenezia, onde aguardaram a liberação para retornar à Monte Alto.\n"
+    },
+    {
+        "Data": "09/06/2025",
+        "Data de Registro": "09/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44161,
+        "Distância": 7.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Trocar Para-brisa, Neno Vidros."
     }
 ]
