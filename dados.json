@@ -508,5 +508,15 @@
         "Distância": 9.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Calibrar e Engraxar,  Posto Bracell "
+    },
+    {
+        "Data": "09/06/2025",
+        "Data de Registro": "10/06/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 1,
+        "Frota": 44060,
+        "Distância": 310.0,
+        "Local Macro": "OT L1",
+        "Motivo": "CM foi a fazenda próxima Araraquara e depois teve que voltar vazio devido a danos na carreta que impossibilitou de carregar "
     }
 ]
