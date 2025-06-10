@@ -818,5 +818,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levar CT na automotiva "
+    },
+    {
+        "Data": "10/06/2025",
+        "Data de Registro": "10/06/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 13.5,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Troca de carretas "
     }
 ]
