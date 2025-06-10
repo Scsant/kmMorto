@@ -648,5 +648,15 @@
         "Distância": 30.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio fazenda "
+    },
+    {
+        "Data": "16/05/2025",
+        "Data de Registro": "10/06/2025",
+        "Nome": "Alex mendes ",
+        "BTF": 4,
+        "Frota": 440102,
+        "Distância": 7.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Levar cm para manutenção "
     }
 ]
