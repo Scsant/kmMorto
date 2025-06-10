@@ -143,11 +143,14 @@ frota = st.number_input("Frota", min_value=0, step=1, key="frota", value=st.sess
 distancia = st.number_input("Distância (KM)", min_value=0.0, step=0.1, key="distancia", value=st.session_state.get("distancia", 0.0))
 local_macro = st.selectbox(
     "Local Macro",
-    ["Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)", "Desvio de Fazenda"],
+    ["Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)", "Desvio de Fazenda", "Pit-stop"],
     key="local_macro",
-    index=["Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)", "Desvio de Fazenda"].index(st.session_state.get("local_macro", "Nenhum"))
+    index=[
+        "Nenhum", "Automotiva 1", "Automotiva 2", "Oficina Terceiro", "Pátio", "OT L1", "OT L2", "Teste Prático", "Socorro(Guincho)", "Desvio de Fazenda", "Pit-stop"
+    ].index(st.session_state.get("local_macro", "Nenhum"))
 )
 motivo = st.text_area("Motivo", key="motivo", value=st.session_state.get("motivo", ""))
+
 
 # Botões
 col1, col2 = st.columns(2)
