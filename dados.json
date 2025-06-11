@@ -1248,5 +1248,15 @@
         "Distância": 110.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Mudanca da fazenda Porto seguro pra  fazenda boa vista X, acabou a madeira "
+    },
+    {
+        "Data": "11/06/2025",
+        "Data de Registro": "11/06/2025",
+        "Nome": "Ricardo Bezerra da Silva ",
+        "BTF": 2,
+        "Frota": 44109,
+        "Distância": 68.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Teste de liberação de motoristas experientes "
     }
 ]
