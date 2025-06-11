@@ -1188,5 +1188,15 @@
         "Distância": 4.0,
         "Local Macro": "Nenhum",
         "Motivo": "Pit Stop - Caminhão saiu do pátio de varrição.  Calibrou e retornou para linha 1"
+    },
+    {
+        "Data": "11/06/2025",
+        "Data de Registro": "11/06/2025",
+        "Nome": "Nilton Carlos ",
+        "BTF": 6,
+        "Frota": 44184,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saiu do patio de varrição, foi na lihha 1 desengatar a carreta e foi para preventiva"
     }
 ]
