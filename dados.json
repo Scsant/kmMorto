@@ -1258,5 +1258,15 @@
         "Distância": 68.0,
         "Local Macro": "OT L1",
         "Motivo": "Teste de liberação de motoristas experientes "
+    },
+    {
+        "Data": "11/06/2025",
+        "Data de Registro": "11/06/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44163,
+        "Distância": 6.1,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Troca de pneu"
     }
 ]
