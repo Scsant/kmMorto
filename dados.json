@@ -1158,5 +1158,15 @@
         "Distância": 92.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Mudança de Fazenda, Porto Seguro para Santa Rita 2"
+    },
+    {
+        "Data": "11/06/2025",
+        "Data de Registro": "11/06/2025",
+        "Nome": "Nilton Carlos ",
+        "BTF": 6,
+        "Frota": 44180,
+        "Distância": 4.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Pit Stop - Calibragem . Saiu da linha 2, pátio de varrição , calibrou e retornou para linha 1. "
     }
 ]
