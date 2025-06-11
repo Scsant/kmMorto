@@ -1108,5 +1108,15 @@
         "Distância": 90.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "O CM perdeu potência foi acionado o voar e o técnico da Volvo pediu pra trazer para o box da Volvo na automotiva "
+    },
+    {
+        "Data": "11/06/2025",
+        "Data de Registro": "11/06/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 92.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Mudança de Fazenda, Porto Seguro para Santa Rita 2"
     }
 ]
