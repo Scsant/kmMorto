@@ -1328,5 +1328,15 @@
         "Distância": 9.0,
         "Local Macro": "Automotiva 2",
         "Motivo": ""
+    },
+    {
+        "Data": "05/06/2025",
+        "Data de Registro": "12/06/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 110000,
+        "Distância": 238.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Condições adversas de clima "
     }
 ]
