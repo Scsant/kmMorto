@@ -28,5 +28,15 @@
         "Distância": 15.0,
         "Local Macro": "OT L2",
         "Motivo": "FOI BUSCA UMA CARRETA NA OFICINA 2 "
+    },
+    {
+        "Data": "12/06/2025",
+        "Data de Registro": "12/06/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44213,
+        "Distância": 9.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "CM foi fazer calibragem e lubrificação "
     }
 ]
