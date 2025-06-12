@@ -1318,5 +1318,15 @@
         "Distância": 90.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": ""
+    },
+    {
+        "Data": "12/06/2025",
+        "Data de Registro": "12/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110005,
+        "Distância": 9.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": ""
     }
 ]
