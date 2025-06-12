@@ -1268,5 +1268,15 @@
         "Distância": 6.1,
         "Local Macro": "Pit-stop",
         "Motivo": "Troca de pneu"
+    },
+    {
+        "Data": "12/06/2025",
+        "Data de Registro": "12/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110006,
+        "Distância": 11.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": ""
     }
 ]
