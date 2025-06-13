@@ -128,5 +128,15 @@
         "Distância": 7.5,
         "Local Macro": "Pit-stop",
         "Motivo": "Motorista precisou abastecer."
+    },
+    {
+        "Data": "13/06/2025",
+        "Data de Registro": "13/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44184,
+        "Distância": 9.5,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Precisou levar a carreta do 44197 que estava na linha 01 fazer uma corretiva."
     }
 ]
