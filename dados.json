@@ -188,5 +188,15 @@
         "Distância": 12.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": ""
+    },
+    {
+        "Data": "13/06/2025",
+        "Data de Registro": "13/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44205,
+        "Distância": 7.5,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Levou a carreta MN213 fazer calibração e lubrificação "
     }
 ]
