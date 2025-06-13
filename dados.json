@@ -138,5 +138,15 @@
         "Distância": 9.5,
         "Local Macro": "Automotiva 2",
         "Motivo": "Precisou levar a carreta do 44197 que estava na linha 01 fazer uma corretiva."
+    },
+    {
+        "Data": "13/06/2025",
+        "Data de Registro": "13/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110006,
+        "Distância": 11.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": ""
     }
 ]
