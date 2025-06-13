@@ -218,5 +218,15 @@
         "Distância": 14.5,
         "Local Macro": "Automotiva 2",
         "Motivo": ""
+    },
+    {
+        "Data": "13/06/2025",
+        "Data de Registro": "13/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44060,
+        "Distância": 90.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "WLM Scania Bauru "
     }
 ]
