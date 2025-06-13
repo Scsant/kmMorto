@@ -118,5 +118,15 @@
         "Distância": 9.0,
         "Local Macro": "Pit-stop",
         "Motivo": ""
+    },
+    {
+        "Data": "13/06/2025",
+        "Data de Registro": "13/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44180,
+        "Distância": 7.5,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Motorista precisou abastecer."
     }
 ]
