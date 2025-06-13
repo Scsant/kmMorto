@@ -198,5 +198,15 @@
         "Distância": 7.5,
         "Local Macro": "Pit-stop",
         "Motivo": "Levou a carreta MN213 fazer calibração e lubrificação "
+    },
+    {
+        "Data": "13/06/2025",
+        "Data de Registro": "13/06/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44213,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": ""
     }
 ]
