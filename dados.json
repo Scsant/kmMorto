@@ -38,5 +38,15 @@
         "Distância": 9.0,
         "Local Macro": "Pit-stop",
         "Motivo": "CM foi fazer calibragem e lubrificação "
+    },
+    {
+        "Data": "13/06/2025",
+        "Data de Registro": "13/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110005,
+        "Distância": 12.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": ""
     }
 ]
