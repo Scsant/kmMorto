@@ -248,5 +248,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Buscar carreta "
+    },
+    {
+        "Data": "14/06/2025",
+        "Data de Registro": "14/06/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Manutenção na scania "
     }
 ]
