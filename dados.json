@@ -298,5 +298,15 @@
         "Distância": 20.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Foi pra outra fazenda ao lado pra busca o resto de madeira "
+    },
+    {
+        "Data": "15/06/2025",
+        "Data de Registro": "15/06/2025",
+        "Nome": "João Biribile Neto ",
+        "BTF": 3,
+        "Frota": 44121,
+        "Distância": 30.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Levo carreta pra automotiva, levo carreta pra linha 1 e foi abastecer"
     }
 ]
