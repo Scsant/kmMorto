@@ -308,5 +308,15 @@
         "Distância": 30.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Levo carreta pra automotiva, levo carreta pra linha 1 e foi abastecer"
+    },
+    {
+        "Data": "15/06/2025",
+        "Data de Registro": "15/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44196,
+        "Distância": 36.8,
+        "Local Macro": "Pátio",
+        "Motivo": "Frota estava sem  a Tag do pedágio. Foi até o primeiro pedágio de borebi e voltou."
     }
 ]
