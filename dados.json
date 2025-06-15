@@ -258,5 +258,15 @@
         "Distância": 0.0,
         "Local Macro": "Nenhum",
         "Motivo": "Manutenção na scania "
+    },
+    {
+        "Data": "15/06/2025",
+        "Data de Registro": "15/06/2025",
+        "Nome": "Everton Rodrigues ",
+        "BTF": 3,
+        "Frota": 44009,
+        "Distância": 194.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi busca a carreta do 44054 que deu problema "
     }
 ]
