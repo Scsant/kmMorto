@@ -318,5 +318,15 @@
         "Distância": 36.8,
         "Local Macro": "Pátio",
         "Motivo": "Frota estava sem  a Tag do pedágio. Foi até o primeiro pedágio de borebi e voltou."
+    },
+    {
+        "Data": "15/06/2025",
+        "Data de Registro": "15/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44155,
+        "Distância": 34.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Caminhão ficou para Drenagem. "
     }
 ]
