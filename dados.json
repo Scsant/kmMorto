@@ -468,5 +468,15 @@
         "Distância": 90.0,
         "Local Macro": "Nenhum",
         "Motivo": "Desvio de fazenda devido a chuva "
+    },
+    {
+        "Data": "16/06/2025",
+        "Data de Registro": "16/06/2025",
+        "Nome": "Bruno terrabuio ",
+        "BTF": 8,
+        "Frota": 44128,
+        "Distância": 8.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção de carreta "
     }
 ]
