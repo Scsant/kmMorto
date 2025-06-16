@@ -518,5 +518,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Foi no pit-stop e volto pra automotiva."
+    },
+    {
+        "Data": "15/06/2025",
+        "Data de Registro": "16/06/2025",
+        "Nome": "Edirley Gonçalves ",
+        "BTF": 3,
+        "Frota": 44129,
+        "Distância": 230.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Voltando da fazenda deu problema no servo de embreagem "
     }
 ]
