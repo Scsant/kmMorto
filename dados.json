@@ -528,5 +528,15 @@
         "Distância": 230.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Voltando da fazenda deu problema no servo de embreagem "
+    },
+    {
+        "Data": "15/06/2025",
+        "Data de Registro": "16/06/2025",
+        "Nome": "Valdenir Cordeiro  vitor ",
+        "BTF": 3,
+        "Frota": 44014,
+        "Distância": 100.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi busca a carreta do 44129 no Trajeto que quebro!"
     }
 ]
