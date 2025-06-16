@@ -548,5 +548,15 @@
         "Distância": 100.0,
         "Local Macro": "Nenhum",
         "Motivo": "Foi busca a carreta do 44054 que estava esquentando a temperatura"
+    },
+    {
+        "Data": "16/06/2025",
+        "Data de Registro": "16/06/2025",
+        "Nome": "Bruno Henrique Rodrigues ",
+        "BTF": 3,
+        "Frota": 44054,
+        "Distância": 230.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão vindo do projeto subiu a temperatura, preciso desatrelar e ir pra automotiva direto!"
     }
 ]
