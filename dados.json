@@ -488,5 +488,15 @@
         "Distância": 5.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção de carreta "
+    },
+    {
+        "Data": "16/06/2025",
+        "Data de Registro": "16/06/2025",
+        "Nome": "Bruno terrabuio ",
+        "BTF": 8,
+        "Frota": 44174,
+        "Distância": 6.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção de carreta "
     }
 ]
