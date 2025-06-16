@@ -418,5 +418,15 @@
         "Distância": 70.0,
         "Local Macro": "Nenhum",
         "Motivo": "Desvio de fazenda por causa da chuva "
+    },
+    {
+        "Data": "15/06/2025",
+        "Data de Registro": "16/06/2025",
+        "Nome": "Henrique Fernando de Oliveira ",
+        "BTF": 8,
+        "Frota": 44134,
+        "Distância": 70.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Devido a chuva desvio de fazenda "
     }
 ]
