@@ -388,5 +388,15 @@
         "Distância": 11.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio Palmares Semeador devido Complexidade 05 do projeto "
+    },
+    {
+        "Data": "16/06/2025",
+        "Data de Registro": "16/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44017,
+        "Distância": 11.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio Palmares Semeador devido projeto complexidade 05"
     }
 ]
