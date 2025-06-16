@@ -508,5 +508,15 @@
         "Distância": 8.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção de carreta "
+    },
+    {
+        "Data": "15/06/2025",
+        "Data de Registro": "16/06/2025",
+        "Nome": "Flavio Bitencourt ",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi no pit-stop e volto pra automotiva."
     }
 ]
