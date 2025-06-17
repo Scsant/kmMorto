@@ -178,5 +178,15 @@
         "Distância": 67.0,
         "Local Macro": "OT L1",
         "Motivo": "Treinamento e liberação de motoristas experientes, BTF 05"
+    },
+    {
+        "Data": "17/06/2025",
+        "Data de Registro": "17/06/2025",
+        "Nome": "Alessandro Mostaço ",
+        "BTF": 5,
+        "Frota": 44029,
+        "Distância": 52.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
