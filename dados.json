@@ -168,5 +168,15 @@
         "Distância": 4.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Caminhão 44200, saiu da linha  2   foi até o pit stop  e retornou para linha 1"
+    },
+    {
+        "Data": "16/06/2025",
+        "Data de Registro": "17/06/2025",
+        "Nome": "Ricardo Bezerra da Silva ",
+        "BTF": 5,
+        "Frota": 44024,
+        "Distância": 67.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Treinamento e liberação de motoristas experientes, BTF 05"
     }
 ]
