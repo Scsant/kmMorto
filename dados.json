@@ -228,5 +228,15 @@
         "Distância": 12.0,
         "Local Macro": "Pátio",
         "Motivo": "Saída linha 2 para Skid depois fundo linha 1 depois auto posto depois linha 1 gerar OT"
+    },
+    {
+        "Data": "17/06/2025",
+        "Data de Registro": "18/06/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 18.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Saída linha 2 para Skid, auto posto, por stop linha 1 Skid, depois automotiva1 "
     }
 ]
