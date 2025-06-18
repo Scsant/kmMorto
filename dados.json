@@ -238,5 +238,15 @@
         "Distância": 18.0,
         "Local Macro": "Pátio",
         "Motivo": "Saída linha 2 para Skid, auto posto, por stop linha 1 Skid, depois automotiva1 "
+    },
+    {
+        "Data": "18/06/2025",
+        "Data de Registro": "18/06/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44060,
+        "Distância": 9.4,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático. "
     }
 ]
