@@ -258,5 +258,15 @@
         "Distância": 80.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Caminhão apresentou problemas no freio da carreta e ao socorro chegar, fez um paliativo e teve que voltar para oficina central. "
+    },
+    {
+        "Data": "15/06/2025",
+        "Data de Registro": "18/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44160,
+        "Distância": 90.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Bloqueio da fazenda Santa Emilia II, devido chuva. Foi para fazenda  São Benedito."
     }
 ]
