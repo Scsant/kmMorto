@@ -378,5 +378,15 @@
         "Distância": 9.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento "
+    },
+    {
+        "Data": "19/06/2025",
+        "Data de Registro": "19/06/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 9.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Abastecimento "
     }
 ]
