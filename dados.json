@@ -388,5 +388,15 @@
         "Distância": 9.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento "
+    },
+    {
+        "Data": "19/06/2025",
+        "Data de Registro": "19/06/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 10.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste para o creare "
     }
 ]
