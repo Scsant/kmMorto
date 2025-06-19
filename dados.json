@@ -408,5 +408,15 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Ida e volta para troca de pneus "
+    },
+    {
+        "Data": "19/06/2025",
+        "Data de Registro": "19/06/2025",
+        "Nome": "JORGE ARMANDO CARVALHO ",
+        "BTF": 3,
+        "Frota": 44059,
+        "Distância": 7.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Foi pra abastecer"
     }
 ]
