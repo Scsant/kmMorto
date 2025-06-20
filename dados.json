@@ -458,5 +458,15 @@
         "Distância": 24.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Km do 44197 foi buscar a carreta  MN156 na oficina JCF."
+    },
+    {
+        "Data": "20/06/2025",
+        "Data de Registro": "20/06/2025",
+        "Nome": "José Ernandes da Silva Soares ",
+        "BTF": 8,
+        "Frota": 44128,
+        "Distância": 29.2,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Fazer Recall de três carretas Bitreizão no BJ pneus "
     }
 ]
