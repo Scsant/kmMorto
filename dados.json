@@ -428,5 +428,15 @@
         "Distância": 52.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Motor ferveu e precisou Guin"
+    },
+    {
+        "Data": "19/06/2025",
+        "Data de Registro": "20/06/2025",
+        "Nome": "José Francisco Alves",
+        "BTF": 3,
+        "Frota": 44126,
+        "Distância": 9.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Abastecimento e troca de pneus"
     }
 ]
