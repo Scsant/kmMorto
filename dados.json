@@ -438,5 +438,15 @@
         "Distância": 9.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento e troca de pneus"
+    },
+    {
+        "Data": "20/06/2025",
+        "Data de Registro": "20/06/2025",
+        "Nome": "Bruno Rodrigues ",
+        "BTF": 3,
+        "Frota": 44126,
+        "Distância": 9.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Abastecimento "
     }
 ]
