@@ -448,5 +448,15 @@
         "Distância": 9.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento "
+    },
+    {
+        "Data": "20/06/2025",
+        "Data de Registro": "20/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44197,
+        "Distância": 24.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Km do 44197 foi buscar a carreta  MN156 na oficina JCF."
     }
 ]
