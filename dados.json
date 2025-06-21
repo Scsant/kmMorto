@@ -578,5 +578,15 @@
         "Distância": 60.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Mecânico Telemetria "
+    },
+    {
+        "Data": "19/06/2025",
+        "Data de Registro": "21/06/2025",
+        "Nome": "Maximiliano Carvalho Silva ",
+        "BTF": 5,
+        "Frota": 44067,
+        "Distância": 335.5,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "CM 44067 guinchado\nFoi na Fazenda Bocaina da Boa Vista e entrou em socorro em Pederneiras"
     }
 ]
