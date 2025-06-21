@@ -518,5 +518,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Lubrificação "
+    },
+    {
+        "Data": "21/06/2025",
+        "Data de Registro": "21/06/2025",
+        "Nome": "Halan",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 10.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Lubrificação "
     }
 ]
