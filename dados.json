@@ -528,5 +528,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Lubrificação "
+    },
+    {
+        "Data": "21/06/2025",
+        "Data de Registro": "21/06/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44157,
+        "Distância": 7.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Manutenção no Pit-Stop"
     }
 ]
