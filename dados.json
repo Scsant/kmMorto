@@ -568,5 +568,15 @@
         "Distância": 60.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Pane elétrica e perca de potência "
+    },
+    {
+        "Data": "18/06/2025",
+        "Data de Registro": "21/06/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44062,
+        "Distância": 60.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Mecânico Telemetria "
     }
 ]
