@@ -608,5 +608,15 @@
         "Distância": 12.0,
         "Local Macro": "OT L1",
         "Motivo": "Linha 1 automotiva depois linha 1"
+    },
+    {
+        "Data": "22/06/2025",
+        "Data de Registro": "22/06/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44099,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi fazer teste para o creare depois levar carreta "
     }
 ]
