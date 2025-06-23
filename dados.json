@@ -48,5 +48,15 @@
         "Distância": 30.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Foi buscar carreta e depois foi levar carreta pra automotiva 2"
+    },
+    {
+        "Data": "23/06/2025",
+        "Data de Registro": "23/06/2025",
+        "Nome": "Uedslei Cunha ",
+        "BTF": 6,
+        "Frota": 44175,
+        "Distância": 2.95,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Rota alternativa para alocar caminhões "
     }
 ]
