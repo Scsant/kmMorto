@@ -658,5 +658,15 @@
         "Distância": 294.4,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Frota 44048 foi para fazenda Boa esperança e retornou até Bauru e estourou a turbina, onde precisou ser guinchado"
+    },
+    {
+        "Data": "23/06/2025",
+        "Data de Registro": "23/06/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44185,
+        "Distância": 29.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Retirou duas Ccarretas na OF2"
     }
 ]
