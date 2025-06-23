@@ -648,5 +648,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Foi retirar uma carreta oficina dois... Levou um carreta da oficina um para o Ferrari "
+    },
+    {
+        "Data": "18/06/2025",
+        "Data de Registro": "23/06/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 44048,
+        "Distância": 294.4,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota 44048 foi para fazenda Boa esperança e retornou até Bauru e estourou a turbina, onde precisou ser guinchado"
     }
 ]
