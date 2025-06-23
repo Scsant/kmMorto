@@ -668,5 +668,15 @@
         "Distância": 29.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Retirou duas Ccarretas na OF2"
+    },
+    {
+        "Data": "23/06/2025",
+        "Data de Registro": "23/06/2025",
+        "Nome": "Amarildo Reis",
+        "BTF": 3,
+        "Frota": 44122,
+        "Distância": 310.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Erro de cálculo do módulo na finalização da fazenda "
     }
 ]
