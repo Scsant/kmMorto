@@ -28,5 +28,15 @@
         "Distância": 10.0,
         "Local Macro": "OT L1",
         "Motivo": "Teste de creare "
+    },
+    {
+        "Data": "23/06/2025",
+        "Data de Registro": "23/06/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44105,
+        "Distância": 10.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Passou pela l1 no skid e foi trocar pneu no pit-stop "
     }
 ]
