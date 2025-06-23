@@ -118,5 +118,15 @@
         "Distância": 18.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Automotiva2 posto linha 1 "
+    },
+    {
+        "Data": "23/06/2025",
+        "Data de Registro": "23/06/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44207,
+        "Distância": 192.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "igatu x pau d'alho"
     }
 ]
