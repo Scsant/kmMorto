@@ -228,5 +228,15 @@
         "Distância": 9.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Lubrificação "
+    },
+    {
+        "Data": "24/06/2025",
+        "Data de Registro": "24/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44052,
+        "Distância": 52.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste motoristas "
     }
 ]
