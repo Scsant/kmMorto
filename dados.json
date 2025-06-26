@@ -288,5 +288,15 @@
         "Distância": 58.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Acabou a madeira na fazenda Onda Verde, desviou para São José Da Bela Vista."
+    },
+    {
+        "Data": "26/06/2025",
+        "Data de Registro": "26/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44180,
+        "Distância": 30.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Caminhão estava na Rondon próximo a fábrica voltou para fazer Drenagem. Pois a fazenda estava bloqueada."
     }
 ]
