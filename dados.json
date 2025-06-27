@@ -448,5 +448,15 @@
         "Distância": 102.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio da fazenda Boa Esperança V para São Benedito II. Motivo chuva bloqueou a fazenda."
+    },
+    {
+        "Data": "27/06/2025",
+        "Data de Registro": "27/06/2025",
+        "Nome": "Halan",
+        "BTF": 7,
+        "Frota": 44201,
+        "Distância": 70.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Laponia sm "
     }
 ]
