@@ -378,5 +378,15 @@
         "Distância": 15.08,
         "Local Macro": "Automotiva 1",
         "Motivo": "Buscar 1 carreta na Oficina Ferrari e levar para Automotiva Central da Bracell."
+    },
+    {
+        "Data": "19/06/2025",
+        "Data de Registro": "27/06/2025",
+        "Nome": "LUIZ FABIANO ",
+        "BTF": 44106,
+        "Frota": 3,
+        "Distância": 102.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Liberação de motorista "
     }
 ]
