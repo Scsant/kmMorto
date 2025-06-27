@@ -298,5 +298,15 @@
         "Distância": 30.0,
         "Local Macro": "OT L1",
         "Motivo": "Caminhão estava na Rondon próximo a fábrica voltou para fazer Drenagem. Pois a fazenda estava bloqueada."
+    },
+    {
+        "Data": "27/06/2025",
+        "Data de Registro": "27/06/2025",
+        "Nome": "MARCELO CHAGAS DA SILVA ",
+        "BTF": 2,
+        "Frota": 44053,
+        "Distância": 54.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "NO TRAJETO O MESMO RETORNOU DEVIDO A BLOQUEIO NA FAZENDA "
     }
 ]
