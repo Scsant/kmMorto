@@ -478,5 +478,15 @@
         "Distância": 70.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Laponia sm "
+    },
+    {
+        "Data": "27/06/2025",
+        "Data de Registro": "27/06/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44185,
+        "Distância": 52.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste realizado pelo intrutor Emerson"
     }
 ]
