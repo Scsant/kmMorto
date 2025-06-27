@@ -368,5 +368,15 @@
         "Distância": 15.0,
         "Local Macro": "Nenhum",
         "Motivo": "NO TRAJETO O MESMO RETORNOU DEVIDO A BLOQUEIO NA FAZENDA"
+    },
+    {
+        "Data": "27/06/2025",
+        "Data de Registro": "27/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 3,
+        "Frota": 44116,
+        "Distância": 15.08,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Buscar 1 carreta na Oficina Ferrari e levar para Automotiva Central da Bracell."
     }
 ]
