@@ -688,5 +688,15 @@
         "Distância": 45.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio da fazenda São Jose da Bela Vista devido a chuva, para fazenda Santo Antônio Do Pau D'Alho"
+    },
+    {
+        "Data": "27/06/2025",
+        "Data de Registro": "28/06/2025",
+        "Nome": "Paulo Mailo",
+        "BTF": 6,
+        "Frota": 44155,
+        "Distância": 45.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da fazenda São Jose da Bela Vista devido a chuva, para fazenda Santo Antônio Do Pau D'Alho"
     }
 ]
