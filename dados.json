@@ -568,5 +568,15 @@
         "Distância": 220.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio faz Santa Emília para São benedito"
+    },
+    {
+        "Data": "28/06/2025",
+        "Data de Registro": "28/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44060,
+        "Distância": 220.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio faz Santa para  São benedito "
     }
 ]
