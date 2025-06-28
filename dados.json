@@ -558,5 +558,15 @@
         "Distância": 8.0,
         "Local Macro": "Nenhum",
         "Motivo": "Foi necessário fazer um percurso para ver se o CREARE recebia informações "
+    },
+    {
+        "Data": "28/06/2025",
+        "Data de Registro": "28/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110015,
+        "Distância": 220.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio faz Santa Emília para São benedito"
     }
 ]
