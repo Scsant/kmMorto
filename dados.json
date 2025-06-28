@@ -708,5 +708,15 @@
         "Distância": 45.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio da fazenda São Jose da Bela Vista devido a chuva, para fazenda Santo Antônio Do Pau D'Alho"
+    },
+    {
+        "Data": "28/06/2025",
+        "Data de Registro": "28/06/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44124,
+        "Distância": 30.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "TEVE BLOQUEIO NA FAZENDA E O MESMO RETORNOU PARA FÁBRICA TROCAR A NOTA "
     }
 ]
