@@ -578,5 +578,15 @@
         "Distância": 220.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio faz Santa para  São benedito "
+    },
+    {
+        "Data": "28/06/2025",
+        "Data de Registro": "28/06/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Nenhum",
+        "Motivo": ""
     }
 ]
