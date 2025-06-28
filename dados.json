@@ -648,5 +648,15 @@
         "Distância": 200.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Dimep travada cm voltou fábrica"
+    },
+    {
+        "Data": "28/06/2025",
+        "Data de Registro": "28/06/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44161,
+        "Distância": 45.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da fazenda São Jose da Bela Vista devido a chuva, para fazenda Santo Antônio Do Pau D'Alho"
     }
 ]
