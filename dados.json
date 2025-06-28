@@ -588,5 +588,15 @@
         "Distância": 0.0,
         "Local Macro": "Nenhum",
         "Motivo": ""
+    },
+    {
+        "Data": "28/06/2025",
+        "Data de Registro": "28/06/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44111,
+        "Distância": 200.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Dimep travada cm voltou fábrica "
     }
 ]
