@@ -758,5 +758,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar e  buscar carreta "
+    },
+    {
+        "Data": "27/06/2025",
+        "Data de Registro": "29/06/2025",
+        "Nome": "Ricardo Bezerra da Silva ",
+        "BTF": 5,
+        "Frota": 44005,
+        "Distância": 0.94,
+        "Local Macro": "OT L1",
+        "Motivo": "Liberação e treinamento motoristas experientes "
     }
 ]
