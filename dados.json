@@ -738,5 +738,15 @@
         "Distância": 8.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Foi abastecer passou pit-stop e retornou linha dois "
+    },
+    {
+        "Data": "29/06/2025",
+        "Data de Registro": "29/06/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levar pra preventiva "
     }
 ]
