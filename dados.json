@@ -778,5 +778,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento "
+    },
+    {
+        "Data": "30/06/2025",
+        "Data de Registro": "30/06/2025",
+        "Nome": "BRUNO HENRIQUE SOUZA ",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 10.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Abastecimento  e troca um pneu furado"
     }
 ]
