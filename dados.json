@@ -788,5 +788,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento  e troca um pneu furado"
+    },
+    {
+        "Data": "30/06/2025",
+        "Data de Registro": "30/06/2025",
+        "Nome": "JOSE ADRIANO ",
+        "BTF": 3,
+        "Frota": 44125,
+        "Distância": 10.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Abastecimento  "
     }
 ]
