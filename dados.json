@@ -768,5 +768,15 @@
         "Distância": 0.94,
         "Local Macro": "OT L1",
         "Motivo": "Liberação e treinamento motoristas experientes "
+    },
+    {
+        "Data": "30/06/2025",
+        "Data de Registro": "30/06/2025",
+        "Nome": "IZALTINO MIGUEL DE OLIVEIRA ",
+        "BTF": 3,
+        "Frota": 44121,
+        "Distância": 10.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Abastecimento "
     }
 ]
