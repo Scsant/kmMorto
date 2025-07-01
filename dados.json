@@ -1028,5 +1028,15 @@
         "Distância": 14.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Fez movimentação de Tritrem para Bitrem, levou carreta na Automotiva I, e buscou na automotiva II"
+    },
+    {
+        "Data": "01/07/2025",
+        "Data de Registro": "01/07/2025",
+        "Nome": "Paulo",
+        "BTF": 6,
+        "Frota": 44162,
+        "Distância": 11.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Usou para movimentar Bitrem e levou sua própria carreta na automotiva I para corretiva."
     }
 ]
