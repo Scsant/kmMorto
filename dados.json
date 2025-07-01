@@ -878,5 +878,15 @@
         "Distância": 8.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Pit Stop lubrificação e calibragem "
+    },
+    {
+        "Data": "21/07/2025",
+        "Data de Registro": "01/07/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 44057,
+        "Distância": 46.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Problemas mecânicos retornou para automotiva Bracell"
     }
 ]
