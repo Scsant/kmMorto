@@ -798,5 +798,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento  "
+    },
+    {
+        "Data": "30/06/2025",
+        "Data de Registro": "01/07/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44213,
+        "Distância": 8.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": ""
     }
 ]
