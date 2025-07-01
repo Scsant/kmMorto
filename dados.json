@@ -898,5 +898,15 @@
         "Distância": 202.0,
         "Local Macro": "Pátio",
         "Motivo": "Bloqueio da faz Boa Esperança V devido chuvas retornou para fábrica "
+    },
+    {
+        "Data": "01/07/2025",
+        "Data de Registro": "01/07/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44051,
+        "Distância": 101.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Chuva Dimep projeto travado "
     }
 ]
