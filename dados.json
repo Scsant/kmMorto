@@ -1018,5 +1018,15 @@
         "Distância": 13.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Caminhões foram desviados da Nossa Senhora da Auxiliadora para Santa Emilia II. Com melhores oportunidades de carregamento."
+    },
+    {
+        "Data": "01/07/2025",
+        "Data de Registro": "01/07/2025",
+        "Nome": "Paulo",
+        "BTF": 6,
+        "Frota": 44180,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Fez movimentação de Tritrem para Bitrem, levou carreta na Automotiva I, e buscou na automotiva II"
     }
 ]
