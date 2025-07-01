@@ -888,5 +888,15 @@
         "Distância": 46.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Problemas mecânicos retornou para automotiva Bracell"
+    },
+    {
+        "Data": "20/07/2025",
+        "Data de Registro": "01/07/2025",
+        "Nome": "José Amarildo Machado ",
+        "BTF": 5,
+        "Frota": 110011,
+        "Distância": 202.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Bloqueio da faz Boa Esperança V devido chuvas retornou para fábrica "
     }
 ]
