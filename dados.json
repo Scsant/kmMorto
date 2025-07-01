@@ -868,5 +868,15 @@
         "Distância": 8.0,
         "Local Macro": "Pit-stop",
         "Motivo": ""
+    },
+    {
+        "Data": "01/07/2025",
+        "Data de Registro": "01/07/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44198,
+        "Distância": 8.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Pit Stop lubrificação e calibragem "
     }
 ]
