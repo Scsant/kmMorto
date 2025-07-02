@@ -1038,5 +1038,15 @@
         "Distância": 11.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Usou para movimentar Bitrem e levou sua própria carreta na automotiva I para corretiva."
+    },
+    {
+        "Data": "02/07/2025",
+        "Data de Registro": "02/07/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44160,
+        "Distância": 8.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Abastecimento "
     }
 ]
