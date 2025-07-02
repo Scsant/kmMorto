@@ -1048,5 +1048,15 @@
         "Distância": 8.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento "
+    },
+    {
+        "Data": "02/07/2025",
+        "Data de Registro": "02/07/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44192,
+        "Distância": 20.0,
+        "Local Macro": "OT L2",
+        "Motivo": "Manobras da Oficina central para oficina 2"
     }
 ]
