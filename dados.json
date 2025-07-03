@@ -1098,5 +1098,15 @@
         "Distância": 206.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Caminhao quebrou o eixo da carreta na fazenda e foi descarregado. Assim  foi preciso retornar vazio para manutenção automotiva da empresa "
+    },
+    {
+        "Data": "03/07/2025",
+        "Data de Registro": "03/07/2025",
+        "Nome": "Uedslei Cunha ",
+        "BTF": 2,
+        "Frota": 44033,
+        "Distância": 25.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Movimentação carretas Tri- Bi"
     }
 ]
