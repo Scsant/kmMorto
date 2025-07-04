@@ -8,5 +8,15 @@
         "Distância": 99.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Liberação de motorista  com experiência "
+    },
+    {
+        "Data": "12/06/2025",
+        "Data de Registro": "04/07/2025",
+        "Nome": "Alex mendes ",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 7.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Preventiva"
     }
 ]
