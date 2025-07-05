@@ -188,5 +188,15 @@
         "Distância": 8.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento e passou no Skid."
+    },
+    {
+        "Data": "05/07/2025",
+        "Data de Registro": "05/07/2025",
+        "Nome": "Paulo",
+        "BTF": 6,
+        "Frota": 44198,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Movimentação de carretas entre as automotiva e a linha 01."
     }
 ]
