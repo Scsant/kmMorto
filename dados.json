@@ -198,5 +198,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Movimentação de carretas entre as automotiva e a linha 01."
+    },
+    {
+        "Data": "05/07/2025",
+        "Data de Registro": "05/07/2025",
+        "Nome": "Paulo",
+        "BTF": 6,
+        "Frota": 44154,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi retirar carreta na automotiva II."
     }
 ]
