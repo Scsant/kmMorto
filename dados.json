@@ -178,5 +178,15 @@
         "Distância": 9.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Corretivas "
+    },
+    {
+        "Data": "05/07/2025",
+        "Data de Registro": "05/07/2025",
+        "Nome": "Paulo",
+        "BTF": 6,
+        "Frota": 44187,
+        "Distância": 8.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Abastecimento e passou no Skid."
     }
 ]
