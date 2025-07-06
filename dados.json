@@ -218,5 +218,15 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Retirar carreta automotiva I"
+    },
+    {
+        "Data": "06/07/2025",
+        "Data de Registro": "06/07/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44212,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção Cavalo "
     }
 ]
