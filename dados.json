@@ -238,5 +238,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carreta"
+    },
+    {
+        "Data": "06/07/2025",
+        "Data de Registro": "07/07/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44210,
+        "Distância": 98.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio Santa Madalena x Santa Emilia "
     }
 ]
