@@ -258,5 +258,15 @@
         "Distância": 16.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manobra com carretas "
+    },
+    {
+        "Data": "07/07/2025",
+        "Data de Registro": "07/07/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44153,
+        "Distância": 35.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Caminhão liberado da lapônia seguindo para fábrica "
     }
 ]
