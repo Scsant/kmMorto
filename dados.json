@@ -278,5 +278,15 @@
         "Distância": 114.0,
         "Local Macro": "Nenhum",
         "Motivo": "Buscar CT da frota 44082 trajeto"
+    },
+    {
+        "Data": "06/07/2025",
+        "Data de Registro": "07/07/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 109.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Quebrou foi guincho "
     }
 ]
