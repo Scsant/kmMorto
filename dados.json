@@ -328,5 +328,15 @@
         "Distância": 270.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM Guinchado "
+    },
+    {
+        "Data": "07/07/2025",
+        "Data de Registro": "07/07/2025",
+        "Nome": "Paulo",
+        "BTF": 6,
+        "Frota": 44163,
+        "Distância": 5.5,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Passou no Skid parafusar uma régua."
     }
 ]
