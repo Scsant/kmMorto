@@ -318,5 +318,15 @@
         "Distância": 120.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM foi Socorrer 44110 que foi guinchado "
+    },
+    {
+        "Data": "07/07/2025",
+        "Data de Registro": "07/07/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44110,
+        "Distância": 270.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM Guinchado "
     }
 ]
