@@ -308,5 +308,15 @@
         "Distância": 11.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levar CT's para manutenção "
+    },
+    {
+        "Data": "06/07/2025",
+        "Data de Registro": "07/07/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44060,
+        "Distância": 120.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM foi Socorrer 44110 que foi guinchado "
     }
 ]
