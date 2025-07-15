@@ -68,5 +68,15 @@
         "Distância": 32.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "44155 se deslocou para Lapônia São Manoel. Alinhado com a manutençãom . Perca de potência reincidente "
+    },
+    {
+        "Data": "15/07/2025",
+        "Data de Registro": "15/07/2025",
+        "Nome": "Luiz Carlos Brenine",
+        "BTF": 7,
+        "Frota": 44185,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Retirada de  Carreta na automotiva 2"
     }
 ]
