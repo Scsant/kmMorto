@@ -78,5 +78,15 @@
         "Distância": 14.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Retirada de  Carreta na automotiva 2"
+    },
+    {
+        "Data": "15/07/2025",
+        "Data de Registro": "15/07/2025",
+        "Nome": "Luiz Carlos Brenine",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção  cavalo"
     }
 ]
