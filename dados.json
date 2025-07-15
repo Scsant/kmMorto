@@ -98,5 +98,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção  Carreta "
+    },
+    {
+        "Data": "15/07/2025",
+        "Data de Registro": "15/07/2025",
+        "Nome": "Luiz Carlos Brenine",
+        "BTF": 7,
+        "Frota": 44214,
+        "Distância": 6.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Manutenção  Carreta "
     }
 ]
