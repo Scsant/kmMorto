@@ -128,5 +128,15 @@
         "Distância": 10.0,
         "Local Macro": "Pátio",
         "Motivo": "Teste creare "
+    },
+    {
+        "Data": "16/07/2025",
+        "Data de Registro": "16/07/2025",
+        "Nome": "Paulo ",
+        "BTF": 6,
+        "Frota": 44163,
+        "Distância": 50.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Caminhão foi fazer teste para liberação."
     }
 ]
