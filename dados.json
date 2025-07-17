@@ -8,5 +8,15 @@
         "Distância": 20.0,
         "Local Macro": "Pátio",
         "Motivo": "Teste de creare dus vezes pra ser liberado "
+    },
+    {
+        "Data": "17/07/2025",
+        "Data de Registro": "17/07/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44076,
+        "Distância": 22.0,
+        "Local Macro": "Pátio",
+        "Motivo": "Teste creare e retirada de carreta "
     }
 ]
