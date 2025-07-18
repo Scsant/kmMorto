@@ -18,5 +18,15 @@
         "Distância": 22.0,
         "Local Macro": "Pátio",
         "Motivo": "Teste creare e retirada de carreta "
+    },
+    {
+        "Data": "18/07/2025",
+        "Data de Registro": "18/07/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44185,
+        "Distância": 30.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Cm foi até  o pit stop trocar pneu mandara pra altomotiva 2 que pediu pra voltar pra altomotiva 1 novamente pit stop e finalmente altomotiva 1"
     }
 ]
