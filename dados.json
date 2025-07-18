@@ -38,5 +38,15 @@
         "Distância": 192.8,
         "Local Macro": "Teste Prático",
         "Motivo": "Movimentação de carreta para cidade de Itapetininga "
+    },
+    {
+        "Data": "18/07/2025",
+        "Data de Registro": "18/07/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 4,
+        "Frota": 44076,
+        "Distância": 30.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação automotiva 1 e movimentação na automotiva 2 para linha 1"
     }
 ]
