@@ -28,5 +28,15 @@
         "Distância": 30.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Cm foi até  o pit stop trocar pneu mandara pra altomotiva 2 que pediu pra voltar pra altomotiva 1 novamente pit stop e finalmente altomotiva 1"
+    },
+    {
+        "Data": "18/07/2025",
+        "Data de Registro": "18/07/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44168,
+        "Distância": 192.8,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Movimentação de carreta para cidade de Itapetininga "
     }
 ]
