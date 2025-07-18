@@ -48,5 +48,15 @@
         "Distância": 30.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Movimentação automotiva 1 e movimentação na automotiva 2 para linha 1"
+    },
+    {
+        "Data": "29/06/2025",
+        "Data de Registro": "18/07/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 110016,
+        "Distância": 174.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm guinchado para Mercedes Marília "
     }
 ]
