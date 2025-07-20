@@ -108,5 +108,15 @@
         "Distância": 200.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Frota 44171 foi socorrer a frota 44147 pra ser guinchado\n"
+    },
+    {
+        "Data": "20/07/2025",
+        "Data de Registro": "20/07/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44084,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção "
     }
 ]
