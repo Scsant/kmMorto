@@ -98,5 +98,15 @@
         "Distância": 23.0,
         "Local Macro": "Nenhum",
         "Motivo": "Movimentação de carreta L1 para Automotiva "
+    },
+    {
+        "Data": "19/07/2025",
+        "Data de Registro": "20/07/2025",
+        "Nome": "Henrique Fernando de Oliveira ",
+        "BTF": 8,
+        "Frota": 44171,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota 44171 foi socorrer a frota 44147 pra ser guinchado\n"
     }
 ]
