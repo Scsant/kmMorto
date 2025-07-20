@@ -118,5 +118,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção "
+    },
+    {
+        "Data": "20/07/2025",
+        "Data de Registro": "20/07/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 30.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Teste com o técnico Daniel Volvo "
     }
 ]
