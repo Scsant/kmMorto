@@ -138,5 +138,15 @@
         "Distância": 175.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Devido avaria na fazenda caminhão retorno para fábrica vazio"
+    },
+    {
+        "Data": "20/07/2025",
+        "Data de Registro": "20/07/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44133,
+        "Distância": 40.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Saindo da automotiva para lapônia de são Manuel "
     }
 ]
