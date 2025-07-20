@@ -128,5 +128,15 @@
         "Distância": 30.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Teste com o técnico Daniel Volvo "
+    },
+    {
+        "Data": "20/07/2025",
+        "Data de Registro": "20/07/2025",
+        "Nome": "Cleiton Migliorini",
+        "BTF": 8,
+        "Frota": 44133,
+        "Distância": 175.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Devido avaria na fazenda caminhão retorno para fábrica vazio"
     }
 ]
