@@ -98,5 +98,15 @@
         "Distância": 5.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Manutenção Cavalo"
+    },
+    {
+        "Data": "21/07/2025",
+        "Data de Registro": "21/07/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 44065,
+        "Distância": 240.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "SOCORRO MECÂNICO "
     }
 ]
