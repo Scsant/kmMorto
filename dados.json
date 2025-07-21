@@ -108,5 +108,15 @@
         "Distância": 240.0,
         "Local Macro": "Nenhum",
         "Motivo": "SOCORRO MECÂNICO "
+    },
+    {
+        "Data": "21/07/2025",
+        "Data de Registro": "21/07/2025",
+        "Nome": "Marcelo Chagas ",
+        "BTF": 2,
+        "Frota": 110015,
+        "Distância": 220.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "CAMINHÃO QUEBROU E VOLTOU SEM CARGA "
     }
 ]
