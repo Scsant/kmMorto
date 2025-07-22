@@ -8,5 +8,15 @@
         "Distância": 30.0,
         "Local Macro": "Teste Prático",
         "Motivo": ""
+    },
+    {
+        "Data": "22/07/2025",
+        "Data de Registro": "22/07/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44129,
+        "Distância": 145.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Quebra caixa de transferência\nRebocado para Lapônia "
     }
 ]
