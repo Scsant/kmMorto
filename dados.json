@@ -118,5 +118,15 @@
         "Distância": 220.0,
         "Local Macro": "Nenhum",
         "Motivo": "CAMINHÃO QUEBROU E VOLTOU SEM CARGA "
+    },
+    {
+        "Data": "22/07/2025",
+        "Data de Registro": "22/07/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 25.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Fro foi realizar um teste pra ver se resolveu o problema a pedido da automotiva "
     }
 ]
