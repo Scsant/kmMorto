@@ -128,5 +128,15 @@
         "Distância": 25.0,
         "Local Macro": "Nenhum",
         "Motivo": "Fro foi realizar um teste pra ver se resolveu o problema a pedido da automotiva "
+    },
+    {
+        "Data": "22/07/2025",
+        "Data de Registro": "22/07/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Nenhum",
+        "Motivo": ""
     }
 ]
