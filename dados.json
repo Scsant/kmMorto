@@ -18,5 +18,15 @@
         "Distância": 145.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Quebra caixa de transferência\nRebocado para Lapônia "
+    },
+    {
+        "Data": "22/07/2025",
+        "Data de Registro": "22/07/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44098,
+        "Distância": 105.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": ""
     }
 ]
