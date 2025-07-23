@@ -18,5 +18,15 @@
         "Distância": 265.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Deu problema na fazenda "
+    },
+    {
+        "Data": "23/07/2025",
+        "Data de Registro": "23/07/2025",
+        "Nome": "Paulo ",
+        "BTF": 6,
+        "Frota": 44179,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manobra de carreta"
     }
 ]
