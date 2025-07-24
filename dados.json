@@ -28,5 +28,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manobra de carreta"
+    },
+    {
+        "Data": "22/07/2025",
+        "Data de Registro": "24/07/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44054,
+        "Distância": 110.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm 44054 sem força "
     }
 ]
