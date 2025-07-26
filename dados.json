@@ -108,5 +108,15 @@
         "Distância": 30.0,
         "Local Macro": "Nenhum",
         "Motivo": "Cm utilizado para fazer movimentações de Carretas entre automivas"
+    },
+    {
+        "Data": "26/07/2025",
+        "Data de Registro": "26/07/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 44008,
+        "Distância": 15.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm utilizado para fazer movimentações de Carretas entre automivas"
     }
 ]
