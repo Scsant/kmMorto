@@ -48,5 +48,15 @@
         "Distância": 264.0,
         "Local Macro": "Nenhum",
         "Motivo": "Caminhão estava sentido fazenda veio a dar problema e teve que voltar vazio"
+    },
+    {
+        "Data": "26/07/2025",
+        "Data de Registro": "26/07/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 80.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi pra Lapônia SM "
     }
 ]
