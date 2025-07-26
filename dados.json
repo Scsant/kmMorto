@@ -78,5 +78,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Arrumar elétrica "
+    },
+    {
+        "Data": "26/07/2025",
+        "Data de Registro": "26/07/2025",
+        "Nome": "Técnico ",
+        "BTF": 4,
+        "Frota": 44104,
+        "Distância": 18.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar carreta preventiva e buscar na automotiva 2"
     }
 ]
