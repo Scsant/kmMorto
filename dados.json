@@ -128,5 +128,15 @@
         "Distância": 224.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm precisou ser guinchado "
+    },
+    {
+        "Data": "26/07/2025",
+        "Data de Registro": "27/07/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 349.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão quebrou o fueiro na fazenda, e teve que retornar vazio para Bracell \nObs. Não foi guinchado!"
     }
 ]
