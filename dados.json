@@ -138,5 +138,15 @@
         "Distância": 349.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão quebrou o fueiro na fazenda, e teve que retornar vazio para Bracell \nObs. Não foi guinchado!"
+    },
+    {
+        "Data": "27/07/2025",
+        "Data de Registro": "27/07/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44196,
+        "Distância": 178.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão estourou a turbina precisou ser guinchado no ponto 5 da fazenda Sonho Meu."
     }
 ]
