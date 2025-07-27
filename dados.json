@@ -198,5 +198,15 @@
         "Distância": 120.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Máquinas quebradas devido a fila preciso mudar da fazenda ludlet pra revolta"
+    },
+    {
+        "Data": "27/07/2025",
+        "Data de Registro": "27/07/2025",
+        "Nome": "ALEX GARCIA",
+        "BTF": 3,
+        "Frota": 44129,
+        "Distância": 120.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Máquinas quebradas devido a fila preciso mudar da fazenda ludlet pra revolta"
     }
 ]
