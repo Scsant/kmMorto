@@ -238,5 +238,15 @@
         "Distância": 120.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido a quebra das máquinas preciso mudar os caminhões da fazenda ludlet pra revolta"
+    },
+    {
+        "Data": "27/07/2025",
+        "Data de Registro": "27/07/2025",
+        "Nome": "Carlos Eduardo Campos",
+        "BTF": 3,
+        "Frota": 44014,
+        "Distância": 140.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Chego na fazenda de problema numa válvula e preciso ser guinchado"
     }
 ]
