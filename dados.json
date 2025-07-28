@@ -258,5 +258,15 @@
         "Distância": 12.0,
         "Local Macro": "Nenhum",
         "Motivo": "Movimentação de carretas da linha 1 pra Automotiva "
+    },
+    {
+        "Data": "28/07/2025",
+        "Data de Registro": "28/07/2025",
+        "Nome": "Izaltino Miguel ",
+        "BTF": 3,
+        "Frota": 44020,
+        "Distância": 35.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Carreta apresentou problemas com risco a segurança "
     }
 ]
