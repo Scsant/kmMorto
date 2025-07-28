@@ -288,5 +288,15 @@
         "Distância": 204.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido ao bloqueio da fazenda sonho meu, caminhão foi desviado para Fazenda Usina Paredão "
+    },
+    {
+        "Data": "28/07/2025",
+        "Data de Registro": "28/07/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44084,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Buscar dois conjuntos de carreta "
     }
 ]
