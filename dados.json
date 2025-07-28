@@ -298,5 +298,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Buscar dois conjuntos de carreta "
+    },
+    {
+        "Data": "28/07/2025",
+        "Data de Registro": "28/07/2025",
+        "Nome": "MARCELO CHAGAS DA SILVA ",
+        "BTF": 1,
+        "Frota": 110003,
+        "Distância": 140.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "MANUTENÇÃO E TESTE NA CONCESSIONARIA "
     }
 ]
