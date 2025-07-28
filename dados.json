@@ -308,5 +308,15 @@
         "Distância": 140.0,
         "Local Macro": "Nenhum",
         "Motivo": "MANUTENÇÃO E TESTE NA CONCESSIONARIA "
+    },
+    {
+        "Data": "26/07/2025",
+        "Data de Registro": "28/07/2025",
+        "Nome": "MARCELO CHAGAS ",
+        "BTF": 2,
+        "Frota": 44052,
+        "Distância": 190.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "FOI PARA FAZENDA, CARREGOU, VOLTOU PARTE DO TRAJETO E DEPOIS TEVE QUE SER GUINCHADO "
     }
 ]
