@@ -268,5 +268,15 @@
         "Distância": 35.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Carreta apresentou problemas com risco a segurança "
+    },
+    {
+        "Data": "28/07/2025",
+        "Data de Registro": "28/07/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44176,
+        "Distância": 184.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Caminhão esta no trajeto da fazenda SONHO MEU e precisou ser desviado para Fazenda Usina Paredão "
     }
 ]
