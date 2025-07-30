@@ -28,5 +28,15 @@
         "Distância": 7.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Cm saindo da linha dois , passando na automotiva, e depois seguindo pro auto posto bracell abastecer. Retornou para Linha 1"
+    },
+    {
+        "Data": "30/07/2025",
+        "Data de Registro": "30/07/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44202,
+        "Distância": 30.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Movimentação de carretas da L1 para automotiva 1 automotiva 2"
     }
 ]
