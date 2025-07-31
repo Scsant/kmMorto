@@ -68,5 +68,15 @@
         "Distância": 50.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste prático de motoristas fazenda mamedina"
+    },
+    {
+        "Data": "31/07/2025",
+        "Data de Registro": "31/07/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 45.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste pós entrevista "
     }
 ]
