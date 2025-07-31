@@ -48,5 +48,15 @@
         "Distância": 6.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Cm foi até ao pit stop fazer manutenção de pneus e retornou para linha 1"
+    },
+    {
+        "Data": "31/07/2025",
+        "Data de Registro": "31/07/2025",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44127,
+        "Distância": 4.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Motorista levou carreta para preventiva e depois foi para linha 2 troca turno"
     }
 ]
