@@ -118,5 +118,15 @@
         "Distância": 210.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Finalização da fazenda sonho meu e se Deslocou para fazenda Veneza "
+    },
+    {
+        "Data": "01/08/2025",
+        "Data de Registro": "01/08/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 44033,
+        "Distância": 10.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar e retirar conjunto oficina Rossini "
     }
 ]
