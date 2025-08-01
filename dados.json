@@ -98,5 +98,15 @@
         "Distância": 395.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Caminhão seguiu para a fazenda e precisou ser guinchado para Araçatuba e na data de hoje o mesmo retornou somente o cavalinho para linha 1"
+    },
+    {
+        "Data": "01/08/2025",
+        "Data de Registro": "01/08/2025",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 16.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Cm pegou carreta na automotiva e levou até ao Rossini. E voltou para linha 1."
     }
 ]
