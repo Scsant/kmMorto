@@ -88,5 +88,15 @@
         "Distância": 160.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Está Frota estava em manutenção na Lapônia ourinhos "
+    },
+    {
+        "Data": "01/08/2025",
+        "Data de Registro": "01/08/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44196,
+        "Distância": 395.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Caminhão seguiu para a fazenda e precisou ser guinchado para Araçatuba e na data de hoje o mesmo retornou somente o cavalinho para linha 1"
     }
 ]
