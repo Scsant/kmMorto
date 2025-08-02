@@ -128,5 +128,15 @@
         "Distância": 10.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levar e retirar conjunto oficina Rossini "
+    },
+    {
+        "Data": "02/08/2025",
+        "Data de Registro": "02/08/2025",
+        "Nome": "Paulo ",
+        "BTF": 6,
+        "Frota": 44175,
+        "Distância": 267.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão furou o Tanque de Arla na Fazenda Brinco de Ouro. Desengatou e voltou somente o cavalo. Para Oficina Bracell."
     }
 ]
