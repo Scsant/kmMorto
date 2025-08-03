@@ -148,5 +148,15 @@
         "Distância": 24.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Foi 2 vezes "
+    },
+    {
+        "Data": "03/08/2025",
+        "Data de Registro": "03/08/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44162,
+        "Distância": 66.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Caminhão apresentou falhas no pedágio de Agudos e por orientação do técnico do Voar, retornou para Oficina Central. "
     }
 ]
