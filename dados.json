@@ -138,5 +138,15 @@
         "Distância": 267.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão furou o Tanque de Arla na Fazenda Brinco de Ouro. Desengatou e voltou somente o cavalo. Para Oficina Bracell."
+    },
+    {
+        "Data": "03/08/2025",
+        "Data de Registro": "03/08/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44033,
+        "Distância": 24.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi 2 vezes "
     }
 ]
