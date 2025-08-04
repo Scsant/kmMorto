@@ -208,5 +208,15 @@
         "Distância": 17.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Retirar CT na automotiva "
+    },
+    {
+        "Data": "04/08/2025",
+        "Data de Registro": "04/08/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 160.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi pra fazenda e precisou de guincho no trajeto carregado "
     }
 ]
