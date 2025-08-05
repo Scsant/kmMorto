@@ -228,5 +228,15 @@
         "Distância": 150.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Foi pra fazenda e começou barulho novamente no motor e precisou de guincho "
+    },
+    {
+        "Data": "04/08/2025",
+        "Data de Registro": "05/08/2025",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44051,
+        "Distância": 35.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm desviado da Fazenda Alambari II para Fazenda Jacutinga IV"
     }
 ]
