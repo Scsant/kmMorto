@@ -38,5 +38,15 @@
         "Distância": 192.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Foi com o instrutor buscar uma carreta"
+    },
+    {
+        "Data": "05/08/2025",
+        "Data de Registro": "05/08/2025",
+        "Nome": "Valdenil da Silva ",
+        "BTF": 3,
+        "Frota": 44106,
+        "Distância": 350.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Deu problema e foi guinchado pra laponia"
     }
 ]
