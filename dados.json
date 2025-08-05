@@ -48,5 +48,15 @@
         "Distância": 350.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Deu problema e foi guinchado pra laponia"
+    },
+    {
+        "Data": "05/08/2025",
+        "Data de Registro": "05/08/2025",
+        "Nome": "Valdenil da Silva ",
+        "BTF": 3,
+        "Frota": 44107,
+        "Distância": 530.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi busca a carreta do 44106 que foi guinchado"
     }
 ]
