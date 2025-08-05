@@ -58,5 +58,15 @@
         "Distância": 530.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi busca a carreta do 44106 que foi guinchado"
+    },
+    {
+        "Data": "05/08/2025",
+        "Data de Registro": "05/08/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44190,
+        "Distância": 40.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Saiu da Lapônia São Manoel e veio para linha 1"
     }
 ]
