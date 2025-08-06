@@ -68,5 +68,15 @@
         "Distância": 40.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Saiu da Lapônia São Manoel e veio para linha 1"
+    },
+    {
+        "Data": "05/08/2025",
+        "Data de Registro": "06/08/2025",
+        "Nome": "Murilo Julio ",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Cm levou carreta para Manutenção depois voltou para linha 1"
     }
 ]
