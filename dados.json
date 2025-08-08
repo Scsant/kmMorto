@@ -98,5 +98,15 @@
         "Distância": 118.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm  apresentou problema na fazenda Revolta e foi necessário o guincho pra deslocar até a manutenção "
+    },
+    {
+        "Data": "07/08/2025",
+        "Data de Registro": "08/08/2025",
+        "Nome": "Claudio Rogério ",
+        "BTF": 3,
+        "Frota": 44131,
+        "Distância": 520.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Caminhão chegou na fazendo com o eixo da carreta quebrado e preciso retorna vazio."
     }
 ]
