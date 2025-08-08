@@ -128,5 +128,15 @@
         "Distância": 400.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão retornando carregado deu problema e preciso guinchar"
+    },
+    {
+        "Data": "08/08/2025",
+        "Data de Registro": "08/08/2025",
+        "Nome": "Nilson Martins dos Santos ",
+        "BTF": 3,
+        "Frota": 44044,
+        "Distância": 160.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi busca a carreta do 44064 que deu problema"
     }
 ]
