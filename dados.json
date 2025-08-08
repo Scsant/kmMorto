@@ -138,5 +138,15 @@
         "Distância": 160.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi busca a carreta do 44064 que deu problema"
+    },
+    {
+        "Data": "08/08/2025",
+        "Data de Registro": "08/08/2025",
+        "Nome": "DAVI GUILHERME DO CARMO ",
+        "BTF": 3,
+        "Frota": 44106,
+        "Distância": 30.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Levo carreta pra tra pit-stop e pra oficina 2"
     }
 ]
