@@ -168,5 +168,15 @@
         "Distância": 280.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Carreta quebrou o sachiss voltou vazia"
+    },
+    {
+        "Data": "11/08/2025",
+        "Data de Registro": "11/08/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44198,
+        "Distância": 29.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Motorista errou o trajeto "
     }
 ]
