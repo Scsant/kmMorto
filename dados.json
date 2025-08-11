@@ -148,5 +148,15 @@
         "Distância": 30.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Levo carreta pra tra pit-stop e pra oficina 2"
+    },
+    {
+        "Data": "11/08/2025",
+        "Data de Registro": "11/08/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44212,
+        "Distância": 40.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Movimentação de carretas da L1 para automotiva "
     }
 ]
