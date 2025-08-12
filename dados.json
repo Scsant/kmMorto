@@ -178,5 +178,15 @@
         "Distância": 29.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Motorista errou o trajeto "
+    },
+    {
+        "Data": "12/08/2025",
+        "Data de Registro": "12/08/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44159,
+        "Distância": 32.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Devido ao bloqueio da fazenda Usina Paredão, precisou desviar o CM no caminho"
     }
 ]
