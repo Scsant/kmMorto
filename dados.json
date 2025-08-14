@@ -208,5 +208,15 @@
         "Distância": 0.0054,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste para contratação "
+    },
+    {
+        "Data": "13/08/2025",
+        "Data de Registro": "14/08/2025",
+        "Nome": "Alessandro Belei",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 54.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste para contratação "
     }
 ]
