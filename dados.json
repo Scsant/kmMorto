@@ -218,5 +218,15 @@
         "Distância": 54.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste para contratação "
+    },
+    {
+        "Data": "14/08/2025",
+        "Data de Registro": "14/08/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 30.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvios de fazenda "
     }
 ]
