@@ -288,5 +288,15 @@
         "Distância": 6.5,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Trazer uma carreta que estava no BJ."
+    },
+    {
+        "Data": "14/08/2025",
+        "Data de Registro": "14/08/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 280.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM quebrou o chassis e teve que retornar vazio para Bracell "
     }
 ]
