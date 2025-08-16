@@ -298,5 +298,15 @@
         "Distância": 280.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM quebrou o chassis e teve que retornar vazio para Bracell "
+    },
+    {
+        "Data": "16/08/2025",
+        "Data de Registro": "16/08/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 160.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Veio até  fazenda e precisou ser guinchado "
     }
 ]
