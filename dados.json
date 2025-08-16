@@ -328,5 +328,15 @@
         "Distância": 160.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Veio pra fazenda e precisou ser guinchado "
+    },
+    {
+        "Data": "16/08/2025",
+        "Data de Registro": "16/08/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44158,
+        "Distância": 169.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "44191 quebrou "
     }
 ]
