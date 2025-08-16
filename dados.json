@@ -308,5 +308,15 @@
         "Distância": 160.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Veio até  fazenda e precisou ser guinchado "
+    },
+    {
+        "Data": "16/08/2025",
+        "Data de Registro": "16/08/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 180.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Veio buscar a carreta do Cm que foi guinchado "
     }
 ]
