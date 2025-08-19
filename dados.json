@@ -348,5 +348,15 @@
         "Distância": 24.4,
         "Local Macro": "OT L1",
         "Motivo": "Troca de carretas e abastecimento "
+    },
+    {
+        "Data": "19/08/2025",
+        "Data de Registro": "19/08/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 50.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Lapônia São Manoel "
     }
 ]
