@@ -398,5 +398,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levou e carretas  para manutenção "
+    },
+    {
+        "Data": "18/08/2025",
+        "Data de Registro": "20/08/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44116,
+        "Distância": 328.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Bloqueio do Pátio de Riversul"
     }
 ]
