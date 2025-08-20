@@ -478,5 +478,15 @@
         "Distância": 266.0,
         "Local Macro": "Nenhum",
         "Motivo": "Motorista não se atentou pegou o caminho errado para fazenda."
+    },
+    {
+        "Data": "20/08/2025",
+        "Data de Registro": "20/08/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44134,
+        "Distância": 40.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Entrevista de motorista e prático "
     }
 ]
