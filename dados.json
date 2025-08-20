@@ -378,5 +378,15 @@
         "Distância": 50.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Lapônia São Manoel "
+    },
+    {
+        "Data": "19/08/2025",
+        "Data de Registro": "20/08/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 9.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Pit stop  e Abastecido "
     }
 ]
