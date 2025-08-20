@@ -28,5 +28,15 @@
         "Distância": 120.0,
         "Local Macro": "Nenhum",
         "Motivo": "QUEBRA MECANICA NO TRAJETO QUE OBRIGOU RETORNO "
+    },
+    {
+        "Data": "19/08/2025",
+        "Data de Registro": "20/08/2025",
+        "Nome": "MARCELO CHAGAS ",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 130.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "QUEBRA MECANICA NO TRAJETO QUE OBRIGOU RETORNO "
     }
 ]
