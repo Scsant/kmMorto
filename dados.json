@@ -388,5 +388,15 @@
         "Distância": 9.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Pit stop  e Abastecido "
+    },
+    {
+        "Data": "20/08/2025",
+        "Data de Registro": "20/08/2025",
+        "Nome": "Nilton Carlos ",
+        "BTF": 6,
+        "Frota": 44154,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou e carretas  para manutenção "
     }
 ]
