@@ -38,5 +38,15 @@
         "Distância": 130.0,
         "Local Macro": "Nenhum",
         "Motivo": "QUEBRA MECANICA NO TRAJETO QUE OBRIGOU RETORNO "
+    },
+    {
+        "Data": "20/08/2025",
+        "Data de Registro": "21/08/2025",
+        "Nome": "Fabrício Pontes ",
+        "BTF": 3,
+        "Frota": 44066,
+        "Distância": 135.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Quebrou rolamento do garfo da embreagem "
     }
 ]
