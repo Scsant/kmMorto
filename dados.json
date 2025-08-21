@@ -58,5 +58,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Veiculo foi retirar carreta na oficina 1 e levar para automotiva "
+    },
+    {
+        "Data": "21/08/2025",
+        "Data de Registro": "21/08/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44017,
+        "Distância": 16.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi levar Carretas "
     }
 ]
