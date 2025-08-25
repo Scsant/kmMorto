@@ -168,5 +168,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Corretivas "
+    },
+    {
+        "Data": "25/08/2025",
+        "Data de Registro": "25/08/2025",
+        "Nome": "Henrique Fernando de Oliveira ",
+        "BTF": 8,
+        "Frota": 44153,
+        "Distância": 102.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão teve que voltar vazio devido a problema na carreta "
     }
 ]
