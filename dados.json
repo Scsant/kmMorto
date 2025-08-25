@@ -128,5 +128,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Lubrificação e abastecimento "
+    },
+    {
+        "Data": "25/08/2025",
+        "Data de Registro": "25/08/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi duas vezes buscar carreta "
     }
 ]
