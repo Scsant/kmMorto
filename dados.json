@@ -8,5 +8,15 @@
         "Distância": 80.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção Volvo São Manoel."
+    },
+    {
+        "Data": "26/08/2025",
+        "Data de Registro": "26/08/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44090,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção automotiva dois  carreta preventiva CV automotiva um engatar carreta linha um "
     }
 ]
