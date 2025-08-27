@@ -18,5 +18,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Corretivas no CM e depois levou carreta preventiva "
+    },
+    {
+        "Data": "25/08/2025",
+        "Data de Registro": "27/08/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44158,
+        "Distância": 132.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Quebrou fueiro na fazenda girassol "
     }
 ]
