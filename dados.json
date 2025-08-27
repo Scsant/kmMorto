@@ -18,5 +18,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção automotiva dois  carreta preventiva CV automotiva um engatar carreta linha um "
+    },
+    {
+        "Data": "27/08/2025",
+        "Data de Registro": "27/08/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção automotiva dois  retirar CTM linha dois, retornou na automotiva dois (retrabalho)"
     }
 ]
