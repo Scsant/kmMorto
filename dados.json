@@ -58,5 +58,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção automotiva  dois, retirar CTM linha dois."
+    },
+    {
+        "Data": "28/08/2025",
+        "Data de Registro": "28/08/2025",
+        "Nome": "Elder ",
+        "BTF": 2,
+        "Frota": 110006,
+        "Distância": 400.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Cm teve incêndio no último Compartimento sendo nescessario descarregar e retornar vazio "
     }
 ]
