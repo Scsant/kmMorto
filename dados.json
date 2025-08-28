@@ -8,5 +8,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Preventiva automático um levar carreta na automotiva dois, engatar carreta linha um retirar CTM."
+    },
+    {
+        "Data": "28/08/2025",
+        "Data de Registro": "28/08/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 20.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi fazer corretivas na automotiva 2 mandaram pra terceiro"
     }
 ]
