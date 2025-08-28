@@ -68,5 +68,15 @@
         "Distância": 400.0,
         "Local Macro": "Nenhum",
         "Motivo": "Cm teve incêndio no último Compartimento sendo nescessario descarregar e retornar vazio "
+    },
+    {
+        "Data": "28/08/2025",
+        "Data de Registro": "28/08/2025",
+        "Nome": "Elder ",
+        "BTF": 2,
+        "Frota": 44108,
+        "Distância": 35.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Montar Bitrem Oficina Ferrari  após levar segundo compartimento linha 1"
     }
 ]
