@@ -338,5 +338,15 @@
         "Distância": 60.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Montar Bitrem Oficina Ferrari  após levar segundo compartimento linha 1 apoio na manobra "
+    },
+    {
+        "Data": "28/08/2025",
+        "Data de Registro": "28/08/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 44111,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm foi guinchado da Faz CAMBUÍ para Automotiva "
     }
 ]
