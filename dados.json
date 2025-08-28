@@ -328,5 +328,15 @@
         "Distância": 112.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Montar Bitrem Oficina Ferrari  após levar segundo compartimento linha 1 apoio na manobra "
+    },
+    {
+        "Data": "25/08/2025",
+        "Data de Registro": "28/08/2025",
+        "Nome": "Elder ",
+        "BTF": 2,
+        "Frota": 44048,
+        "Distância": 60.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Montar Bitrem Oficina Ferrari  após levar segundo compartimento linha 1 apoio na manobra "
     }
 ]
