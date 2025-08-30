@@ -38,5 +38,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": ""
+    },
+    {
+        "Data": "30/08/2025",
+        "Data de Registro": "30/08/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levar carreta preventiva "
     }
 ]
