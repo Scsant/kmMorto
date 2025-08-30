@@ -48,5 +48,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar carreta preventiva "
+    },
+    {
+        "Data": "30/08/2025",
+        "Data de Registro": "30/08/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 2,
+        "Frota": 44127,
+        "Distância": 28.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação de carretas"
     }
 ]
