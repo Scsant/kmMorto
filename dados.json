@@ -58,5 +58,15 @@
         "Distância": 28.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Movimentação de carretas"
+    },
+    {
+        "Data": "31/08/2025",
+        "Data de Registro": "31/08/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Corretivas na carreta "
     }
 ]
