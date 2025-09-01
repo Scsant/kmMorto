@@ -98,5 +98,15 @@
         "Distância": 270.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM foi guinchado para Lapônia "
+    },
+    {
+        "Data": "31/08/2025",
+        "Data de Registro": "01/09/2025",
+        "Nome": "Everson ",
+        "BTF": 3,
+        "Frota": 44126,
+        "Distância": 60.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Buscar carreta São Manuel apoio BTF09"
     }
 ]
