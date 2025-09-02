@@ -118,5 +118,15 @@
         "Distância": 30.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Desengatar carreta linha um, manutenção automático um, teste com o veículo em movimento, engatar carreta linha um "
+    },
+    {
+        "Data": "02/09/2025",
+        "Data de Registro": "02/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44091,
+        "Distância": 40.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi levado pra Lapônia São Manoel "
     }
 ]
