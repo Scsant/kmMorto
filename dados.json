@@ -208,5 +208,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Desengatar carreta linha um, retirar carreta automotiva dois, retirar CTM linha um."
+    },
+    {
+        "Data": "03/09/2025",
+        "Data de Registro": "03/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi e voltou duas vezes pra retrabalho "
     }
 ]
