@@ -278,5 +278,15 @@
         "Distância": 100.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm saiu da Fazenda Santa Lúcia III e foi para Lapônia em São Manuel "
+    },
+    {
+        "Data": "04/09/2025",
+        "Data de Registro": "04/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 80.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi e voltou Lapônia São Manoel "
     }
 ]
