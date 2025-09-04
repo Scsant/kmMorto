@@ -268,5 +268,15 @@
         "Distância": 177.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Cm foi desviado da Fazenda Santa Lúcia III para fazenda Bom Retiro I"
+    },
+    {
+        "Data": "03/09/2025",
+        "Data de Registro": "04/09/2025",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44108,
+        "Distância": 100.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm saiu da Fazenda Santa Lúcia III e foi para Lapônia em São Manuel "
     }
 ]
