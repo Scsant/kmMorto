@@ -288,5 +288,15 @@
         "Distância": 80.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Foi e voltou Lapônia São Manoel "
+    },
+    {
+        "Data": "04/09/2025",
+        "Data de Registro": "05/09/2025",
+        "Nome": "Henrique Fernando de Oliveira ",
+        "BTF": 8,
+        "Frota": 44172,
+        "Distância": 240.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm deslocou da concessionária de Araçatuba para a fábrica "
     }
 ]
