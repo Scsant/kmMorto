@@ -308,5 +308,15 @@
         "Distância": 32.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm deslocou da concessionária de São Manuel  para a fábrica "
+    },
+    {
+        "Data": "06/09/2025",
+        "Data de Registro": "06/09/2025",
+        "Nome": "",
+        "BTF": 0,
+        "Frota": 0,
+        "Distância": 0.0,
+        "Local Macro": "Nenhum",
+        "Motivo": ""
     }
 ]
