@@ -458,5 +458,15 @@
         "Distância": 120.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Quebra de CF desvio rancho para Santa Izabel "
+    },
+    {
+        "Data": "08/09/2025",
+        "Data de Registro": "08/09/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44189,
+        "Distância": 120.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Quebra cf desvio rancho para Santa Izabel "
     }
 ]
