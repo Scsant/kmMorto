@@ -448,5 +448,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Desengatar carreta linha um, manutenção automotiva um, abastecer e engatar carreta."
+    },
+    {
+        "Data": "08/09/2025",
+        "Data de Registro": "08/09/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44202,
+        "Distância": 120.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Quebra de CF desvio rancho para Santa Izabel "
     }
 ]
