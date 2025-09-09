@@ -508,5 +508,15 @@
         "Distância": 14.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção automotiva dois retirar CTM linha um "
+    },
+    {
+        "Data": "09/09/2025",
+        "Data de Registro": "09/09/2025",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44054,
+        "Distância": 95.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção tacografo na oficina Auto veloci"
     }
 ]
