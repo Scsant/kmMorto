@@ -518,5 +518,15 @@
         "Distância": 95.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção tacografo na oficina Auto veloci"
+    },
+    {
+        "Data": "10/09/2025",
+        "Data de Registro": "10/09/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44100,
+        "Distância": 40.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Caminhão pegou rodovia para teste e apresentou falha "
     }
 ]
