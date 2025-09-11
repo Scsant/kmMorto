@@ -528,5 +528,15 @@
         "Distância": 40.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Caminhão pegou rodovia para teste e apresentou falha "
+    },
+    {
+        "Data": "11/09/2025",
+        "Data de Registro": "11/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 40.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Foi três vezes na automotiva 2 pra resolver o mesmo defeito "
     }
 ]
