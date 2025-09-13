@@ -48,5 +48,15 @@
         "Distância": 30.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Buscar carreta JCF"
+    },
+    {
+        "Data": "13/09/2025",
+        "Data de Registro": "13/09/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44053,
+        "Distância": 30.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Buscar Carretas JCF "
     }
 ]
