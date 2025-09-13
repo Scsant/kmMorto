@@ -38,5 +38,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção automotiva um, desengatar e engatar carreta linha um "
+    },
+    {
+        "Data": "13/09/2025",
+        "Data de Registro": "13/09/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44112,
+        "Distância": 30.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Buscar carreta JCF"
     }
 ]
