@@ -28,5 +28,15 @@
         "Distância": 15.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Instalar defletor (Tucunaré) engatar carreta na linha um "
+    },
+    {
+        "Data": "12/09/2025",
+        "Data de Registro": "13/09/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção automotiva um, desengatar e engatar carreta linha um "
     }
 ]
