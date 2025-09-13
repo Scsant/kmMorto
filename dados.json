@@ -58,5 +58,15 @@
         "Distância": 30.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Buscar Carretas JCF "
+    },
+    {
+        "Data": "13/09/2025",
+        "Data de Registro": "13/09/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110006,
+        "Distância": 450.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhao foi  guinchado para Mercedes avare "
     }
 ]
