@@ -78,5 +78,15 @@
         "Distância": 12.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manobrar Carretas Rossini "
+    },
+    {
+        "Data": "15/09/2025",
+        "Data de Registro": "15/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44099,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi duas vezes pra corretivas "
     }
 ]
