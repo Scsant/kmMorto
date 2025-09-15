@@ -108,5 +108,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Pneu furado "
+    },
+    {
+        "Data": "15/09/2025",
+        "Data de Registro": "15/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44082,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Corretivas e engate de carreta "
     }
 ]
