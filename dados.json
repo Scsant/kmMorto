@@ -278,5 +278,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Pneu furado "
+    },
+    {
+        "Data": "17/09/2025",
+        "Data de Registro": "17/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44092,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Buscar dois conjuntos que estava em manutenção "
     }
 ]
