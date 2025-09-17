@@ -288,5 +288,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Buscar dois conjuntos que estava em manutenção "
+    },
+    {
+        "Data": "17/09/2025",
+        "Data de Registro": "17/09/2025",
+        "Nome": "Angélica Machado ",
+        "BTF": 2,
+        "Frota": 44017,
+        "Distância": 14.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar prancha 53011 da oficina central para oficina Ferrari."
     }
 ]
