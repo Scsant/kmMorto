@@ -298,5 +298,15 @@
         "Distância": 14.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levar prancha 53011 da oficina central para oficina Ferrari."
+    },
+    {
+        "Data": "17/09/2025",
+        "Data de Registro": "18/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44093,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Teste creare e buscar carreta "
     }
 ]
