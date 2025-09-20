@@ -498,5 +498,15 @@
         "Distância": 59.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste prático "
+    },
+    {
+        "Data": "20/09/2025",
+        "Data de Registro": "20/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 80.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Corretivas na Lapônia São Manuel "
     }
 ]
