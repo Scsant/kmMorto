@@ -108,5 +108,15 @@
         "Distância": 12.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Levar CT manutenção "
+    },
+    {
+        "Data": "10/09/2025",
+        "Data de Registro": "20/09/2025",
+        "Nome": "Alex Mendes ",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar CT manutenção "
     }
 ]
