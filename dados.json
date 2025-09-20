@@ -478,5 +478,15 @@
         "Distância": 98.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio de fazenda"
+    },
+    {
+        "Data": "11/09/2025",
+        "Data de Registro": "20/09/2025",
+        "Nome": "Alex Mendes ",
+        "BTF": 4,
+        "Frota": 44099,
+        "Distância": 98.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste prático "
     }
 ]
