@@ -38,5 +38,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Foi pra automotiva volto desengatar a carreta na linha 1 levou cm pra automotiva novamente "
+    },
+    {
+        "Data": "20/09/2025",
+        "Data de Registro": "20/09/2025",
+        "Nome": "44101",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Desengatar a carreta linha um, manutenção automotiva um engatar carreta linha um."
     }
 ]
