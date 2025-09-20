@@ -48,5 +48,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Desengatar a carreta linha um, manutenção automotiva um engatar carreta linha um."
+    },
+    {
+        "Data": "20/09/2025",
+        "Data de Registro": "20/09/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44202,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção depois retirar nota "
     }
 ]
