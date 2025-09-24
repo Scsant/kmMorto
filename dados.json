@@ -588,5 +588,15 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Buscar carreta "
+    },
+    {
+        "Data": "24/09/2025",
+        "Data de Registro": "24/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44071,
+        "Distância": 12.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Buscar carreta "
     }
 ]
