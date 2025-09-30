@@ -98,5 +98,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Corretivas "
+    },
+    {
+        "Data": "29/09/2025",
+        "Data de Registro": "30/09/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44076,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Corretivas e pit-stop "
     }
 ]
