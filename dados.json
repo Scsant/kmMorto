@@ -48,5 +48,15 @@
         "Distância": 40.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Caminhão apresentou falhas no pedágio de borebi e retornou para oficina "
+    },
+    {
+        "Data": "05/10/2025",
+        "Data de Registro": "05/10/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44182,
+        "Distância": 40.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Caminhão foi retirar carreta em terceiro "
     }
 ]
