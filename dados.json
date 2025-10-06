@@ -58,5 +58,15 @@
         "Distância": 40.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Caminhão foi retirar carreta em terceiro "
+    },
+    {
+        "Data": "06/10/2025",
+        "Data de Registro": "06/10/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44197,
+        "Distância": 350.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão deu Socorro nas carretas curto+incêndio. (No trajeto antes de chegar na fazenda)\nVai precisar voltar vazio para automotiva."
     }
 ]
