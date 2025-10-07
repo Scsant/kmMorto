@@ -78,5 +78,15 @@
         "Distância": 350.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Quebra fueiro fixo em campo "
+    },
+    {
+        "Data": "07/10/2025",
+        "Data de Registro": "07/10/2025",
+        "Nome": "Paulo",
+        "BTF": 1,
+        "Frota": 44061,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Levou carrreta na preventiva."
     }
 ]
