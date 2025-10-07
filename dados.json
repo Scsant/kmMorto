@@ -68,5 +68,15 @@
         "Distância": 350.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão deu Socorro nas carretas curto+incêndio. (No trajeto antes de chegar na fazenda)\nVai precisar voltar vazio para automotiva."
+    },
+    {
+        "Data": "06/10/2025",
+        "Data de Registro": "07/10/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44185,
+        "Distância": 350.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Quebra fueiro fixo em campo "
     }
 ]
