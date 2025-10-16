@@ -28,5 +28,15 @@
         "Distância": 200.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Deu problema no motor no 3 cilindro"
+    },
+    {
+        "Data": "13/10/2025",
+        "Data de Registro": "16/10/2025",
+        "Nome": "BRUNO RODRIGUES",
+        "BTF": 3,
+        "Frota": 44119,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Deu problema no motor no 3 cilindro"
     }
 ]
