@@ -48,5 +48,15 @@
         "Distância": 235.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Veio da Lapônia de Aracatuba "
+    },
+    {
+        "Data": "16/10/2025",
+        "Data de Registro": "16/10/2025",
+        "Nome": "Ricardo",
+        "BTF": 3,
+        "Frota": 44116,
+        "Distância": 59.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Teste de contratação de motorista "
     }
 ]
