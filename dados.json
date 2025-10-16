@@ -38,5 +38,15 @@
         "Distância": 200.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Deu problema no motor no 3 cilindro"
+    },
+    {
+        "Data": "15/10/2025",
+        "Data de Registro": "16/10/2025",
+        "Nome": "DENNER PORTO CIOCCA",
+        "BTF": 3,
+        "Frota": 44119,
+        "Distância": 235.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Veio da Lapônia de Aracatuba "
     }
 ]
