@@ -8,5 +8,15 @@
         "Distância": 40.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Caminhão seguia a campo e precisou retornar para oficina "
+    },
+    {
+        "Data": "13/10/2025",
+        "Data de Registro": "16/10/2025",
+        "Nome": "ORLANDO MARQUEZ",
+        "BTF": 3,
+        "Frota": 44107,
+        "Distância": 300.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta do 44119"
     }
 ]
