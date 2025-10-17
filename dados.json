@@ -58,5 +58,15 @@
         "Distância": 59.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste de contratação de motorista "
+    },
+    {
+        "Data": "17/10/2025",
+        "Data de Registro": "17/10/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 48.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão quebrou no trageto para a fazenda e foi guinchado"
     }
 ]
