@@ -58,5 +58,15 @@
         "Distância": 270.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão em SOS retorno para Bracell Vazio"
+    },
+    {
+        "Data": "19/10/2025",
+        "Data de Registro": "20/10/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44122,
+        "Distância": 170.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "44122 foi buscar a carreta do 44118 que foi guinchado e levado para a Lapônia de Araçatuba "
     }
 ]
