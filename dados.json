@@ -68,5 +68,15 @@
         "Distância": 170.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "44122 foi buscar a carreta do 44118 que foi guinchado e levado para a Lapônia de Araçatuba "
+    },
+    {
+        "Data": "20/10/2025",
+        "Data de Registro": "20/10/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 30.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Skid encaminhou  essa frota parada trocar pneu Aut: 2, que mandou pro pit stop, que mandou de volta pro Skid, e teve que  voltar novamente pro pit stop, (OBS) pontilhão empedido tornando o trageto mais longo "
     }
 ]
