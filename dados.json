@@ -568,5 +568,15 @@
         "Distância": 14.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção CV"
+    },
+    {
+        "Data": "22/10/2025",
+        "Data de Registro": "31/10/2025",
+        "Nome": "Alex Mendes ",
+        "BTF": 4,
+        "Frota": 44095,
+        "Distância": 58.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Testes pratico"
     }
 ]
