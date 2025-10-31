@@ -98,5 +98,15 @@
         "Distância": 11.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Calibragem,manutenção pneu"
+    },
+    {
+        "Data": "01/10/2025",
+        "Data de Registro": "31/10/2025",
+        "Nome": "Alex Mendes",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 11.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "manutenção pneu"
     }
 ]
