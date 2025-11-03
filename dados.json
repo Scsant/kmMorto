@@ -88,5 +88,15 @@
         "Distância": 94.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": ""
+    },
+    {
+        "Data": "03/11/2025",
+        "Data de Registro": "03/11/2025",
+        "Nome": "Joao Gallego ",
+        "BTF": 6,
+        "Frota": 44193,
+        "Distância": 94.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Finalizou o carregamento e o veículo foi carregar em outra fazenda "
     }
 ]
