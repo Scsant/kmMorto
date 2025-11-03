@@ -108,5 +108,15 @@
         "Distância": 94.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Finalizou o carregamento e o veículo foi carregar em outra fazenda "
+    },
+    {
+        "Data": "03/11/2025",
+        "Data de Registro": "03/11/2025",
+        "Nome": "RONIVON ",
+        "BTF": 3,
+        "Frota": 44058,
+        "Distância": 30.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi retirar 2 carretas em terceiros "
     }
 ]
