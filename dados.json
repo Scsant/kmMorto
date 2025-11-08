@@ -88,5 +88,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar frota preventiva "
+    },
+    {
+        "Data": "08/11/2025",
+        "Data de Registro": "08/11/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44158,
+        "Distância": 20.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Levar frota fazer desatrelamebto"
     }
 ]
