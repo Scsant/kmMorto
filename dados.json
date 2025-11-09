@@ -98,5 +98,15 @@
         "Distância": 20.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Levar frota fazer desatrelamebto"
+    },
+    {
+        "Data": "09/11/2025",
+        "Data de Registro": "09/11/2025",
+        "Nome": "Pedro Martins ",
+        "BTF": 3,
+        "Frota": 44122,
+        "Distância": 300.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Estava perto da fazenda deu problema nos Freios precisando retorna pra automotiva "
     }
 ]
