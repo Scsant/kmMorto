@@ -148,5 +148,15 @@
         "Distância": 128.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão foi buscar as carretas da frota 44162 que foi guinchado "
+    },
+    {
+        "Data": "09/11/2025",
+        "Data de Registro": "10/11/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44162,
+        "Distância": 170.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão precisou ser guinchado "
     }
 ]
