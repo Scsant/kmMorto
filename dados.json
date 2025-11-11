@@ -198,5 +198,15 @@
         "Distância": 16.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levar a carreta na oficina 2 "
+    },
+    {
+        "Data": "10/11/2025",
+        "Data de Registro": "11/11/2025",
+        "Nome": "ELENILSON",
+        "BTF": 3,
+        "Frota": 44126,
+        "Distância": 16.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Troca os parafuso de roda do cavalo!"
     }
 ]
