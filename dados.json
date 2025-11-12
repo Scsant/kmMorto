@@ -248,5 +248,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Desengatar carreta linha um manutenção automotiva um engatar carreta linha um retirar CTM "
+    },
+    {
+        "Data": "11/11/2025",
+        "Data de Registro": "12/11/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44189,
+        "Distância": 110.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desviado da Fazenda Alvorada para Santa Isabel "
     }
 ]
