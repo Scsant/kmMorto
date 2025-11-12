@@ -288,5 +288,15 @@
         "Distância": 35.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cavalo liberado da lapônia Samuel para fábrica"
+    },
+    {
+        "Data": "12/11/2025",
+        "Data de Registro": "12/11/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44171,
+        "Distância": 40.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "172 estava na automotiva 1 encaminhado para lapônia São Manuel para realizar manutenção"
     }
 ]
