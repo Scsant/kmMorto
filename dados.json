@@ -278,5 +278,15 @@
         "Distância": 6.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carretas "
+    },
+    {
+        "Data": "11/11/2025",
+        "Data de Registro": "12/11/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44172,
+        "Distância": 35.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cavalo liberado da lapônia Samuel para fábrica"
     }
 ]
