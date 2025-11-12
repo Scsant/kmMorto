@@ -298,5 +298,15 @@
         "Distância": 40.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "172 estava na automotiva 1 encaminhado para lapônia São Manuel para realizar manutenção"
+    },
+    {
+        "Data": "12/11/2025",
+        "Data de Registro": "12/11/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44149,
+        "Distância": 187.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão saiu da linha 1 até a fazenda Santa Mariam para apoiar outro caminhão que estava quebrado mas chegou lá não precisou do apoio voltou só o cavalo para fábrica"
     }
 ]
