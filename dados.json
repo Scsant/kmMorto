@@ -348,5 +348,15 @@
         "Distância": 240.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Chuva e desvio Alvorada "
+    },
+    {
+        "Data": "13/11/2025",
+        "Data de Registro": "13/11/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 240.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio chuva alvorada "
     }
 ]
