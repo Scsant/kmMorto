@@ -318,5 +318,15 @@
         "Distância": 25.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção na automotiva um técnico da Volvo saiu testar o CM "
+    },
+    {
+        "Data": "12/11/2025",
+        "Data de Registro": "13/11/2025",
+        "Nome": "Cleiton Migliorini ",
+        "BTF": 8,
+        "Frota": 44149,
+        "Distância": 187.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cavalo saiu para apoiar outro cm na fábrica assim que chegou no local pessoal do Voar estava realizando serviço do cm e não precisou do cavalo 44149 que retornou para fábrica sem carreta "
     }
 ]
