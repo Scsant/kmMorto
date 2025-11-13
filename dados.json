@@ -338,5 +338,15 @@
         "Distância": 45.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "44172 liberado da lapônia de São Manuel sentido fábrica linha 1 depois automotiva 01 novamente "
+    },
+    {
+        "Data": "13/11/2025",
+        "Data de Registro": "13/11/2025",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 240.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Chuva e desvio Alvorada "
     }
 ]
