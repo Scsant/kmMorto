@@ -8,5 +8,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Carretas "
+    },
+    {
+        "Data": "14/11/2025",
+        "Data de Registro": "14/11/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44091,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção automotiva dois abastecer retirar CTM "
     }
 ]
