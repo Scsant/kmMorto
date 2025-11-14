@@ -228,5 +228,15 @@
         "Distância": 5.0,
         "Local Macro": "OT L1",
         "Motivo": "Mudar carretas de lugar do BTF-03 "
+    },
+    {
+        "Data": "14/11/2025",
+        "Data de Registro": "14/11/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 1,
+        "Frota": 44003,
+        "Distância": 5.9,
+        "Local Macro": "Pátio",
+        "Motivo": "Movimentação de carreta "
     }
 ]
