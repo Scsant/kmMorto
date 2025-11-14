@@ -168,5 +168,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Lubrificação "
+    },
+    {
+        "Data": "14/11/2025",
+        "Data de Registro": "14/11/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 20.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção "
     }
 ]
