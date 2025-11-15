@@ -248,5 +248,15 @@
         "Distância": 25.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Retirar duas carretas automotiva dois "
+    },
+    {
+        "Data": "15/11/2025",
+        "Data de Registro": "15/11/2025",
+        "Nome": "DANIEL OLIVEIRA ",
+        "BTF": 3,
+        "Frota": 44054,
+        "Distância": 30.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levou duas Carretas pra oficina 2, e levou na linha 1"
     }
 ]
