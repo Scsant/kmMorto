@@ -308,5 +308,15 @@
         "Distância": 30.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Saiu da scania de bauru"
+    },
+    {
+        "Data": "15/11/2025",
+        "Data de Registro": "15/11/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44131,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Saindo linha 02 para automotiva 02 e retornando "
     }
 ]
