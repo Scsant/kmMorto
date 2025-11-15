@@ -338,5 +338,15 @@
         "Distância": 4.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Frota 44120 está na automotiva 01, foi pedido para ir ao posto abastecer arla e retornar para manutenção "
+    },
+    {
+        "Data": "15/11/2025",
+        "Data de Registro": "15/11/2025",
+        "Nome": "Samuel ",
+        "BTF": 3,
+        "Frota": 44014,
+        "Distância": 4.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Abastecimento e pit stop "
     }
 ]
