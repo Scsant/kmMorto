@@ -348,5 +348,15 @@
         "Distância": 4.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento e pit stop "
+    },
+    {
+        "Data": "15/11/2025",
+        "Data de Registro": "15/11/2025",
+        "Nome": "Reginaldo Rigo",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 4.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Lubrificação e calibragem pit stop "
     }
 ]
