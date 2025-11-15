@@ -258,5 +258,15 @@
         "Distância": 30.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levou duas Carretas pra oficina 2, e levou na linha 1"
+    },
+    {
+        "Data": "15/11/2025",
+        "Data de Registro": "15/11/2025",
+        "Nome": "LEANDRO AURELIANO ",
+        "BTF": 3,
+        "Frota": 44106,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levou duas Carretas pra oficina 2,\n"
     }
 ]
