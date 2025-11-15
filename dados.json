@@ -268,5 +268,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levou duas Carretas pra oficina 2,\n"
+    },
+    {
+        "Data": "15/11/2025",
+        "Data de Registro": "15/11/2025",
+        "Nome": "JOSE LUIZ",
+        "BTF": 3,
+        "Frota": 44066,
+        "Distância": 0.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Lubrificação do cavalo"
     }
 ]
