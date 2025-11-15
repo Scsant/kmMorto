@@ -318,5 +318,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Saindo linha 02 para automotiva 02 e retornando "
+    },
+    {
+        "Data": "15/11/2025",
+        "Data de Registro": "15/11/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 441119,
+        "Distância": 5.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Saindo linha 02 , desengatando carreta na tabulação seguindo para automotiva 01 "
     }
 ]
