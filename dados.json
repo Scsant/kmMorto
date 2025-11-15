@@ -298,5 +298,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Posto abastecer o caminhão "
+    },
+    {
+        "Data": "12/11/2025",
+        "Data de Registro": "15/11/2025",
+        "Nome": "DENNER",
+        "BTF": 3,
+        "Frota": 44066,
+        "Distância": 30.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Saiu da scania de bauru"
     }
 ]
