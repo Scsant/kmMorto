@@ -278,5 +278,15 @@
         "Distância": 0.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Lubrificação do cavalo"
+    },
+    {
+        "Data": "15/11/2025",
+        "Data de Registro": "15/11/2025",
+        "Nome": "DENNER",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 0.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Posto abastecer o caminhão "
     }
 ]
