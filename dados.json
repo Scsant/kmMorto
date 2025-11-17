@@ -358,5 +358,15 @@
         "Distância": 4.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Lubrificação e calibragem pit stop "
+    },
+    {
+        "Data": "17/11/2025",
+        "Data de Registro": "17/11/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 80.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção Volvo São Manoel  engatar carreta na linha um retornou no Skidy "
     }
 ]
