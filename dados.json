@@ -408,5 +408,15 @@
         "Distância": 8.0,
         "Local Macro": "Pit-stop",
         "Motivo": "SKID e Pit Stop"
+    },
+    {
+        "Data": "18/11/2025",
+        "Data de Registro": "18/11/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 16.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Movimentou duas carretas para Automotiva 1"
     }
 ]
