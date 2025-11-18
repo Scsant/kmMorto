@@ -368,5 +368,15 @@
         "Distância": 80.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção Volvo São Manoel  engatar carreta na linha um retornou no Skidy "
+    },
+    {
+        "Data": "18/11/2025",
+        "Data de Registro": "18/11/2025",
+        "Nome": "FLAVIO BITENCOURTT ",
+        "BTF": 3,
+        "Frota": 44131,
+        "Distância": 10.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Foi até o posto abastecer"
     }
 ]
