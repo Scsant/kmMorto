@@ -388,5 +388,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Foi até o posto abastecer"
+    },
+    {
+        "Data": "18/11/2025",
+        "Data de Registro": "18/11/2025",
+        "Nome": "Rodrigo G",
+        "BTF": 3,
+        "Frota": 44066,
+        "Distância": 10.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Foi na linha 1 desengatar a carreta e volto pra automotiva "
     }
 ]
