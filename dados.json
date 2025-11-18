@@ -378,5 +378,15 @@
         "Distância": 10.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Foi até o posto abastecer"
+    },
+    {
+        "Data": "18/11/2025",
+        "Data de Registro": "18/11/2025",
+        "Nome": "ALMIR QUEIROZ ",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 10.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Foi até o posto abastecer"
     }
 ]
