@@ -398,5 +398,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Foi na linha 1 desengatar a carreta e volto pra automotiva "
+    },
+    {
+        "Data": "18/11/2025",
+        "Data de Registro": "18/11/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 8.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "SKID e Pit Stop"
     }
 ]
