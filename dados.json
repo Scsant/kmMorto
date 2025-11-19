@@ -428,5 +428,15 @@
         "Distância": 40.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cm foi liberado da automotiva  engatou a carreta ao se deslocar sentido faz apresentou o mesmo problema sendo obrigado a retornar na automotiva "
+    },
+    {
+        "Data": "18/11/2025",
+        "Data de Registro": "19/11/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 195,
+        "Distância": 30.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio para fazenda Sta Marian"
     }
 ]
