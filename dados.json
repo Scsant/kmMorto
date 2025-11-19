@@ -418,5 +418,15 @@
         "Distância": 16.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Movimentou duas carretas para Automotiva 1"
+    },
+    {
+        "Data": "19/11/2025",
+        "Data de Registro": "19/11/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 40.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Cm foi liberado da automotiva  engatou a carreta ao se deslocar sentido faz apresentou o mesmo problema sendo obrigado a retornar na automotiva "
     }
 ]
