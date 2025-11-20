@@ -538,5 +538,15 @@
         "Distância": 95.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio para fazenda São Luiz V "
+    },
+    {
+        "Data": "20/11/2025",
+        "Data de Registro": "20/11/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44081,
+        "Distância": 15.6,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Feia 44081 problema de isolar marcha mecânico saiu pra acompanhar motorista em uma volta pra verificar a falha "
     }
 ]
