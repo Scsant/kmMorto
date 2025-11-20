@@ -548,5 +548,15 @@
         "Distância": 15.6,
         "Local Macro": "Teste Prático",
         "Motivo": "Feia 44081 problema de isolar marcha mecânico saiu pra acompanhar motorista em uma volta pra verificar a falha "
+    },
+    {
+        "Data": "20/11/2025",
+        "Data de Registro": "20/11/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44081,
+        "Distância": 21.3,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Feia 44081 saiu pela segunda vez pois na primeira apresentou falhar "
     }
 ]
