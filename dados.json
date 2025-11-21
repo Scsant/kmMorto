@@ -1018,5 +1018,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Levar CV para manutenção  "
+    },
+    {
+        "Data": "20/11/2025",
+        "Data de Registro": "21/11/2025",
+        "Nome": "ROBERTO PEREIRA DE SOUZA ",
+        "BTF": 3,
+        "Frota": 44054,
+        "Distância": 75.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "CM deu problema no trajeto vazio  preciso retorna pra automotiva orientado  pelo mecânico "
     }
 ]
