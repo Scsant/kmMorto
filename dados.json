@@ -1138,5 +1138,15 @@
         "Distância": 30.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Levando carretas para lubrificar "
+    },
+    {
+        "Data": "21/11/2025",
+        "Data de Registro": "21/11/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44108,
+        "Distância": 332.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM foi socorrer CM guinchado 44124"
     }
 ]
