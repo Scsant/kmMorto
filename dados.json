@@ -1118,5 +1118,15 @@
         "Distância": 105.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Guinchado para a Lapônia "
+    },
+    {
+        "Data": "21/11/2025",
+        "Data de Registro": "21/11/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44189,
+        "Distância": 50.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Levando carretas para lubrificar"
     }
 ]
