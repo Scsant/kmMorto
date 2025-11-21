@@ -1158,5 +1158,15 @@
         "Distância": 101.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM guinchado "
+    },
+    {
+        "Data": "21/11/2025",
+        "Data de Registro": "21/11/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44207,
+        "Distância": 324.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Motorista do caminhão errou a manobra de ré, forçou o pino de engate da 2° composição danificando o mesmo, precisou descarregar e voltar vazio para fabrica. Para passar na automotiva verificar a folga do pino da 5° roda."
     }
 ]
