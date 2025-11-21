@@ -1108,5 +1108,15 @@
         "Distância": 35.1,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Liberado da Lapônia "
+    },
+    {
+        "Data": "18/11/2025",
+        "Data de Registro": "21/11/2025",
+        "Nome": "Wesley Maruchi",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 105.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Guinchado para a Lapônia "
     }
 ]
