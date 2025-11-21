@@ -1088,5 +1088,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Retirada do CM da Automotiva "
+    },
+    {
+        "Data": "18/11/2025",
+        "Data de Registro": "21/11/2025",
+        "Nome": "Wesley Maruchi",
+        "BTF": 4,
+        "Frota": 44095,
+        "Distância": 151.2,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "O cm foi guinchado para a Lapônia "
     }
 ]
