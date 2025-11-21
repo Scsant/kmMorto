@@ -1128,5 +1128,15 @@
         "Distância": 50.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Levando carretas para lubrificar"
+    },
+    {
+        "Data": "21/11/2025",
+        "Data de Registro": "21/11/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 30.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Levando carretas para lubrificar "
     }
 ]
