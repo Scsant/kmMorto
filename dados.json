@@ -1168,5 +1168,15 @@
         "Distância": 324.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Motorista do caminhão errou a manobra de ré, forçou o pino de engate da 2° composição danificando o mesmo, precisou descarregar e voltar vazio para fabrica. Para passar na automotiva verificar a folga do pino da 5° roda."
+    },
+    {
+        "Data": "22/11/2025",
+        "Data de Registro": "22/11/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 21.5,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Várias manobras de carretas "
     }
 ]
