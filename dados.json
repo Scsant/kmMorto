@@ -1178,5 +1178,15 @@
         "Distância": 21.5,
         "Local Macro": "Automotiva 2",
         "Motivo": "Várias manobras de carretas "
+    },
+    {
+        "Data": "24/11/2025",
+        "Data de Registro": "24/11/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44109,
+        "Distância": 299.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "CM voltou vazio da fazenda Santa Maria VIII para retiro do turvo "
     }
 ]
