@@ -1188,5 +1188,15 @@
         "Distância": 299.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "CM voltou vazio da fazenda Santa Maria VIII para retiro do turvo "
+    },
+    {
+        "Data": "25/11/2025",
+        "Data de Registro": "25/11/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44076,
+        "Distância": 30.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Liberado da manutenção sentido faz foi obrigado retornar, vazamento "
     }
 ]
