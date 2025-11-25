@@ -1218,5 +1218,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Desengatar linha um, retirar carreta na automotiva, retirar CTM linha dois "
+    },
+    {
+        "Data": "25/11/2025",
+        "Data de Registro": "25/11/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 1,
+        "Frota": 44027,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Utilizamos a frota 44027do BTF 01  para levar carreta 44129 para manutenção automotiva 02 \n\n\n"
     }
 ]
