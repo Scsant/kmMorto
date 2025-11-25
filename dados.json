@@ -1198,5 +1198,15 @@
         "Distância": 30.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Liberado da manutenção sentido faz foi obrigado retornar, vazamento "
+    },
+    {
+        "Data": "25/11/2025",
+        "Data de Registro": "25/11/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 30.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Foi obrigado a retornar para estacionar em local seguro e aguardar socorro "
     }
 ]
