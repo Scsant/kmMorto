@@ -1278,5 +1278,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "manutenção carreta Oficina 2 e manutenção Cavalo Oficina 1"
+    },
+    {
+        "Data": "26/11/2025",
+        "Data de Registro": "27/11/2025",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110013,
+        "Distância": 58.1,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Movimentação de carretas do Skid para automotiva 2 em seguida para linha 1"
     }
 ]
