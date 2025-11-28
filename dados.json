@@ -1288,5 +1288,15 @@
         "Distância": 58.1,
         "Local Macro": "Automotiva 2",
         "Motivo": "Movimentação de carretas do Skid para automotiva 2 em seguida para linha 1"
+    },
+    {
+        "Data": "28/11/2025",
+        "Data de Registro": "28/11/2025",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44110,
+        "Distância": 17.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Automotiva 2"
     }
 ]
