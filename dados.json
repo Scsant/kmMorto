@@ -1328,5 +1328,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção automotiva dois retornou linha dois retirar CTM "
+    },
+    {
+        "Data": "30/11/2025",
+        "Data de Registro": "30/11/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44179,
+        "Distância": 169.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão com problemas no radiador precisou ser guinchado na fazenda Santa Maria VIII"
     }
 ]
