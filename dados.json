@@ -1308,5 +1308,15 @@
         "Distância": 25.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM foi socorrer o 44097 que apresentou problema no trajeto, 44085 engatou a carreta e foi descarregar "
+    },
+    {
+        "Data": "29/11/2025",
+        "Data de Registro": "30/11/2025",
+        "Nome": "",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 40.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Apresentou problema no trajeto da Fazenda Boa vista, foi necessário guincho "
     }
 ]
