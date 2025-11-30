@@ -1338,5 +1338,15 @@
         "Distância": 169.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão com problemas no radiador precisou ser guinchado na fazenda Santa Maria VIII"
+    },
+    {
+        "Data": "29/11/2025",
+        "Data de Registro": "30/11/2025",
+        "Nome": "",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 105.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm apresentou problema no trajeto da fazenda Boa Vista ll foi necessário desengatar carregado e direcionar para automotiva "
     }
 ]
