@@ -1348,5 +1348,15 @@
         "Distância": 105.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm apresentou problema no trajeto da fazenda Boa Vista ll foi necessário desengatar carregado e direcionar para automotiva "
+    },
+    {
+        "Data": "01/12/2025",
+        "Data de Registro": "01/12/2025",
+        "Nome": "Andre Alves dos Santos ",
+        "BTF": 6,
+        "Frota": 44180,
+        "Distância": 200.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Caminhão quebrou o fueiro na fazenda. O prestador não tinha fueiro para trocar. O caminhão retornou vazio para arrumar na empresa."
     }
 ]
