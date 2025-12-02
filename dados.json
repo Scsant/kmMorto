@@ -1398,5 +1398,15 @@
         "Distância": 50.0,
         "Local Macro": "Nenhum",
         "Motivo": "Movimentação de carretas para terceiros "
+    },
+    {
+        "Data": "02/12/2025",
+        "Data de Registro": "02/12/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44176,
+        "Distância": 55.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "CM apresentou falhas e precisou retornar para oficina "
     }
 ]
