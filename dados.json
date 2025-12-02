@@ -1358,5 +1358,15 @@
         "Distância": 200.0,
         "Local Macro": "Nenhum",
         "Motivo": "Caminhão quebrou o fueiro na fazenda. O prestador não tinha fueiro para trocar. O caminhão retornou vazio para arrumar na empresa."
+    },
+    {
+        "Data": "02/12/2025",
+        "Data de Registro": "02/12/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 50.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Movimentação de carretas para terceiros "
     }
 ]
