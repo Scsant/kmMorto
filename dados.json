@@ -1388,5 +1388,15 @@
         "Distância": 50.0,
         "Local Macro": "Nenhum",
         "Motivo": "Movimentação de carretas para terceiros "
+    },
+    {
+        "Data": "02/12/2025",
+        "Data de Registro": "02/12/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44158,
+        "Distância": 50.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Movimentação de carretas para terceiros "
     }
 ]
