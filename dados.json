@@ -18,5 +18,15 @@
         "Distância": 21.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Retirar carreta do terceiro, carreta da automotiva e levar CM manutenção "
+    },
+    {
+        "Data": "06/12/2025",
+        "Data de Registro": "06/12/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 8.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "levou CM  corretiva, aconchegar na Linha 1 apresentou mesmo problema tendo que retornar"
     }
 ]
