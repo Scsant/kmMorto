@@ -8,5 +8,15 @@
         "Distância": 50.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Estourou o pneu na rodovia e veio a danificar as lanternas precisando voltar pra automotiva"
+    },
+    {
+        "Data": "06/12/2025",
+        "Data de Registro": "06/12/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44202,
+        "Distância": 21.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Retirar carreta do terceiro, carreta da automotiva e levar CM manutenção "
     }
 ]
