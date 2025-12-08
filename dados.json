@@ -138,5 +138,15 @@
         "Distância": 5.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Cavalo"
+    },
+    {
+        "Data": "07/12/2025",
+        "Data de Registro": "08/12/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44208,
+        "Distância": 300.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Socorro 44199, saída fazenda Santo Antônio Dimar "
     }
 ]
