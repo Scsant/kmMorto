@@ -148,5 +148,15 @@
         "Distância": 300.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Socorro 44199, saída fazenda Santo Antônio Dimar "
+    },
+    {
+        "Data": "07/12/2025",
+        "Data de Registro": "08/12/2025",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44199,
+        "Distância": 390.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Socorro 44199 carregou porém veio somente cavalo por segurança "
     }
 ]
