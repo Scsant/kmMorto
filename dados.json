@@ -68,5 +68,15 @@
         "Distância": 120.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Balança emitiu nota para um projeto sen modulo de carregamento "
+    },
+    {
+        "Data": "09/12/2025",
+        "Data de Registro": "09/12/2025",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44159,
+        "Distância": 120.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Balança emitiu nota para um projeto sem Modulo de carregamento "
     }
 ]
