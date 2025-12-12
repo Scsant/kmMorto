@@ -78,5 +78,15 @@
         "Distância": 120.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Balança emitiu nota para um projeto sem Modulo de carregamento "
+    },
+    {
+        "Data": "12/12/2025",
+        "Data de Registro": "12/12/2025",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 18.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção da carreta automotiva dois retornou como CV automotiva um depois engatando carreta linha um "
     }
 ]
