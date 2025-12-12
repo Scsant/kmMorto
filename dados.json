@@ -28,5 +28,15 @@
         "Distância": 5.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção Cavalo"
+    },
+    {
+        "Data": "12/12/2025",
+        "Data de Registro": "12/12/2025",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44210,
+        "Distância": 50.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Movimentação de carretas em terceiros "
     }
 ]
