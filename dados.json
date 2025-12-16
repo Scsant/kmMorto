@@ -48,5 +48,15 @@
         "Distância": 80.0,
         "Local Macro": "Nenhum",
         "Motivo": "Mudança de Bitrem para tritrem"
+    },
+    {
+        "Data": "16/12/2025",
+        "Data de Registro": "16/12/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 110000,
+        "Distância": 80.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Mudança de Bitrem para tritrem"
     }
 ]
