@@ -78,5 +78,15 @@
         "Distância": 245.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda Usina Paredão bloqueou, os caminhões no trajeto voltaram para empresa."
+    },
+    {
+        "Data": "16/12/2025",
+        "Data de Registro": "16/12/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44159,
+        "Distância": 120.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda Santa Marian bloqueou desviamos o caminhão para fazenda Turvinho."
     }
 ]
