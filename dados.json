@@ -98,5 +98,15 @@
         "Distância": 39.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Caminhão foi desviado no trajeto para fazenda Americana ."
+    },
+    {
+        "Data": "15/12/2025",
+        "Data de Registro": "16/12/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44162,
+        "Distância": 52.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Caminhão estava seguindo para fazenda Santa Marian, foi desviado para fazenda Turvinho. Devido a bloqueio de fazenda."
     }
 ]
