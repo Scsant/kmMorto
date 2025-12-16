@@ -8,5 +8,15 @@
         "Distância": 80.0,
         "Local Macro": "Nenhum",
         "Motivo": "Formação de Bitrem para tritrem rodando as Oficinas"
+    },
+    {
+        "Data": "16/12/2025",
+        "Data de Registro": "16/12/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 44110,
+        "Distância": 30.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste de Cm pela Lapônia "
     }
 ]
