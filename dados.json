@@ -28,5 +28,15 @@
         "Distância": 140.0,
         "Local Macro": "Nenhum",
         "Motivo": "Guincho para Lapônia "
+    },
+    {
+        "Data": "16/12/2025",
+        "Data de Registro": "16/12/2025",
+        "Nome": "Elder",
+        "BTF": 2,
+        "Frota": 110013,
+        "Distância": 80.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Mudança de Bitrem para tritrem"
     }
 ]
