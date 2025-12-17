@@ -38,5 +38,15 @@
         "Distância": 45.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Usado para teste "
+    },
+    {
+        "Data": "17/12/2025",
+        "Data de Registro": "17/12/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44203,
+        "Distância": 82.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Quebra de chassi, foi descarregado e veículo retornou vazio"
     }
 ]
