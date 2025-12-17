@@ -108,5 +108,15 @@
         "Distância": 52.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Caminhão estava seguindo para fazenda Santa Marian, foi desviado para fazenda Turvinho. Devido a bloqueio de fazenda."
+    },
+    {
+        "Data": "17/12/2025",
+        "Data de Registro": "17/12/2025",
+        "Nome": "João Biribile Neto ",
+        "BTF": 3,
+        "Frota": 44098,
+        "Distância": 352.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Bloqueio da fazenda Santa Mariam"
     }
 ]
