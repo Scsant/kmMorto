@@ -88,5 +88,15 @@
         "Distância": 21.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Trinca no Chassis, carreta levada no BJ \nLevou a carreta do 44210 e 44202"
+    },
+    {
+        "Data": "17/12/2025",
+        "Data de Registro": "17/12/2025",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44111,
+        "Distância": 100.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Movimentações de Bi para tri Ferrari e JCF"
     }
 ]
