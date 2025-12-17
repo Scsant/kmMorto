@@ -28,5 +28,15 @@
         "Distância": 30.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Várias vezes Ferrari Diesel "
+    },
+    {
+        "Data": "17/12/2025",
+        "Data de Registro": "17/12/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 45.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Usado para teste "
     }
 ]
