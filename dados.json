@@ -78,5 +78,15 @@
         "Distância": 11.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Trinca no Chassis, carreta levada no BJ"
+    },
+    {
+        "Data": "17/12/2025",
+        "Data de Registro": "17/12/2025",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44210,
+        "Distância": 21.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Trinca no Chassis, carreta levada no BJ \nLevou a carreta do 44210 e 44202"
     }
 ]
