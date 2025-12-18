@@ -228,5 +228,15 @@
         "Distância": 96.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão apresentou falhas e perca de potência. Técnico do Voar foi atender o caminhão e pediu para voltar vazio para fábrica. E passar na automotiva realizar a manutenção."
+    },
+    {
+        "Data": "18/12/2025",
+        "Data de Registro": "18/12/2025",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44193,
+        "Distância": 96.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão apresentou falhas e perca de potência. Técnico do Voar foi atender o caminhão e pediu para voltar vazio para fábrica. E passar na automotiva realizar a manutenção."
     }
 ]
