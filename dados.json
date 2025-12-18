@@ -238,5 +238,15 @@
         "Distância": 96.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão apresentou falhas e perca de potência. Técnico do Voar foi atender o caminhão e pediu para voltar vazio para fábrica. E passar na automotiva realizar a manutenção."
+    },
+    {
+        "Data": "18/12/2025",
+        "Data de Registro": "18/12/2025",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44064,
+        "Distância": 178.9,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "44064 foi socorrer cm 44054 na usina paredão "
     }
 ]
