@@ -8,5 +8,15 @@
         "Distância": 65.0,
         "Local Macro": "Nenhum",
         "Motivo": "TESTE PELA AUTOMOTIVA "
+    },
+    {
+        "Data": "19/12/2025",
+        "Data de Registro": "19/12/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 83,
+        "Distância": 6000.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Testando o veículo com o mecânico "
     }
 ]
