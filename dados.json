@@ -38,5 +38,15 @@
         "Distância": 1678.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão apresentou socorro após retornar de curvelo até araxa, seguiu ate ubera após socorro liberou e rodou mais 150 km onde foi necessário guinchar "
+    },
+    {
+        "Data": "21/12/2025",
+        "Data de Registro": "22/12/2025",
+        "Nome": "Francisco Antonio Franco ",
+        "BTF": 5,
+        "Frota": 110007,
+        "Distância": 85.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão MB apresentou pane elétrica na fazenda americana, nao pegava mais na partida e foi necessário guinchar"
     }
 ]
