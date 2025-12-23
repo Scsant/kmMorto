@@ -58,5 +58,15 @@
         "Distância": 50.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda sem condições de carregamento técnico do carregamento pediu pra desviar"
+    },
+    {
+        "Data": "23/12/2025",
+        "Data de Registro": "23/12/2025",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44105,
+        "Distância": 50.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda sem condições de carregamento o técnico pediu pra desviar "
     }
 ]
