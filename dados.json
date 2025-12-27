@@ -38,5 +38,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Levou carreta automotiva dois , CV retornou automotiva um pra manutenção depois foi engatar carreta na automotiva dois "
+    },
+    {
+        "Data": "27/12/2025",
+        "Data de Registro": "27/12/2025",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44214,
+        "Distância": 76.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Bloqueio devido a chuva, desviado para  Turvinho "
     }
 ]
