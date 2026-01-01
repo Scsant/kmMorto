@@ -18,5 +18,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção automotiva dois retornou linha um desengatar, voltou automotiva um retirar carreta , voltou linha um desengatar carreta "
+    },
+    {
+        "Data": "01/01/2026",
+        "Data de Registro": "01/01/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 4495,
+        "Distância": 135.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Furou o Radiador foi necessário guincho "
     }
 ]
