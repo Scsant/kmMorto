@@ -48,5 +48,15 @@
         "Distância": 239.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Bloqueio da fazenda Sta. Rita de Cassia, desvio no meio do trajeto"
+    },
+    {
+        "Data": "04/01/2026",
+        "Data de Registro": "04/01/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110005,
+        "Distância": 280.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM foi guinchado da fazenda Santo Antônio da bela Vista "
     }
 ]
