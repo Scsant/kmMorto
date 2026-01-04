@@ -58,5 +58,15 @@
         "Distância": 280.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM foi guinchado da fazenda Santo Antônio da bela Vista "
+    },
+    {
+        "Data": "04/01/2026",
+        "Data de Registro": "04/01/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44033,
+        "Distância": 180.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "CM precisou voltar da fazenda reflen para Fabrica devido a quebra de 2 eixos da carreta"
     }
 ]
