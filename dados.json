@@ -138,5 +138,15 @@
         "Distância": 18.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste caminha 44120 \nMotorista Fabiana "
+    },
+    {
+        "Data": "04/01/2026",
+        "Data de Registro": "05/01/2026",
+        "Nome": "Everson ",
+        "BTF": 3,
+        "Frota": 44116,
+        "Distância": 20.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm 44116 foi buscar a carreta cm 44121 que precisou ser guinchado "
     }
 ]
