@@ -148,5 +148,15 @@
         "Distância": 20.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm 44116 foi buscar a carreta cm 44121 que precisou ser guinchado "
+    },
+    {
+        "Data": "06/01/2026",
+        "Data de Registro": "07/01/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44085,
+        "Distância": 40.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Retorno da volvo São Manoel para Bracell "
     }
 ]
