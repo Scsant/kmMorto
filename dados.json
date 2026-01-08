@@ -188,5 +188,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção CV engatar carreta linha um, manutenção CREARE "
+    },
+    {
+        "Data": "08/01/2026",
+        "Data de Registro": "08/01/2026",
+        "Nome": "Henrique Fernando de Oliveira ",
+        "BTF": 8,
+        "Frota": 44133,
+        "Distância": 190.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Acabou a madeira na fazenda santa Rosa x teve que voltar vazio até a fazenda mamedina"
     }
 ]
