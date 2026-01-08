@@ -208,5 +208,15 @@
         "Distância": 190.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Acabou a madeira da fazenda santa Rosa x teve que retornar vazio até a fazenda mamedina"
+    },
+    {
+        "Data": "08/01/2026",
+        "Data de Registro": "08/01/2026",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44214,
+        "Distância": 112.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da fazenda Santa Rosa X para Santa Adélia "
     }
 ]
