@@ -238,5 +238,15 @@
         "Distância": 112.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio da fazenda Santa Rosa X para Santa Adélia "
+    },
+    {
+        "Data": "09/01/2026",
+        "Data de Registro": "09/01/2026",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44189,
+        "Distância": 20.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Fazer Teste com motorista "
     }
 ]
