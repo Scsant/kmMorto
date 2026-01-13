@@ -358,5 +358,15 @@
         "Distância": 134.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desvio de Fazenda devido a chuvas "
+    },
+    {
+        "Data": "07/01/2026",
+        "Data de Registro": "13/01/2026",
+        "Nome": "Francisco Antonio Franco",
+        "BTF": 5,
+        "Frota": 44096,
+        "Distância": 234.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi ate a fazenda São Luiz e no retorno apresentou problema na valvula APV e não carregava o ar, necessário o guincho"
     }
 ]
