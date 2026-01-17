@@ -18,5 +18,15 @@
         "Distância": 13.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção carreta, desegate na linha 1 e retornou para Manutenção no Cavalo "
+    },
+    {
+        "Data": "17/01/2026",
+        "Data de Registro": "17/01/2026",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44181,
+        "Distância": 19.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção cavalo, buscou a carreta na Linha 1, levou no Skid e foi direcionado para Pit Stop"
     }
 ]
