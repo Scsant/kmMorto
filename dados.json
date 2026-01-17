@@ -8,5 +8,15 @@
         "Distância": 360.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "44064 retornou vazio da fazenda usina paredão "
+    },
+    {
+        "Data": "17/01/2026",
+        "Data de Registro": "17/01/2026",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44209,
+        "Distância": 13.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção carreta, desegate na linha 1 e retornou para Manutenção no Cavalo "
     }
 ]
