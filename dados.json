@@ -38,5 +38,15 @@
         "Distância": 8.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção cavalo, buscou a carreta na Linha 1"
+    },
+    {
+        "Data": "18/01/2026",
+        "Data de Registro": "18/01/2026",
+        "Nome": "Luiz Paulo Gimenes ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 130.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Choveu na rota de seco e ficou escorregadio. Sem opção para carregamento. "
     }
 ]
