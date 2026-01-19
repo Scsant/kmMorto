@@ -68,5 +68,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Desengatar carreta linha um, manutenção automotiva um fazer teste para verificar informações no CREARE "
+    },
+    {
+        "Data": "19/01/2026",
+        "Data de Registro": "19/01/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 440699,
+        "Distância": 12.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção automotiva um, abastecer retornar linha dois "
     }
 ]
