@@ -108,5 +108,15 @@
         "Distância": 13.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Verificar freio e levar carreta Linha 1 e CM automotiva "
+    },
+    {
+        "Data": "20/01/2026",
+        "Data de Registro": "20/01/2026",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44202,
+        "Distância": 9.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Troca de pneu e levar CM linha 1 "
     }
 ]
