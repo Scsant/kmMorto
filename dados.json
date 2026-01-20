@@ -98,5 +98,15 @@
         "Distância": 9.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção carreta e Cavalo"
+    },
+    {
+        "Data": "20/01/2026",
+        "Data de Registro": "20/01/2026",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44186,
+        "Distância": 13.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Verificar freio e levar carreta Linha 1 e CM automotiva "
     }
 ]
