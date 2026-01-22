@@ -58,5 +58,15 @@
         "Distância": 12.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Apoiando manutenção em levar carreta para terceiros  foi levado 2 carretas "
+    },
+    {
+        "Data": "22/01/2026",
+        "Data de Registro": "22/01/2026",
+        "Nome": "Everson ",
+        "BTF": 3,
+        "Frota": 44054,
+        "Distância": 9.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Foi ao pit stop e precisou retornar"
     }
 ]
