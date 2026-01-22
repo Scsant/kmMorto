@@ -68,5 +68,15 @@
         "Distância": 9.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Foi ao pit stop e precisou retornar"
+    },
+    {
+        "Data": "22/01/2026",
+        "Data de Registro": "22/01/2026",
+        "Nome": "Everson ",
+        "BTF": 3,
+        "Frota": 44129,
+        "Distância": 4.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Foi ao pit stop e precisou retornar"
     }
 ]
