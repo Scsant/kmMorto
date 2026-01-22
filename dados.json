@@ -8,5 +8,15 @@
         "Distância": 44.0,
         "Local Macro": "Nenhum",
         "Motivo": "Liberação de motorista "
+    },
+    {
+        "Data": "22/01/2026",
+        "Data de Registro": "22/01/2026",
+        "Nome": "Everson ",
+        "BTF": 3,
+        "Frota": 44126,
+        "Distância": 6.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Apoiando manutenção em levar carreta para terceiros "
     }
 ]
