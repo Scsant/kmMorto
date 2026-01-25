@@ -28,5 +28,15 @@
         "Distância": 12.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Preventiva das carretas, corretiva do CV retornou linha dois "
+    },
+    {
+        "Data": "24/01/2026",
+        "Data de Registro": "25/01/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44097,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Manutenção carreta automotiva um abastecer retornar linha dois "
     }
 ]
