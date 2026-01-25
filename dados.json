@@ -38,5 +38,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção carreta automotiva um abastecer retornar linha dois "
+    },
+    {
+        "Data": "25/01/2026",
+        "Data de Registro": "25/01/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44095,
+        "Distância": 13.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Preventiva das carretas engatar carreta linha um fazer troca de turno linha dois "
     }
 ]
