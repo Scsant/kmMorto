@@ -58,5 +58,15 @@
         "Distância": 20.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Foi duas vezes automotiva um, e retornou linha dois "
+    },
+    {
+        "Data": "24/01/2026",
+        "Data de Registro": "25/01/2026",
+        "Nome": "Elder Paulo ",
+        "BTF": 2,
+        "Frota": 44017,
+        "Distância": 90.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm apoio no desatrelamento 44124"
     }
 ]
