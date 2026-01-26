@@ -138,5 +138,15 @@
         "Distância": 310.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Término da fazenda Dimar "
+    },
+    {
+        "Data": "26/01/2026",
+        "Data de Registro": "26/01/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44179,
+        "Distância": 197.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão foi até a fazenda e foi guinchado "
     }
 ]
