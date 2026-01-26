@@ -118,5 +118,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Retirar carreta automotiva um retornou linha dois "
+    },
+    {
+        "Data": "26/01/2026",
+        "Data de Registro": "26/01/2026",
+        "Nome": "Luiz Carlos Bernine",
+        "BTF": 7,
+        "Frota": 44203,
+        "Distância": 215.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Término da fazenda Dimar "
     }
 ]
