@@ -98,5 +98,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção automotiva dois retornou linha dois "
+    },
+    {
+        "Data": "26/01/2026",
+        "Data de Registro": "26/01/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44074,
+        "Distância": 15.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Manutenção automotiva dois retornou linha dois "
     }
 ]
