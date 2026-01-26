@@ -148,5 +148,15 @@
         "Distância": 197.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão foi até a fazenda e foi guinchado "
+    },
+    {
+        "Data": "26/01/2026",
+        "Data de Registro": "26/01/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44207,
+        "Distância": 197.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão foi buscar as carretas da frota 44179 que foi guinchado"
     }
 ]
