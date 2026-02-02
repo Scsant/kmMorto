@@ -38,5 +38,15 @@
         "Distância": 3.0,
         "Local Macro": "Pit-stop",
         "Motivo": "44121 \nAbastecimento pit stop "
+    },
+    {
+        "Data": "02/02/2026",
+        "Data de Registro": "02/02/2026",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44100,
+        "Distância": 3.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "Levar carreta "
     }
 ]
