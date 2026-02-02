@@ -68,5 +68,15 @@
         "Distância": 3.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento e pit stop "
+    },
+    {
+        "Data": "02/02/2026",
+        "Data de Registro": "02/02/2026",
+        "Nome": "Aliomar Barros ",
+        "BTF": 3,
+        "Frota": 44098,
+        "Distância": 4.0,
+        "Local Macro": "OT L1",
+        "Motivo": "Passou creare e foi pra linha 01 engatar carreta "
     }
 ]
