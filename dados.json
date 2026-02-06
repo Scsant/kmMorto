@@ -108,5 +108,15 @@
         "Distância": 180.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi buscar as carretas do 44163"
+    },
+    {
+        "Data": "06/02/2026",
+        "Data de Registro": "06/02/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 150.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Foi desloca pra fazenda Sta Isabel pegar resto de madeira e seguiu pra fazenda Selva "
     }
 ]
