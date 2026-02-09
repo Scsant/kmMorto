@@ -128,5 +128,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Retirar carreta automotiva um retornou linha dois "
+    },
+    {
+        "Data": "09/02/2026",
+        "Data de Registro": "09/02/2026",
+        "Nome": "Halan Batista ",
+        "BTF": 7,
+        "Frota": 44206,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Tanque furado precisou voltar vazio campo"
     }
 ]
