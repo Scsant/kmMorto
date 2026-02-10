@@ -138,5 +138,15 @@
         "Distância": 200.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Tanque furado precisou voltar vazio campo"
+    },
+    {
+        "Data": "09/02/2026",
+        "Data de Registro": "10/02/2026",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44099,
+        "Distância": 160.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota 44098 foi buscar a carreta 44058 que precisou ser guinchado fazenda Cachoeira gleba B"
     }
 ]
