@@ -168,5 +168,15 @@
         "Distância": 14.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Colaborador teve desvio e errou o trevo com isso rodando 28km a mais "
+    },
+    {
+        "Data": "10/02/2026",
+        "Data de Registro": "10/02/2026",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44130,
+        "Distância": 4.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Pit stop de pneu "
     }
 ]
