@@ -208,5 +208,15 @@
         "Distância": 4.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Pit stop "
+    },
+    {
+        "Data": "10/02/2026",
+        "Data de Registro": "10/02/2026",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44122,
+        "Distância": 4.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Pit stop "
     }
 ]
