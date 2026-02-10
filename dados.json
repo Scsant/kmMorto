@@ -288,5 +288,15 @@
         "Distância": 4.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Pit stop "
+    },
+    {
+        "Data": "10/02/2026",
+        "Data de Registro": "10/02/2026",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44066,
+        "Distância": 265.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "44066 foi pegar q carreta que estava na frota 44058 fazenda três lagoas "
     }
 ]
