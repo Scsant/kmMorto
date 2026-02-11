@@ -298,5 +298,15 @@
         "Distância": 265.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "44066 foi pegar q carreta que estava na frota 44058 fazenda três lagoas "
+    },
+    {
+        "Data": "11/02/2026",
+        "Data de Registro": "11/02/2026",
+        "Nome": "Wesley Biancone",
+        "BTF": 8,
+        "Frota": 44128,
+        "Distância": 182.4,
+        "Local Macro": "Nenhum",
+        "Motivo": "Devido ao bloqueio total da fazenda Curralinho caminhão precisou voltar vazio para fábrica."
     }
 ]
