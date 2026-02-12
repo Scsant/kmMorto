@@ -418,5 +418,15 @@
         "Distância": 210.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido o bloqueio da faz cambara devido a chuva, o cm se deslocou pra fazenda limeira"
+    },
+    {
+        "Data": "12/02/2026",
+        "Data de Registro": "12/02/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44161,
+        "Distância": 180.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Devido ao bloqueio do projeto Cambará, caminhoa foi desviado para o projeto limeira."
     }
 ]
