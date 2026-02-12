@@ -388,5 +388,15 @@
         "Distância": 40.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Técnico da volvo saiu para fazer teste com o cm"
+    },
+    {
+        "Data": "12/02/2026",
+        "Data de Registro": "12/02/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44053,
+        "Distância": 220.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda cambara Bloqueada desvio para Limeira "
     }
 ]
