@@ -398,5 +398,15 @@
         "Distância": 220.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda cambara Bloqueada desvio para Limeira "
+    },
+    {
+        "Data": "12/02/2026",
+        "Data de Registro": "12/02/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44017,
+        "Distância": 210.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda cambara Bloqueada desvio para Limeira"
     }
 ]
