@@ -468,5 +468,15 @@
         "Distância": 15.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "Manutenção automotiva dois retornou linha dois retirar CTM "
+    },
+    {
+        "Data": "18/02/2026",
+        "Data de Registro": "18/02/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44112,
+        "Distância": 65.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Faz 3 lagoas bloqueado"
     }
 ]
