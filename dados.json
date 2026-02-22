@@ -488,5 +488,15 @@
         "Distância": 160.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi buscar a carreta do 44066 que deu problema "
+    },
+    {
+        "Data": "22/02/2026",
+        "Data de Registro": "22/02/2026",
+        "Nome": "Ricardo Rodrigues ",
+        "BTF": 3,
+        "Frota": 44066,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi busca uma viagem deu problema de perca de potência e preciso desengatar e volta só o cavalo sozinho!"
     }
 ]
