@@ -1168,5 +1168,15 @@
         "Distância": 90.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "MANUTENÇÃO  LAPONIA SAO MANOEL "
+    },
+    {
+        "Data": "13/02/2026",
+        "Data de Registro": "22/02/2026",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 9.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "MANUTENÇÃO "
     }
 ]
