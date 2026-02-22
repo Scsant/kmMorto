@@ -1358,5 +1358,15 @@
         "Distância": 14.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "MANUTENÇÃO "
+    },
+    {
+        "Data": "20/02/2026",
+        "Data de Registro": "22/02/2026",
+        "Nome": "Alex mendes",
+        "BTF": 4,
+        "Frota": 44102,
+        "Distância": 14.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "MANUTENÇÃO "
     }
 ]
