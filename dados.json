@@ -498,5 +498,15 @@
         "Distância": 200.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi busca uma viagem deu problema de perca de potência e preciso desengatar e volta só o cavalo sozinho!"
+    },
+    {
+        "Data": "01/02/2026",
+        "Data de Registro": "22/02/2026",
+        "Nome": "ALEX MENDES",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 11.0,
+        "Local Macro": "Automotiva 2",
+        "Motivo": "LEVAR CT PARA MANUTENÇÃO "
     }
 ]
