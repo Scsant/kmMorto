@@ -478,5 +478,15 @@
         "Distância": 65.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Faz 3 lagoas bloqueado"
+    },
+    {
+        "Data": "22/02/2026",
+        "Data de Registro": "22/02/2026",
+        "Nome": "Denner Ciocca",
+        "BTF": 3,
+        "Frota": 44012,
+        "Distância": 160.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta do 44066 que deu problema "
     }
 ]
