@@ -1438,5 +1438,15 @@
         "Distância": 60.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm indo pra fazenda deu defeito e o técnico do voar  pediu pra retornar pra base"
+    },
+    {
+        "Data": "26/02/2026",
+        "Data de Registro": "26/02/2026",
+        "Nome": "Fabrício Pontes ",
+        "BTF": 3,
+        "Frota": 44066,
+        "Distância": 0.0051,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Mudança de fazenda por finalização do estoque seguro \nFazenda Corrego do Campo para Cachoeira II"
     }
 ]
