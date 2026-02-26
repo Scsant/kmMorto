@@ -1428,5 +1428,15 @@
         "Distância": 14.0,
         "Local Macro": "Automotiva 2",
         "Motivo": "MANUTENÇÃO "
+    },
+    {
+        "Data": "26/02/2026",
+        "Data de Registro": "26/02/2026",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 60.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm indo pra fazenda deu defeito e o técnico do voar  pediu pra retornar pra base"
     }
 ]
