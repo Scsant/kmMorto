@@ -1518,5 +1518,15 @@
         "Distância": 260.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Socorro retorno vazio "
+    },
+    {
+        "Data": "28/02/2026",
+        "Data de Registro": "28/02/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44109,
+        "Distância": 30.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm Saiu vazio da Fazenda Santo Expedito,  e foi para fazenda Campina Verde."
     }
 ]
