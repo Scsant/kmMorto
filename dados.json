@@ -1528,5 +1528,15 @@
         "Distância": 30.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Cm Saiu vazio da Fazenda Santo Expedito,  e foi para fazenda Campina Verde."
+    },
+    {
+        "Data": "28/02/2026",
+        "Data de Registro": "28/02/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 110014,
+        "Distância": 30.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm Saiu Vazio da Santo Expedito, e foi carregar na Campina Verde."
     }
 ]
