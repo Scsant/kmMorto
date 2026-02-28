@@ -1588,5 +1588,15 @@
         "Distância": 20.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Desengatou carreta linha um passou automotiva um foi retirar carreta no Ferrari passou no pity-stop retornou linha um retirar ctm "
+    },
+    {
+        "Data": "26/02/2026",
+        "Data de Registro": "28/02/2026",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 51.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Mudança da Corrego do Campo para Cachoeira."
     }
 ]
