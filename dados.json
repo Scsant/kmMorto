@@ -28,5 +28,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção automotiva um engatar carreta linha um fazer troca de turno linha dois "
+    },
+    {
+        "Data": "07/03/2026",
+        "Data de Registro": "08/03/2026",
+        "Nome": "Marcelo Henrique Torquetti ",
+        "BTF": 3,
+        "Frota": 44107,
+        "Distância": 120.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Problema no cm "
     }
 ]
