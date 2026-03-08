@@ -38,5 +38,15 @@
         "Distância": 120.0,
         "Local Macro": "Nenhum",
         "Motivo": "Problema no cm "
+    },
+    {
+        "Data": "06/03/2026",
+        "Data de Registro": "08/03/2026",
+        "Nome": "Marcelo Henrique Torquetti ",
+        "BTF": 3,
+        "Frota": 44100,
+        "Distância": 150.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Problema na carreta na mesa do pino reio"
     }
 ]
