@@ -178,5 +178,15 @@
         "Distância": 10.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Manutenção automotiva um engatar carreta linha um "
+    },
+    {
+        "Data": "24/03/2026",
+        "Data de Registro": "24/03/2026",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44203,
+        "Distância": 165.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda Santa Barbara x Maritaca \n\nMotivo chuva "
     }
 ]
