@@ -68,5 +68,15 @@
         "Distância": 65.0,
         "Local Macro": "Nenhum",
         "Motivo": "VOLTOU NO MEIO DO TRAJETO DA USINA PAREDÃO PARA FAZENDA SANTO EXPEDITO II DEVIDO BLOQUEIO "
+    },
+    {
+        "Data": "26/03/2026",
+        "Data de Registro": "26/03/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44099,
+        "Distância": 130.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Quebrou no trajeto carregado da fazenda São Sebastião "
     }
 ]
