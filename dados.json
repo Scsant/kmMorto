@@ -98,5 +98,15 @@
         "Distância": 140.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Caminhao Foi para Fazenda devido a contagen errada de madeira faltou madeira para cm"
+    },
+    {
+        "Data": "26/03/2026",
+        "Data de Registro": "26/03/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110008,
+        "Distância": 140.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Caminhao Foi para Fazenda devido a contagen errada de madeira faltou madeira para cm"
     }
 ]
