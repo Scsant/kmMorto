@@ -128,5 +128,15 @@
         "Distância": 10.0,
         "Local Macro": "Nenhum",
         "Motivo": "Pit stop"
+    },
+    {
+        "Data": "27/03/2026",
+        "Data de Registro": "27/03/2026",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44189,
+        "Distância": 10.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Abastecimento e pit stop"
     }
 ]
