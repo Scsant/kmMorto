@@ -18,5 +18,15 @@
         "Distância": 12.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento "
+    },
+    {
+        "Data": "03/04/2026",
+        "Data de Registro": "03/04/2026",
+        "Nome": "Aldair José da Silva ",
+        "BTF": 7,
+        "Frota": 44195,
+        "Distância": 10.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Engate e desengate de carretas "
     }
 ]
