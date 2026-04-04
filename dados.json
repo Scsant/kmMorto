@@ -58,5 +58,15 @@
         "Distância": 4.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Aderir pit stop "
+    },
+    {
+        "Data": "04/04/2026",
+        "Data de Registro": "04/04/2026",
+        "Nome": "Everson ",
+        "BTF": 3,
+        "Frota": 44064,
+        "Distância": 4.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Aderir pit stop "
     }
 ]
