@@ -38,5 +38,15 @@
         "Distância": 12.0,
         "Local Macro": "Pit-stop",
         "Motivo": "Abastecimento "
+    },
+    {
+        "Data": "04/04/2026",
+        "Data de Registro": "04/04/2026",
+        "Nome": "Everson ",
+        "BTF": 3,
+        "Frota": 44126,
+        "Distância": 105.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Ctm saiu para fazenda lagoa mansa , porém estava com bloqueio as 14hs e as 16:50hs balança deu nota para a frota 44126 .Ao chegar no projeto estava sem operação precisou desviar para a fazenda morada do sol "
     }
 ]
