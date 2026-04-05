@@ -188,5 +188,15 @@
         "Distância": 126.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Mudança de Fazenda "
+    },
+    {
+        "Data": "05/04/2026",
+        "Data de Registro": "05/04/2026",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44201,
+        "Distância": 100.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Desvio de fazenda "
     }
 ]
