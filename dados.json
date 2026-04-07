@@ -198,5 +198,15 @@
         "Distância": 100.0,
         "Local Macro": "Nenhum",
         "Motivo": "Desvio de fazenda "
+    },
+    {
+        "Data": "07/04/2026",
+        "Data de Registro": "07/04/2026",
+        "Nome": "VALDENIL DA SILVA",
+        "BTF": 3,
+        "Frota": 44081,
+        "Distância": 201.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Devido a chuva preciso mudar da fazenda  São Domingo pra fazenda são Luiz "
     }
 ]
