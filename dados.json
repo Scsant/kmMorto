@@ -238,5 +238,15 @@
         "Distância": 81.05,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Aferir o tacógrafo em Bauru, chegando la muitos caminhões na frente não foi feito o serviço."
+    },
+    {
+        "Data": "08/04/2026",
+        "Data de Registro": "08/04/2026",
+        "Nome": "Paulo ",
+        "BTF": 6,
+        "Frota": 44192,
+        "Distância": 81.05,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Caminhão foi aferir o tacógrafo em Bauru."
     }
 ]
