@@ -308,5 +308,15 @@
         "Distância": 81.5,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Caminhão foi em Bauru fazer aferição do tacógrafo."
+    },
+    {
+        "Data": "10/04/2026",
+        "Data de Registro": "10/04/2026",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44105,
+        "Distância": 102.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm carregado vai ser preciso guinchar pra base"
     }
 ]
