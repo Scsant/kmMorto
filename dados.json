@@ -328,5 +328,15 @@
         "Distância": 120.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Choveu muito na fazenda e precisou desviar pra outro projeto "
+    },
+    {
+        "Data": "09/04/2026",
+        "Data de Registro": "10/04/2026",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44101,
+        "Distância": 120.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Choveu muito no projeto e precisou desviar pra outro projeto "
     }
 ]
