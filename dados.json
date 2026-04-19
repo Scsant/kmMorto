@@ -8,5 +8,15 @@
         "Distância": 81.5,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Aferição de tacógrafo, na cidade de Bauru."
+    },
+    {
+        "Data": "19/04/2026",
+        "Data de Registro": "19/04/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 5,
+        "Frota": 110000,
+        "Distância": 304.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Devido a Bloqueio do Projeto Caran, foi desviado para Fazenda Ideal "
     }
 ]
