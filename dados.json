@@ -68,5 +68,15 @@
         "Distância": 304.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido a Bloqueio do Projeto Caran, foi desviado para Fazenda Ideal"
+    },
+    {
+        "Data": "23/04/2026",
+        "Data de Registro": "23/04/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44179,
+        "Distância": 56.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": ""
     }
 ]
