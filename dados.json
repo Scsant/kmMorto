@@ -18,5 +18,15 @@
         "Distância": 70.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm foi socorrer a frota 44077 (foi buscar carreta)"
+    },
+    {
+        "Data": "26/04/2026",
+        "Data de Registro": "27/04/2026",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44194,
+        "Distância": 260.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Mangueira radiador"
     }
 ]
