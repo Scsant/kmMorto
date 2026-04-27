@@ -38,5 +38,15 @@
         "Distância": 103.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Quebra fueiro "
+    },
+    {
+        "Data": "26/04/2026",
+        "Data de Registro": "27/04/2026",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44191,
+        "Distância": 90.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Tacógrafo "
     }
 ]
