@@ -8,5 +8,15 @@
         "Distância": 280.0,
         "Local Macro": "Nenhum",
         "Motivo": "Travamento da fazenda Três Lagoas Marília devido a chuva"
+    },
+    {
+        "Data": "29/04/2026",
+        "Data de Registro": "01/05/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110005,
+        "Distância": 166.58,
+        "Local Macro": "Nenhum",
+        "Motivo": "Retorno vazio fazenda Nova América Devido a Pane mecânica "
     }
 ]
