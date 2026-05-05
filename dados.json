@@ -58,5 +58,15 @@
         "Distância": 60.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Caminhão veio da Lapônia de São Manoel "
+    },
+    {
+        "Data": "05/05/2026",
+        "Data de Registro": "05/05/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44192,
+        "Distância": 170.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Caminhão retornou da Lapônia Ourinhos "
     }
 ]
