@@ -48,5 +48,15 @@
         "Distância": 90.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Frota deu problema no motor de partida sentido vazio da fazenda 3 lagoas , socorro orientou a retornar pra fazer substituição do motor de partida quebrou parafusos de fixação, serviço só poderia ser realizado na oficina central , caminhão colocaria em risco a operação trancando trajeto dos demais cargueiros "
+    },
+    {
+        "Data": "05/05/2026",
+        "Data de Registro": "05/05/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44196,
+        "Distância": 60.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Caminhão veio da Lapônia de São Manoel "
     }
 ]
