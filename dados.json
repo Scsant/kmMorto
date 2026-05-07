@@ -108,5 +108,15 @@
         "Distância": 110.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Finalização de Fazenda "
+    },
+    {
+        "Data": "06/05/2026",
+        "Data de Registro": "07/05/2026",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44083,
+        "Distância": 110.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Finalização da fazenda "
     }
 ]
