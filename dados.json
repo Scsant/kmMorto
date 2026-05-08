@@ -168,5 +168,15 @@
         "Distância": 142.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm entrou em socorro no posto leley na rodovia Bauru/ Marília,  e precisou retornar vazio para automotiva, a pedido do próprio pessoal da manutenção "
+    },
+    {
+        "Data": "08/05/2026",
+        "Data de Registro": "08/05/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44111,
+        "Distância": 25.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota foi buscar a carreta do 44108 que vai ser guinchado."
     }
 ]
