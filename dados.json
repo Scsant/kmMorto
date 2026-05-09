@@ -178,5 +178,15 @@
         "Distância": 25.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Frota foi buscar a carreta do 44108 que vai ser guinchado."
+    },
+    {
+        "Data": "09/05/2026",
+        "Data de Registro": "09/05/2026",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 280.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Faz Monte Belo chuva/ Faz Mariana "
     }
 ]
