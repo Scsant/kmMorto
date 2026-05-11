@@ -268,5 +268,15 @@
         "Distância": 120.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Faz Monte Belo chuva/ Fábrica "
+    },
+    {
+        "Data": "10/05/2026",
+        "Data de Registro": "11/05/2026",
+        "Nome": "Vilamar Martos",
+        "BTF": 3,
+        "Frota": 44100,
+        "Distância": 52.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção Lapônia São Manuel "
     }
 ]
