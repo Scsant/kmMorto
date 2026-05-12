@@ -318,5 +318,15 @@
         "Distância": 200.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Caminhao preso três lagoas Desviado para São Roque III "
+    },
+    {
+        "Data": "11/05/2026",
+        "Data de Registro": "12/05/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44108,
+        "Distância": 200.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Caminhão preso três lagoas desviados para São Roque III "
     }
 ]
