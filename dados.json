@@ -278,5 +278,15 @@
         "Distância": 52.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção Lapônia São Manuel "
+    },
+    {
+        "Data": "11/05/2026",
+        "Data de Registro": "12/05/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110015,
+        "Distância": 200.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Caminhao Preso três lagoas e foram para São Roque III"
     }
 ]
