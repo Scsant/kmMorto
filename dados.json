@@ -358,5 +358,15 @@
         "Distância": 65.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido bloqueio da Fazenda São Francisco VIII, Frota foi Desviada de Bauru até o trevo de borebi para iniciar trajeto da Fazenda Santo André."
+    },
+    {
+        "Data": "15/05/2026",
+        "Data de Registro": "15/05/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44051,
+        "Distância": 65.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Devido bloqueio da Fazenda São Francisco VIII, Frota foi Desviada de Bauru até o trevo de borebi para iniciar trajeto da Fazenda Santo André."
     }
 ]
