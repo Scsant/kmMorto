@@ -378,5 +378,15 @@
         "Distância": 65.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido bloqueio da Fazenda São Francisco VIII, Frota foi Desviada de Bauru até o trevo de borebi para iniciar trajeto da Fazenda Santo André."
+    },
+    {
+        "Data": "16/05/2026",
+        "Data de Registro": "16/05/2026",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 123.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Mudança de fazenda motivo chuva no projeto "
     }
 ]
