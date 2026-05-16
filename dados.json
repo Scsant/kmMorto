@@ -438,5 +438,15 @@
         "Distância": 70.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Caminhão travado na São Sebastião deslocou para nova floresta."
+    },
+    {
+        "Data": "16/05/2026",
+        "Data de Registro": "16/05/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 44127,
+        "Distância": 70.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Caminhão travado São Sebastião deslocou para a nova floresta"
     }
 ]
