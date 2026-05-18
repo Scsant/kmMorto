@@ -488,5 +488,15 @@
         "Distância": 120.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido a Bloqueio de fazenda, Caminhão foi desviado "
+    },
+    {
+        "Data": "18/05/2026",
+        "Data de Registro": "18/05/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44200,
+        "Distância": 120.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Devido a Bloqueio de fazenda, Caminhão foi desviado "
     }
 ]
