@@ -458,5 +458,15 @@
         "Distância": 80.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Come. Caminhão travado São Sebastião deslocou para progresso"
+    },
+    {
+        "Data": "18/05/2026",
+        "Data de Registro": "18/05/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44176,
+        "Distância": 99.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Caminhão precisou retornar vazio para oficina "
     }
 ]
