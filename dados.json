@@ -578,5 +578,15 @@
         "Distância": 123.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido ao Bloqueio da Fazenda chapadao perobal, cm foi desviado para fazenda Monte Belo em Bauru."
+    },
+    {
+        "Data": "19/05/2026",
+        "Data de Registro": "19/05/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 110005,
+        "Distância": 123.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Devido ao Bloqueio da Fazenda chapadao perobal, cm foi desviado para fazenda Monte Belo em Bauru."
     }
 ]
