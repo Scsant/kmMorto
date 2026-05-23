@@ -628,5 +628,15 @@
         "Distância": 50.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Chuva na fazenda Santo André desviado para fazenda Limeira ll "
+    },
+    {
+        "Data": "23/05/2026",
+        "Data de Registro": "23/05/2026",
+        "Nome": "Paulo Boav",
+        "BTF": 4,
+        "Frota": 44073,
+        "Distância": 50.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Chuva na fazenda Santo André desviado para fazenda Limeira ll "
     }
 ]
