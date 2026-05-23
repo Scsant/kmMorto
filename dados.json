@@ -588,5 +588,15 @@
         "Distância": 123.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Devido ao Bloqueio da Fazenda chapadao perobal, cm foi desviado para fazenda Monte Belo em Bauru."
+    },
+    {
+        "Data": "23/05/2026",
+        "Data de Registro": "23/05/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44178,
+        "Distância": 221.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Precisou retornar vazio para oficina "
     }
 ]
