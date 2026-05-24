@@ -738,5 +738,15 @@
         "Distância": 140.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda Espadinha bloqueada sem opção de desvio no momento do bloqueio "
+    },
+    {
+        "Data": "24/05/2026",
+        "Data de Registro": "24/05/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44076,
+        "Distância": 155.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Fazenda Espadilha bloqueada sem opção de desvio "
     }
 ]
