@@ -748,5 +748,15 @@
         "Distância": 155.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda Espadilha bloqueada sem opção de desvio "
+    },
+    {
+        "Data": "30/05/2026",
+        "Data de Registro": "30/05/2026",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44188,
+        "Distância": 123.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Finalização da fazenda "
     }
 ]
