@@ -788,5 +788,15 @@
         "Distância": 123.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Finalização da fazenda "
+    },
+    {
+        "Data": "30/05/2026",
+        "Data de Registro": "30/05/2026",
+        "Nome": "Luiz Carlos Bernine ",
+        "BTF": 7,
+        "Frota": 44194,
+        "Distância": 123.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Finalização da fazenda "
     }
 ]
