@@ -798,5 +798,15 @@
         "Distância": 123.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Finalização da fazenda "
+    },
+    {
+        "Data": "29/05/2026",
+        "Data de Registro": "01/06/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44112,
+        "Distância": 110.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio da fazenda progresso para fazenda Santo André "
     }
 ]
