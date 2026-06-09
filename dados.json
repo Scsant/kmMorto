@@ -858,5 +858,15 @@
         "Distância": 150.1,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão foi para fazenda para o carregamento quando chegou no trajeto veio perceber que o caminhão não estava normal, o caminhão veio Apresentando falha Elétrica e daí o Mesmo não pegou mais na Partida,Foi acionado o socorro e o Mesmo fez os precedimento e constatou Pane Elétrico foi pedido para Retornar para Automotiva!!"
+    },
+    {
+        "Data": "08/06/2026",
+        "Data de Registro": "09/06/2026",
+        "Nome": "Fabrício Pontes",
+        "BTF": 3,
+        "Frota": 44081,
+        "Distância": 105.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Mudança da Globo I para Remanso I"
     }
 ]
