@@ -958,5 +958,15 @@
         "Distância": 105.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Mudança da Globo I para Remanso I"
+    },
+    {
+        "Data": "08/06/2026",
+        "Data de Registro": "09/06/2026",
+        "Nome": "Jean Carlos Alves dos Santos",
+        "BTF": 4,
+        "Frota": 44075,
+        "Distância": 125.0,
+        "Local Macro": "Teste Prático",
+        "Motivo": "Caminhão saiu sentido carregamento e veio dar problema Novamente,Foi Orientado a encostar o Cm e desengatar e vir  vazio embora  ( fazenda nossa senhora de Fátima)"
     }
 ]
