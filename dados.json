@@ -978,5 +978,15 @@
         "Distância": 385.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM foi guinchado Fazenda Três Lagoas Marilia "
+    },
+    {
+        "Data": "10/06/2026",
+        "Data de Registro": "10/06/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44111,
+        "Distância": 310.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio fazenda água Clara II para Tamanduá "
     }
 ]
