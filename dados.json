@@ -968,5 +968,15 @@
         "Distância": 125.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Caminhão saiu sentido carregamento e veio dar problema Novamente,Foi Orientado a encostar o Cm e desengatar e vir  vazio embora  ( fazenda nossa senhora de Fátima)"
+    },
+    {
+        "Data": "10/06/2026",
+        "Data de Registro": "10/06/2026",
+        "Nome": "Felipe ",
+        "BTF": 2,
+        "Frota": 110006,
+        "Distância": 385.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "CM foi guinchado Fazenda Três Lagoas Marilia "
     }
 ]
