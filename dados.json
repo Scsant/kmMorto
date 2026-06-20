@@ -998,5 +998,15 @@
         "Distância": 180.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Deslocamento Caminhão para manutenção AOKI Avare"
+    },
+    {
+        "Data": "08/06/2026",
+        "Data de Registro": "20/06/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110006,
+        "Distância": 324.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Manutenção AOKI Marília "
     }
 ]
