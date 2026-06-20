@@ -1028,5 +1028,15 @@
         "Distância": 165.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Desviado da São Benedito para boa esperança "
+    },
+    {
+        "Data": "20/06/2026",
+        "Data de Registro": "20/06/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 110008,
+        "Distância": 74.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm saiu vazio da Judith Estevão, e seguiu carregar na Fazenda Tamandua."
     }
 ]
