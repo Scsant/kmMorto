@@ -1008,5 +1008,15 @@
         "Distância": 324.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Manutenção AOKI Marília "
+    },
+    {
+        "Data": "20/06/2026",
+        "Data de Registro": "20/06/2026",
+        "Nome": "Paulo Maiolo",
+        "BTF": 6,
+        "Frota": 44155,
+        "Distância": 200.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Bloqueio da fazenda São Sebastião IV devido a chuva.\nFoi vazio para fazenda Alambari."
     }
 ]
