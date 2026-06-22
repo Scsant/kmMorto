@@ -1048,5 +1048,15 @@
         "Distância": 80.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Deu problema mecânico no cavalo precisando guinchar"
+    },
+    {
+        "Data": "22/06/2026",
+        "Data de Registro": "22/06/2026",
+        "Nome": "Bruno Henrique ",
+        "BTF": 3,
+        "Frota": 44129,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi busca as carretas do 44129"
     }
 ]
