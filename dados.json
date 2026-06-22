@@ -1038,5 +1038,15 @@
         "Distância": 74.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Cm saiu vazio da Judith Estevão, e seguiu carregar na Fazenda Tamandua."
+    },
+    {
+        "Data": "22/06/2026",
+        "Data de Registro": "22/06/2026",
+        "Nome": "BRUNO RODRIGUES ",
+        "BTF": 3,
+        "Frota": 44059,
+        "Distância": 80.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Deu problema mecânico no cavalo precisando guinchar"
     }
 ]
