@@ -1078,5 +1078,15 @@
         "Distância": 60.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Manutenção na recar agudos"
+    },
+    {
+        "Data": "23/06/2026",
+        "Data de Registro": "24/06/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44112,
+        "Distância": 140.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Caminhão solicitado socorro voar fazenda Santa Esther voltou só cavalo para automotiva "
     }
 ]
