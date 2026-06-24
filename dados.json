@@ -1068,5 +1068,15 @@
         "Distância": 80.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Problema mecânico do cavalo"
+    },
+    {
+        "Data": "24/06/2026",
+        "Data de Registro": "24/06/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44113,
+        "Distância": 60.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Manutenção na recar agudos"
     }
 ]
