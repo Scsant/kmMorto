@@ -1088,5 +1088,15 @@
         "Distância": 140.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Caminhão solicitado socorro voar fazenda Santa Esther voltou só cavalo para automotiva "
+    },
+    {
+        "Data": "28/06/2026",
+        "Data de Registro": "28/06/2026",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44157,
+        "Distância": 185.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota apresentou pane mecânica "
     }
 ]
