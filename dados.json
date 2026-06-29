@@ -1098,5 +1098,15 @@
         "Distância": 185.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Frota apresentou pane mecânica "
+    },
+    {
+        "Data": "29/06/2026",
+        "Data de Registro": "29/06/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 80.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Preciso retornar para oficina "
     }
 ]
