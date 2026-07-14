@@ -8,5 +8,15 @@
         "Distância": 265.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Devido quebra de fueiro, carregamento optou em retornar vazio"
+    },
+    {
+        "Data": "13/07/2026",
+        "Data de Registro": "14/07/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110004,
+        "Distância": 100.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Aoki Mercedes Bauru "
     }
 ]
