@@ -58,5 +58,15 @@
         "Distância": 139.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Precisou ser guinchado "
+    },
+    {
+        "Data": "16/07/2026",
+        "Data de Registro": "17/07/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44178,
+        "Distância": 139.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar as carretas do 44198"
     }
 ]
