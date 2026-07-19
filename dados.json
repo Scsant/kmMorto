@@ -78,5 +78,15 @@
         "Distância": 60.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Lapônia São Manuel "
+    },
+    {
+        "Data": "19/07/2026",
+        "Data de Registro": "19/07/2026",
+        "Nome": "Vanclei Dias de Souza ",
+        "BTF": 7,
+        "Frota": 44201,
+        "Distância": 500.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Furou tanque na fazenda, sem recurso para realizar manutenção na fazenda "
     }
 ]
