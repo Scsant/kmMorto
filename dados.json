@@ -88,5 +88,15 @@
         "Distância": 500.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Furou tanque na fazenda, sem recurso para realizar manutenção na fazenda "
+    },
+    {
+        "Data": "19/07/2026",
+        "Data de Registro": "19/07/2026",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44211,
+        "Distância": 300.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Transbordando madeira fazenda Sitio Santo Isidoro "
     }
 ]
