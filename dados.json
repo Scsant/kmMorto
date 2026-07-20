@@ -118,5 +118,15 @@
         "Distância": 500.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Veículo quebrou no trajeto da fazenda e após o mecânico avaliar . Solicitou para o veículo retornar direto para automotiva.  500 quilômetros.  Ida e volta "
+    },
+    {
+        "Data": "20/07/2026",
+        "Data de Registro": "20/07/2026",
+        "Nome": "João ",
+        "BTF": 7,
+        "Frota": 44204,
+        "Distância": 150.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Transbordando madeira fazenda Sítio Santo Isidoro "
     }
 ]
