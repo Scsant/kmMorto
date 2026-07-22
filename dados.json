@@ -218,5 +218,15 @@
         "Distância": 80.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Fazenda Alambari sem recurso de carregamento frota foi para Gracifer carregar "
+    },
+    {
+        "Data": "22/07/2026",
+        "Data de Registro": "22/07/2026",
+        "Nome": "Paulo ",
+        "BTF": 4,
+        "Frota": 44080,
+        "Distância": 110.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "VDO Bauru, retorno fazenda "
     }
 ]
