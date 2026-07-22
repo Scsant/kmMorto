@@ -148,5 +148,15 @@
         "Distância": 150.0,
         "Local Macro": "Nenhum",
         "Motivo": "Transbordo madeira Fazenda Sítio Santo Isidoro "
+    },
+    {
+        "Data": "22/07/2026",
+        "Data de Registro": "22/07/2026",
+        "Nome": "Everson ferreira",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 146.9,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "44118 seguiu pra fazenda Katapri porém nao tinha madeira  então desviaram para fazenda globo"
     }
 ]
