@@ -308,5 +308,15 @@
         "Distância": 30.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Retornou pra automotiva, falha  freio estacionamento "
+    },
+    {
+        "Data": "25/07/2026",
+        "Data de Registro": "25/07/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44983,
+        "Distância": 90.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "VDO Bauru "
     }
 ]
