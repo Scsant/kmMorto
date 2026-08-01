@@ -358,5 +358,15 @@
         "Distância": 162.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Falha no freio"
+    },
+    {
+        "Data": "30/07/2026",
+        "Data de Registro": "01/08/2026",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44077,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Parou de funcionar o compressor "
     }
 ]
