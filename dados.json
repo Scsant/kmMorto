@@ -388,5 +388,15 @@
         "Distância": 145.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Frota 44098 buscou a carreta da Frota 44125 que precisou ser\nGuinchado "
+    },
+    {
+        "Data": "04/08/2026",
+        "Data de Registro": "04/08/2026",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44126,
+        "Distância": 121.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota 44126 buscou a carreta da Frota 44041 voltou cavalinho pra fábrica perca da água cabeçote "
     }
 ]
