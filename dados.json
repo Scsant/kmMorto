@@ -368,5 +368,15 @@
         "Distância": 200.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Parou de funcionar o compressor "
+    },
+    {
+        "Data": "03/08/2026",
+        "Data de Registro": "04/08/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 110003,
+        "Distância": 214.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm precisou voltar vazio por conta de ter corrido o eixo da última composição, Fazenda Santa Cruz III."
     }
 ]
