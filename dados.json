@@ -378,5 +378,15 @@
         "Distância": 214.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Cm precisou voltar vazio por conta de ter corrido o eixo da última composição, Fazenda Santa Cruz III."
+    },
+    {
+        "Data": "04/08/2026",
+        "Data de Registro": "04/08/2026",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44098,
+        "Distância": 145.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota 44098 buscou a carreta da Frota 44125 que precisou ser\nGuinchado "
     }
 ]
