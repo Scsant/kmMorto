@@ -438,5 +438,15 @@
         "Distância": 27.0,
         "Local Macro": "Teste Prático",
         "Motivo": "Teste a pedido da automotiva para verificar temperatura do caminhão "
+    },
+    {
+        "Data": "06/08/2026",
+        "Data de Registro": "06/08/2026",
+        "Nome": "",
+        "BTF": 2,
+        "Frota": 110015,
+        "Distância": 10.0,
+        "Local Macro": "Pit-stop",
+        "Motivo": "Caminhão com pneu furado deslocou ao pitstop para evitar socorro na rodovia"
     }
 ]
