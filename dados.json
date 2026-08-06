@@ -418,5 +418,15 @@
         "Distância": 122.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Cm 44121 teve problema de desatrelamento na fazenda tamanduá , veio apenas cavalinho para a fábrica para manutenção na quinta roda "
+    },
+    {
+        "Data": "06/08/2026",
+        "Data de Registro": "06/08/2026",
+        "Nome": "Everson Ferreira",
+        "BTF": 3,
+        "Frota": 44119,
+        "Distância": 122.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota 44119 foi buscar a carreta da Frota 44121 que teve desatrelamento na fazenda tamanduá "
     }
 ]
