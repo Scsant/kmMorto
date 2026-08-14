@@ -578,5 +578,15 @@
         "Distância": 45.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Automotiva pediu para trazer para Laponia de São Manoel "
+    },
+    {
+        "Data": "14/08/2026",
+        "Data de Registro": "14/08/2026",
+        "Nome": "Técnico Daniel Falco ",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 200.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Perca de potência "
     }
 ]
