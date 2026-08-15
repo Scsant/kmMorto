@@ -588,5 +588,15 @@
         "Distância": 200.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Perca de potência "
+    },
+    {
+        "Data": "15/08/2026",
+        "Data de Registro": "15/08/2026",
+        "Nome": "Everson Ferreira ",
+        "BTF": 3,
+        "Frota": 44107,
+        "Distância": 125.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota 44107 foi buscar a carreta carregada da Frota 44123 que será necessário guinchar a frota 44123"
     }
 ]
