@@ -598,5 +598,15 @@
         "Distância": 125.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Frota 44107 foi buscar a carreta carregada da Frota 44123 que será necessário guinchar a frota 44123"
+    },
+    {
+        "Data": "16/08/2026",
+        "Data de Registro": "16/08/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110013,
+        "Distância": 47.0,
+        "Local Macro": "Oficina Terceiro",
+        "Motivo": "Caminhão foi deslocado do pitstop a aoki mercedes Bauru para manutenção corretiva"
     }
 ]
