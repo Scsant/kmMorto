@@ -638,5 +638,15 @@
         "Distância": 80.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Radiador furado, necessário guincho "
+    },
+    {
+        "Data": "18/08/2026",
+        "Data de Registro": "18/08/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44099,
+        "Distância": 145.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar a carreta do 44071 \n\n44071 retornou no guincho "
     }
 ]
