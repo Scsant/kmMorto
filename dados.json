@@ -618,5 +618,15 @@
         "Distância": 91.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Caminhão teve que deslocar da fazenda até automotiva devido a quebra de eixo da carreta foi feito socorro no local para chegar na automotiva "
+    },
+    {
+        "Data": "18/08/2026",
+        "Data de Registro": "18/08/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44079,
+        "Distância": 140.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Falha na transmissão, foi necessário guincho "
     }
 ]
