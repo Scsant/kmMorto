@@ -608,5 +608,15 @@
         "Distância": 47.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Caminhão foi deslocado do pitstop a aoki mercedes Bauru para manutenção corretiva"
+    },
+    {
+        "Data": "17/08/2026",
+        "Data de Registro": "18/08/2026",
+        "Nome": "Diego Henrique de campos ",
+        "BTF": 2,
+        "Frota": 44023,
+        "Distância": 91.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Caminhão teve que deslocar da fazenda até automotiva devido a quebra de eixo da carreta foi feito socorro no local para chegar na automotiva "
     }
 ]
