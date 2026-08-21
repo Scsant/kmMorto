@@ -648,5 +648,15 @@
         "Distância": 145.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi buscar a carreta do 44071 \n\n44071 retornou no guincho "
+    },
+    {
+        "Data": "21/08/2026",
+        "Data de Registro": "21/08/2026",
+        "Nome": "Everson ",
+        "BTF": 3,
+        "Frota": 44118,
+        "Distância": 250.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Frota 44118 buscou a carreta que estava cm 44122 que precisou ser guinchado "
     }
 ]
