@@ -668,5 +668,15 @@
         "Distância": 135.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "CM apresentou falha elétrica na fazenda Bom Retiro, foi orientado a retornar para fábrica vazio "
+    },
+    {
+        "Data": "20/08/2026",
+        "Data de Registro": "21/08/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44094,
+        "Distância": 55.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Técnico da Volvo solicitou pra realizar teste pra ver se o cargueiro está apresentando falha "
     }
 ]
