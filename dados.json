@@ -678,5 +678,15 @@
         "Distância": 55.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Técnico da Volvo solicitou pra realizar teste pra ver se o cargueiro está apresentando falha "
+    },
+    {
+        "Data": "24/08/2026",
+        "Data de Registro": "24/08/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44117,
+        "Distância": 100.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Desvio bom retiro l para Querência falta de madeira finalização "
     }
 ]
