@@ -728,5 +728,15 @@
         "Distância": 183.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Santa Martha x Santa Silvia "
+    },
+    {
+        "Data": "28/08/2026",
+        "Data de Registro": "30/08/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 310002,
+        "Distância": 300.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Caminhão retornou vazio para fabrica"
     }
 ]
