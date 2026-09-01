@@ -738,5 +738,15 @@
         "Distância": 300.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Caminhão retornou vazio para fabrica"
+    },
+    {
+        "Data": "31/08/2026",
+        "Data de Registro": "01/09/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44127,
+        "Distância": 145.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Cm desviado da Fazenda Santa Maria Ocauçu , para fazenda São Marcelo II em Cabralia Paulista.\nMotivo por conta da forte chuva."
     }
 ]
