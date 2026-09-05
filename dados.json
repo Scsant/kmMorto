@@ -818,5 +818,15 @@
         "Distância": 160.0,
         "Local Macro": "Automotiva 1",
         "Motivo": "Caminhão teve quebra do eixo da carreta precisou voltar vazio da fazenda Querência até automotiva "
+    },
+    {
+        "Data": "05/09/2026",
+        "Data de Registro": "05/09/2026",
+        "Nome": "Eliseu Aparecido Da Silva ",
+        "BTF": 6,
+        "Frota": 44156,
+        "Distância": 160.0,
+        "Local Macro": "Automotiva 1",
+        "Motivo": "Devido a falha precisou retornar para oficina "
     }
 ]
