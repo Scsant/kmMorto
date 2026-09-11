@@ -838,5 +838,15 @@
         "Distância": 100.0,
         "Local Macro": "Nenhum",
         "Motivo": "Quebra do caminhão na rodovia "
+    },
+    {
+        "Data": "11/09/2026",
+        "Data de Registro": "11/09/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44051,
+        "Distância": 71.3,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste prático instrutor"
     }
 ]
