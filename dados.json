@@ -968,5 +968,15 @@
         "Distância": 90.0,
         "Local Macro": "Nenhum",
         "Motivo": "CM rebocado fazenda Canaã devido quebra mecanica"
+    },
+    {
+        "Data": "21/09/2026",
+        "Data de Registro": "23/09/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110008,
+        "Distância": 270.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Desvio da fazenda mata do meio para Canaã \n"
     }
 ]
