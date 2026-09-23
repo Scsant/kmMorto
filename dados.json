@@ -948,5 +948,15 @@
         "Distância": 270.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão teve problema na Fazenda Magnólia,  foi guinchado para Lapônia em Itu."
+    },
+    {
+        "Data": "21/09/2026",
+        "Data de Registro": "23/09/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44017,
+        "Distância": 160.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Por Condições Climática,  cm foi desviado da Fazenda Flecha Azul Boa Esperança do Sul, para fazenda Canaã Avai."
     }
 ]
