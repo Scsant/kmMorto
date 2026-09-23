@@ -958,5 +958,15 @@
         "Distância": 160.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Por Condições Climática,  cm foi desviado da Fazenda Flecha Azul Boa Esperança do Sul, para fazenda Canaã Avai."
+    },
+    {
+        "Data": "22/09/2026",
+        "Data de Registro": "23/09/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44117,
+        "Distância": 90.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "CM rebocado fazenda Canaã devido quebra mecanica"
     }
 ]
