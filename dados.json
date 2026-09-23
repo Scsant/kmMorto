@@ -928,5 +928,15 @@
         "Distância": 302.0,
         "Local Macro": "Nenhum",
         "Motivo": "CM PRECISOU SER GUINCHADO DE SÃO MIGUEL ARCANJO PARA ITU DEVIDO A QUEBRA MECANCA "
+    },
+    {
+        "Data": "16/09/2026",
+        "Data de Registro": "23/09/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44113,
+        "Distância": 240.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão teve problema no Trajeto da Magnólia,  foi guinchado para Lapônia em Itu."
     }
 ]
