@@ -938,5 +938,15 @@
         "Distância": 240.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão teve problema no Trajeto da Magnólia,  foi guinchado para Lapônia em Itu."
+    },
+    {
+        "Data": "16/09/2026",
+        "Data de Registro": "23/09/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44111,
+        "Distância": 270.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Caminhão teve problema na Fazenda Magnólia,  foi guinchado para Lapônia em Itu."
     }
 ]
