@@ -1058,5 +1058,15 @@
         "Distância": 70.0,
         "Local Macro": "Oficina Terceiro",
         "Motivo": "Preventiva Volvo São Manoel "
+    },
+    {
+        "Data": "30/09/2026",
+        "Data de Registro": "30/09/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110014,
+        "Distância": 55.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "AOKI bauru"
     }
 ]
