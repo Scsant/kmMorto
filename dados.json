@@ -1098,5 +1098,15 @@
         "Distância": 110.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Socorro no trajeto carregado faz São José foi necessário guincho "
+    },
+    {
+        "Data": "09/10/2026",
+        "Data de Registro": "09/10/2026",
+        "Nome": "Paulo Boaventura ",
+        "BTF": 4,
+        "Frota": 44072,
+        "Distância": 95.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Foi buscar carreta do 44076 "
     }
 ]
