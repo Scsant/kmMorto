@@ -1218,5 +1218,15 @@
         "Distância": 170.0,
         "Local Macro": "Nenhum",
         "Motivo": "Caminhão quebrou câmbio "
+    },
+    {
+        "Data": "10/10/2026",
+        "Data de Registro": "11/10/2026",
+        "Nome": "Diego henque de campos",
+        "BTF": 2,
+        "Frota": 44110,
+        "Distância": 160.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Devido chuva voltou vazio fábrica sem oportunidade de fazenda "
     }
 ]
