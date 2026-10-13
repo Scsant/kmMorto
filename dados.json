@@ -1248,5 +1248,15 @@
         "Distância": 100.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Frota foi desviada da Fazenda Santa Martha Ocauçu, para Fazenda Shangrila Bauru.\n(Motivo Bloqueio por Chuva)"
+    },
+    {
+        "Data": "13/10/2026",
+        "Data de Registro": "13/10/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44108,
+        "Distância": 195.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Frota foi desviada da Fazenda Santa Martha Ocauçu, para Fazenda Turvo III Lencois Paulista.\n(Motivo Bloqueio por Chuva)"
     }
 ]
