@@ -1228,5 +1228,15 @@
         "Distância": 160.0,
         "Local Macro": "Nenhum",
         "Motivo": "Devido chuva voltou vazio fábrica sem oportunidade de fazenda "
+    },
+    {
+        "Data": "13/10/2026",
+        "Data de Registro": "13/10/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44023,
+        "Distância": 100.0,
+        "Local Macro": "Desvio de Fazenda",
+        "Motivo": "Frota foi desviada da Fazenda Santa Martha Ocauçu, para Fazenda Shangrila Bauru.\n(Motivo Bloqueio por Chuva)"
     }
 ]
