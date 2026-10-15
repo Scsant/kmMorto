@@ -1268,5 +1268,15 @@
         "Distância": 195.0,
         "Local Macro": "Desvio de Fazenda",
         "Motivo": "Frota foi desviada da Fazenda Santa Martha Ocauçu, para Fazenda Turvo III Lencois Paulista.\n(Motivo Bloqueio por Chuva)"
+    },
+    {
+        "Data": "15/10/2026",
+        "Data de Registro": "15/10/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 310002,
+        "Distância": 90.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste manutenção "
     }
 ]
