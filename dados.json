@@ -1278,5 +1278,15 @@
         "Distância": 90.0,
         "Local Macro": "Nenhum",
         "Motivo": "Teste manutenção "
+    },
+    {
+        "Data": "15/10/2026",
+        "Data de Registro": "15/10/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44110,
+        "Distância": 40.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste manutenção "
     }
 ]
