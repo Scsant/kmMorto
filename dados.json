@@ -1318,5 +1318,15 @@
         "Distância": 130.0,
         "Local Macro": "Nenhum",
         "Motivo": "Teste manutenção , depois seguiu para concessionária "
+    },
+    {
+        "Data": "21/10/2026",
+        "Data de Registro": "21/10/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110013,
+        "Distância": 30.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste manutenção "
     }
 ]
