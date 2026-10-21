@@ -1308,5 +1308,15 @@
         "Distância": 150.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Foi liberado da automotiva no trajeto apresentou problema no câmbio novamente e retornou vazio."
+    },
+    {
+        "Data": "21/10/2026",
+        "Data de Registro": "21/10/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110014,
+        "Distância": 130.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Teste manutenção , depois seguiu para concessionária "
     }
 ]
