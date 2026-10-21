@@ -1328,5 +1328,15 @@
         "Distância": 30.0,
         "Local Macro": "Nenhum",
         "Motivo": "Teste manutenção "
+    },
+    {
+        "Data": "18/10/2026",
+        "Data de Registro": "21/10/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110004,
+        "Distância": 100.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Concessionária Mercedes "
     }
 ]
