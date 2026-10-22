@@ -1358,5 +1358,15 @@
         "Distância": 354.0,
         "Local Macro": "Nenhum",
         "Motivo": "Manutenção fazenda Santa martha lll"
+    },
+    {
+        "Data": "22/10/2026",
+        "Data de Registro": "22/10/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44053,
+        "Distância": 100.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Tacógrafo/manutenção"
     }
 ]
