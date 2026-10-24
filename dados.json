@@ -1408,5 +1408,15 @@
         "Distância": 30.0,
         "Local Macro": "Nenhum",
         "Motivo": "Teste automotiva"
+    },
+    {
+        "Data": "24/10/2026",
+        "Data de Registro": "24/10/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 310002,
+        "Distância": 148.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Manutenção/guincho"
     }
 ]
