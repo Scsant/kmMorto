@@ -1378,5 +1378,15 @@
         "Distância": 100.0,
         "Local Macro": "Nenhum",
         "Motivo": "Tacógrafo "
+    },
+    {
+        "Data": "23/10/2026",
+        "Data de Registro": "24/10/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44063,
+        "Distância": 55.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Manutenção/guincho"
     }
 ]
