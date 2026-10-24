@@ -1388,5 +1388,15 @@
         "Distância": 55.0,
         "Local Macro": "Nenhum",
         "Motivo": "Manutenção/guincho"
+    },
+    {
+        "Data": "24/10/2026",
+        "Data de Registro": "24/10/2026",
+        "Nome": "Murilo Julio",
+        "BTF": 2,
+        "Frota": 44023,
+        "Distância": 20.0,
+        "Local Macro": "Socorro(Guincho)",
+        "Motivo": "Cm precisou voltar vazio do pedágio de Agudos, até automotiva. Cm apresentando falha no sistema de freio do cavalo."
     }
 ]
