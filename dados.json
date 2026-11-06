@@ -58,5 +58,15 @@
         "Distância": 35.0,
         "Local Macro": "Nenhum",
         "Motivo": "Liberado concessionária "
+    },
+    {
+        "Data": "05/11/2026",
+        "Data de Registro": "06/11/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 44110,
+        "Distância": 230.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Liberado concessionária "
     }
 ]
