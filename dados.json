@@ -28,5 +28,15 @@
         "Distância": 74.0,
         "Local Macro": "Socorro(Guincho)",
         "Motivo": "Caminhão apresentou falha no sistema de freio, quando estava sentido a fazenda Coco Doce. Retornou no trevo próximo a Mercedes em Bauru. Veio direto para Automotiva."
+    },
+    {
+        "Data": "05/11/2026",
+        "Data de Registro": "06/11/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110014,
+        "Distância": 50.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Liberado concessionária "
     }
 ]
