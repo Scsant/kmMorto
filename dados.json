@@ -108,5 +108,15 @@
         "Distância": 55.0,
         "Local Macro": "Nenhum",
         "Motivo": "Concessionária "
+    },
+    {
+        "Data": "17/11/2026",
+        "Data de Registro": "18/11/2026",
+        "Nome": "Diego Henrique de campos",
+        "BTF": 2,
+        "Frota": 110004,
+        "Distância": 260.0,
+        "Local Macro": "Nenhum",
+        "Motivo": "Manutenção fazenda concessionária "
     }
 ]
